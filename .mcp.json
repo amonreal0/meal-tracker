@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@playwright/mcp@latest",
+        "--user-data-dir",
+        "C:\\Users\\anton\\Documents\\meal-tracker\\freshdirect\\browser-profile",
+        "--output-dir",
+        "C:\\Users\\anton\\Documents\\meal-tracker\\.playwright-mcp"
+      ]
+    }
+  }
+}

@@ -1,0 +1,6 @@
+# Browser profile holds FreshDirect login cookies — never commit it.
+freshdirect/browser-profile/
+
+# Transient Playwright automation dumps (page snapshots, console logs, screenshots).
+# Regenerated every browser session; no lasting value. Safe to delete anytime.
+.playwright-mcp/
