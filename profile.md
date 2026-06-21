@@ -13,9 +13,17 @@
   **spoilage and over-buying are the main enemy.**
 
 ## Standing shopping preferences
+- **Pickled jalapeños = standing staple.** He uses the peppers/brine as his **acid in salads**
+  and prefers it to red wine vinegar (2026-06-14). Keep stocked; you can lean on jalapeños over
+  red wine vinegar in salad dressings from now on.
+- **Appled out (as of 2026-06-14).** Rotate the "lasting fruit" away from apples for now —
+  oranges/mandarins/grapes instead. Revisit apples later.
 - **Flowers ~once a month.** FreshDirect included flowers as a first-order gift (2026-06-07)
   and he liked it — add a flower bunch to roughly one cart per month. Last added: 2026-06-07.
   When building a cart, check whether it's been ~a month since the last flowers and offer to add them.
+- **Fast-fruit rotation.** Raspberries are a favorite but **only ~every other week** so they
+  don't get routine. On the off weeks, rotate other fast fruit — **cherries, strawberries**,
+  grapes, etc. Don't buy raspberries two weeks running. (Cherries used week of 2026-06-15.)
 - Reorder favorites: FreshDirect raspberries and avocados were standouts (see `pantry.md`).
 
 ## Equipment
@@ -29,7 +37,8 @@
 
 ## Taste profile (derived from what he picked)
 - **Spicy / savory / acidic:** chipotle, chile, salsa, harissa, spicy mayo, garlic-chili,
-  artichoke-jalapeño, chili crisp, chopped salads.
+  artichoke-jalapeño, chili crisp, chopped salads. **Pickled jalapeños double as his salad
+  acid** (preferred over red wine vinegar).
 - **Crispy things:** fish tacos, crispy tofu, crispy chickpeas, crispy rice, BLT, chile relleno.
 - **Fresh + rich combinations:** avocado, arugula, mozzarella, tomato, cucumber salad,
   creamy/spicy sauces.

@@ -6,9 +6,9 @@ effort: low
 time_minutes: 35
 equipment: [stovetop]
 tags: [indian, vegetarian, spicy, legumes, leftover-friendly]
-times_made: 0
-last_made: null
-rating: null
+times_made: 1
+last_made: 2026-06-14
+rating: 2
 ---
 
 # Chana masala with naan
@@ -46,4 +46,7 @@ naan and/or rice.
 on top (once eggs are restocked).
 
 ## Feedback log
-- (empty — add a dated note after you cook it)
+- 2026-06-14 — **Miss.** Ate it as "chickpeas and tomatoes," never came together as a cohesive
+  dish. Wants something heartier/more cohesive — **lentils instead of chickpeas**. Don't re-plan
+  as-is; pivot the saucy/stew slot to a lentil dish (lentil soup w/ lemon+herbs, or lentil
+  sausage soup). If chickpeas ever return, they need more body/spice integration, not chana.

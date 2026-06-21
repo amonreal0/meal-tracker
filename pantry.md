@@ -16,13 +16,14 @@ in the apartment.
 - [ ] Canned chipotles in adobo — used the whole can, rebuy
 - [x] Harissa paste
 - [x] Chili crisp / chili oil (Lao Gan Ma, Fly By Jing, Momofuku…)
-- [ ] Pickled jalapeños
+- [x] Pickled jalapeños — **on hand (2026-06-14).** Standing staple; he uses them/their brine as
+  his salad acid (prefers to red wine vinegar). Don't rebuy until he says he's low.
 - [ ] Artichoke hearts (for the artichoke-jalapeño sandwich sauce)
 - [x] Mayo (on hand)
 - [ ] Dijon mustard — on order (arrives Wed 6/17)
 - [x] Soy sauce
 - [x] Rice vinegar
-- [ ] Red wine vinegar
+- [ ] Red wine vinegar — lower priority now; he subs pickled jalapeños for salad acid (2026-06-14)
 
 ## Dry goods
 - [x] Couscous (unopened — never used last week)
@@ -71,6 +72,11 @@ in the apartment.
 - [ ] Salsa verde / tomatillo salsa
 
 ## Notes
+- **On hand as of 2026-06-14 (do NOT rebuy this cycle):** broccoli, pickled jalapeños, garlic.
+  (Were auto-added to the 06-15 cart, then removed.) Garlic + jalapeños last a while — assume
+  on hand unless he says otherwise.
+- **1 block extra-firm tofu on hand (uncooked)** as of 2026-06-14 — bought for the 06-14 week
+  but never cooked. Use it this coming week (crispy tofu chili-garlic) so it doesn't sit.
 - 2026-06-07 order: FreshDirect **raspberries** and **avocados** were highlights — good
   produce sources, reorder these. FD threw in free first-order gifts (the berries/avocados
   plus flowers).

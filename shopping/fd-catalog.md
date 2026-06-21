@@ -23,18 +23,31 @@ How to use:
 | Garlic | Garlic, 1 head | $3.49 | |
 | Cilantro | Organic Cilantro, bunch | $2.49 | |
 | Arugula | Olivia's Organics Baby Arugula, ~5 oz | $4.29 | |
-| Cherry tomatoes | Mixed Cherry Tomatoes, ~10 oz pint | $5.99 | |
+| Cherry tomatoes | **Plain cherry tomatoes, ~1 pint** (NOT a medley/mixed-color pack) | ~$5.99 | He didn't love the medley/small-tomato mix from the 06-14 order — wants straight cherry tomatoes. |
 | Lemon | Lemons (loose) | $0.89 ea | UI added in qty 2; hard to set to 1 |
 | Broccoli | Broccoli Crowns (loose) | $2.49 ea | UI added in qty 2; hard to set to 1 |
-| Raspberries | FreshDirect Raspberries (house brand), ~6 oz | $3.99 | user-approved favorite |
+| Raspberries | FreshDirect Raspberries (house brand), ~6 oz | $3.49–3.99 | user-approved favorite (seen on sale at $3.49) |
 | Apples (lasting fruit) | Organic Pink Lady Apples, 4 ct (~2 lb) | $5.99 | |
 | Avocados | Hass Avocado (loose) | $1.99 ea | |
 | Frozen naan | Atoria's Family Bakery Traditional Naan, Frozen, 2 ct (10 oz) | $4.79 | |
 | Garam masala | Morton & Bassett Garam Masala, 1.9 oz | $12.99 | pricey ($6.84/oz) but only real garam masala in results; lasts a long time |
 | Red wine vinegar | Colavita Red Wine Vinegar (Aged), 17 fl oz | $5.59 | staple, lasts |
 | Chipotles in adobo | Goya Chipotle Peppers in Adobo Sauce, 7 oz | $2.99 | pantry restock |
-| Pickled jalapeños | Cento Sliced Jalapeño Peppers, 12 oz | $3.79 | staple |
+| Pickled jalapeños | Cento Sliced Jalapeño Peppers, 12 oz | $3.79–4.99 | staple; his preferred salad acid |
 | Mayonnaise | Hellmann's Mayonnaise Squeeze Bottle, 11.5 fl oz | $5.99 | smallest standard size |
 | Dijon mustard | Grey Poupon Dijon Mustard, 10 oz | $5.29 | classic; skip white-wine/country variants |
+| Italian sausage | Hickory Nut Gap Pasture-Raised Heritage Hot Italian Sausage, 12 oz | $6.49 | hot pork; a "Mild" version of the same line exists |
+| Bacon | North Country Smokehouse Organic Applewood Smoked Uncured Bacon, 8 oz | $8.29 | smallest clean 8 oz pack |
+| Brown/green lentils | Goya Lentils, Dry (brown), 16 oz | $1.99 | plain 1 lb bag, no soak needed |
+| Chicken broth | Pacific Organic Free-Range Low-Sodium Chicken Broth, 32 fl oz | $3.69 | 1 qt low-sodium |
+| Carrots | Jumbo Carrots, loose (by lb) | ~$2.59/lb | |
+| Celery | Organic Celery Hearts, 2 ct | $4.49 | smallest celery unit |
+| Slicing tomatoes | Tomatoes on the Vine, loose (by lb) | ~$4.49/lb | UI min qty ~3 |
+| Romaine | Organic Romaine, head | $2.99–3.49 | single head; sturdier than arugula |
+| Avocados | Hass Avocado (loose) | $1.99 ea | (also listed above) |
+| Scallions | Scallions, ~6 oz bunch | $1.99 | |
+| Fresh ginger | Organic Ginger Root, ~6 oz | $4.39 | sold by piece |
+| Oranges (lasting fruit) | Navel Orange (loose) | ~$1.79 ea | UI min qty 2; watch for "4 for $4" |
+| Sandwich bread | Just FreshDirect All-Natural Sourdough, 16 oz / 12 slices | $5.49 | pre-sliced; Bread Alone SF Sourdough 22 oz ($7.69) is the nicer/larger option |
 
 <!-- Add real product URLs/IDs on a future order to make reordering one-click. -->

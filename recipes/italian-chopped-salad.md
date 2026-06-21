@@ -6,9 +6,9 @@ effort: low
 time_minutes: 15
 equipment: [no-cook]
 tags: [italian, salad, no-cook, legumes, salami]
-times_made: 0
-last_made: null
-rating: null
+times_made: 1
+last_made: 2026-06-14
+rating: 5
 ---
 
 # Italian chopped salad with salami, provolone, chickpeas
@@ -40,4 +40,6 @@ week's sandwich backup so nothing goes to waste.
 → the no-cook sandwich backup.
 
 ## Feedback log
-- (empty)
+- 2026-06-14 — **Fantastic.** A keeper no-cook dinner — the salami + provolone + arugula combo
+  landed. Used **pickled jalapeños (and their brine) as the acid instead of red wine vinegar**
+  and loved it; default to jalapeños here going forward. Keep this in steady rotation.

@@ -18,8 +18,8 @@ existing recipe). Candidates are untested guesses worth proposing.
 - Harissa chicken thighs with couscous + cucumber salad *(→ recipe written)*
 - Turkey sandwich with artichoke-jalapeño sauce
 - Salami, mozzarella, tomato, arugula sandwich
-- BLT with avocado and spicy mayo
-- Lentil sausage soup
+- BLT with avocado and spicy mayo *(→ recipe written)*
+- Lentil sausage soup *(→ recipe written)*
 
 ### Artichoke-jalapeño sandwich sauce (reference)
 Blend/chop: artichokes + mayo or Greek yogurt + pickled jalapeños + lime + black pepper +

@@ -15,14 +15,20 @@ so it can judge which search result is the *right* product. Checkout always stay
 
 ## Procedure (what Claude does when you say "build my FreshDirect cart")
 1. Read the current week file's grocery list (`weeks/<latest>.md`).
-2. For each item:
+2. **Draft the proposed cart FIRST, before touching the browser.** Write `freshdirect/order.md`
+   as a *proposed* cart: for each item, the product you intend to buy (from `shopping/fd-catalog.md`
+   if known, otherwise "will search for X"), qty, est. price, and which items are skipped as
+   on-hand. **Show this to the user and get approval before filling the cart.** This is the
+   review gate — the user wants to see what's being bought *before* the cart fills, not after.
+   (Skip the wait only if he explicitly says "just fill it".)
+3. Once approved, drive the browser. For each item:
    - Check `shopping/fd-catalog.md`. If it's a **known product**, navigate straight to it.
    - If **unknown**, search FreshDirect, read the results, and pick the genuinely correct
      product (right thing, sane size for one person) — not just the first hit. When unsure
      between options, ask the user.
    - Add to cart. For any new product, **record it in `shopping/fd-catalog.md`.**
-3. Write the resulting cart to `freshdirect/order.md` (items, products, est. quantities).
-4. **STOP at the filled cart.** Do not check out. Hand back to the user for delivery window,
+4. Update `freshdirect/order.md` to the *actual* filled cart (final products, qty, prices).
+5. **STOP at the filled cart.** Do not check out. Hand back to the user for delivery window,
    payment, and placing the order.
 
 ## Delivery notes (from FreshDirect)

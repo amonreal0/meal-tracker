@@ -31,6 +31,14 @@ Format:
   isn't emptied in a week), and surface the assumptions explicitly so they're cheap to fix.
   Proactive-but-transparent beats either asking everything or silently guessing.
 
+- 2026-06-14 — **Correction.** Filled the FreshDirect cart in one shot, then showed him what
+  was bought. He'd rather see the **proposed buy list before the cart fills** (and it belongs in
+  `order.md`). Also auto-bought broccoli/jalapeños/garlic he already had.
+  **Principle:** For steps that spend money or are tedious to undo, propose-then-execute: show
+  the concrete list for a quick yes before acting, don't act-then-report. Same spirit as plan
+  approval gating the buy. And cross-check `pantry.md` before adding staples — durable items
+  (garlic, jarred peppers, oils) are probably already on hand; default to *not* rebuying them.
+
 - 2026-06-13 — **Correction.** When asked to "plan next week," jumped straight to a finished
   plan. He'd have preferred a collaborative lead-in: check how he's feeling that week and *sell*
   him on the dinner options before committing. Led to adding two planning modes in CLAUDE.md.
