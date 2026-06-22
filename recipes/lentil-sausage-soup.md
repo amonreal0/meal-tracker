@@ -3,19 +3,20 @@ name: Lentil sausage soup
 family: saucy-stew
 servings: 2
 effort: low
-time_minutes: 40
+time_minutes: 70
 equipment: [stovetop]
-tags: [soup, legumes, lentils, sausage, leftover-friendly, savory]
-times_made: 0
-last_made: null
-rating: null
+tags: [soup, legumes, lentils, sausage, leftover-friendly, savory, staple]
+times_made: 1
+last_made: 2026-06-17
+rating: 5
 ---
 
 # Lentil sausage soup
 
 Makes **2 servings + leftovers**. The cohesive, meaty answer to "chana felt like chickpeas and
-tomatoes." Lentils need **no soaking** — straight from the bag, tender in ~25–30 min. Total
-~40 min, mostly hands-off simmering.
+tomatoes." Lentils need **no soaking** — straight from the bag. **Budget ~55–60 min of simmering**
+(the printed 25–30 was optimistic — see feedback log), so plan ~70 min total, mostly hands-off.
+A confirmed staple as of 2026-06-17.
 
 ## Ingredients
 - 1 tbsp olive oil *(on hand)*
@@ -37,8 +38,9 @@ tomatoes." Lentils need **no soaking** — straight from the bag, tender in ~25�
 ## Method
 1. Heat oil, brown the sausage, breaking it up, ~5–6 min. Remove most rendered fat if heavy.
 2. Add onion, carrot, celery; cook 5 min until softening. Add garlic + cumin, 30–60 sec.
-3. Add lentils, tomatoes, broth, bay leaf. Bring to a boil, then simmer 25–30 min until
-   lentils are tender. Add broth/water if it gets too thick.
+3. Add lentils, tomatoes, broth, bay leaf. Bring to a boil, then simmer **~55–60 min** until
+   lentils are fully tender — start checking at 30 but expect it to need longer. The tomato's
+   acidity slows lentils down; keep a little extra broth/water handy and add as it thickens.
 4. Season with salt/pepper. Finish with lemon juice and herbs.
 5. Top bowls with pickled jalapeños.
 
@@ -46,4 +48,6 @@ tomatoes." Lentils need **no soaking** — straight from the bag, tender in ~25�
 reheating. Even better day two.
 
 ## Feedback log
-- (empty — add a dated note after you cook it)
+- 2026-06-17 — **Excellent. Promote to staple rotation.** Only fix: lentils needed ~30 min
+  *more* simmering than the recipe's 25–30 (so ~55–60 total) to get fully tender. Recipe times
+  updated. Likely the acidic tomatoes + lentil age; not a problem, just budget the time. Rated 5.

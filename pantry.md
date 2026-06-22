@@ -4,6 +4,11 @@ Update this when staples are bought or run out. The "starter pantry" below is th
 **target** set recommended for this taste profile; check off / annotate what's actually
 in the apartment.
 
+## Current fridge (as of 2026-06-21, his report)
+- **Bread**, **scallions**, **lemons**, **1 onion**, **celery**, **garlic**, **pickled jalapeños**.
+- **2 heads broccoli** — unused, no planned purpose. Don't rebuy; use up or toss. (See note: broccoli retired.)
+- Use the scallions soon (don't last). Onion/celery/garlic/lemons/jalapeños all keep a while.
+
 ## On hand (as of week of 2026-06-07, after first order)
 - **Fresh leftovers:** ginger, scallions, **garlic**, **cilantro**, mayo (enough that the
   2026-06-14 order dropped these). Use ginger/scallions/cilantro soon — they don't last.
@@ -72,9 +77,10 @@ in the apartment.
 - [ ] Salsa verde / tomatillo salsa
 
 ## Notes
-- **On hand as of 2026-06-14 (do NOT rebuy this cycle):** broccoli, pickled jalapeños, garlic.
-  (Were auto-added to the 06-15 cart, then removed.) Garlic + jalapeños last a while — assume
-  on hand unless he says otherwise.
+- **Broccoli retired (2026-06-21).** Kept accumulating unused (2 heads still in the fridge). Stop
+  buying it as a side/filler. Pickled jalapeños + garlic still assumed on hand (they last).
+- **Cilantro retired (2026-06-21).** He barely used it and it wilted. Default herb = parsley, often
+  skip entirely.
 - **1 block extra-firm tofu on hand (uncooked)** as of 2026-06-14 — bought for the 06-14 week
   but never cooked. Use it this coming week (crispy tofu chili-garlic) so it doesn't sit.
 - 2026-06-07 order: FreshDirect **raspberries** and **avocados** were highlights — good

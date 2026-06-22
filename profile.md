@@ -6,8 +6,10 @@
 - Grew up in Mexico; loves salsas and fried food.
 - Reasonably proficient cook, but prefers recipes that **don't take too long**.
 - Wants to eat more **salads** and more **fruit**.
-- No breakfast or lunch at home on weekdays. Usually not cooking on weekends either, though
-  occasionally open to it — don't overbuy for weekend meals.
+- No breakfast or lunch at home on weekdays. **Increasingly cooking on weekends to use up
+  leftover ingredients** — he's enjoying cooking more (2026-06-21). Still don't *plan* full
+  weekend dinners or overbuy for them, but a little produce/protein slack is now welcome rather
+  than pure waste: leftover odds-and-ends become his weekend cooking.
 - Budget is not a major concern.
 - Groceries come via delivery (**FreshDirect** is primary). Single-person household, so
   **spoilage and over-buying are the main enemy.**
@@ -24,7 +26,18 @@
 - **Fast-fruit rotation.** Raspberries are a favorite but **only ~every other week** so they
   don't get routine. On the off weeks, rotate other fast fruit — **cherries, strawberries**,
   grapes, etc. Don't buy raspberries two weeks running. (Cherries used week of 2026-06-15.)
+- **Cherries = high-value snack fruit (2026-06-21).** He snacked on them all week and felt he got
+  a lot of value; worth the price. Keep them high in the fast-fruit rotation.
 - Reorder favorites: FreshDirect raspberries and avocados were standouts (see `pantry.md`).
+- **Avocado = standing useful item (2026-06-21).** Beyond the BLT, he likes having one around all
+  week for its versatility. Default to one avocado on most carts (still **2 max**).
+- **Skip cilantro (2026-06-21).** Uses too little to justify it, doesn't think it adds much, and
+  ends up with a wilting bunch. **Default to parsley as the one herb; don't buy cilantro** unless
+  he asks — sub parsley (or just skip the herb) in recipes that call for it.
+- **Skip broccoli (2026-06-21).** Keeps accumulating unused heads. Don't add broccoli as a side
+  or filler.
+- **Tortillas: Vista Hermosa, never Mission (2026-06-21).** He really dislikes Mission tortillas —
+  do not buy them. Default to **Vista Hermosa** (corn).
 
 ## Equipment
 - Air fryer
@@ -66,7 +79,7 @@ Don't buy a giant "healthy haul." Buy ingredients that **overlap across the week
 and within produce aim for roughly:
 - **one delicate green** (spinach / arugula)
 - **one sturdy vegetable** (cabbage, etc.)
-- **one herb** (cilantro *or* parsley, rarely both)
+- **one herb** — **parsley** (cilantro retired 2026-06-21; he barely used it). Often skippable.
 - **one fast-spoiling fruit** (berries, grapes, mango)
 - **one lasting fruit** (apples, oranges, mandarins)
 - avocados: 2 max, not 4.

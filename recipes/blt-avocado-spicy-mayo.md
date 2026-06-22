@@ -6,9 +6,9 @@ effort: low
 time_minutes: 15
 equipment: [stovetop, air-fryer]
 tags: [sandwich, no-cook, low-cook, bacon, avocado, spicy]
-times_made: 0
-last_made: null
-rating: null
+times_made: 1
+last_made: 2026-06-19
+rating: 5
 ---
 
 # BLT with avocado and spicy mayo
@@ -40,4 +40,6 @@ not a snack.
 if you want more heat/acid.
 
 ## Feedback log
-- (empty)
+- 2026-06-19 — **Really good and convenient — a keeper.** The avocado was a highlight; he liked
+  having one around all week for its versatility, not just the sandwich. Keep an avocado on most
+  carts as a standing-useful item. Rated 5.

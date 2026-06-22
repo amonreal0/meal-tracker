@@ -39,6 +39,23 @@ Format:
   approval gating the buy. And cross-check `pantry.md` before adding staples — durable items
   (garlic, jarred peppers, oils) are probably already on hand; default to *not* rebuying them.
 
+- 2026-06-21 — **Correction (cart-building went sideways).** I delegated the mechanical
+  search-and-add to a **subagent**, which ran, populated ~11 items, then got **stuck** on FreshDirect
+  popups (a cod quantity/customization modal + the "Add to your existing order or start a new bag?"
+  modal) and on the noodle search — and it dumped **25 `snap*.md` snapshot files into the repo root**.
+  I also (a) burned steps retrying a dead search URL (`searchParams=` silently returns nothing; the
+  real param is `search=`), and (b) wrongly recorded the cart as "pre-populated by you/a prior session"
+  when it was the subagent. He ended up swapping tortillas and checking out by hand.
+  **Principles:**
+  • **Do mechanical browser work inline, not via a subagent** — site popups need live judgment a
+    subagent stalls on. Reserve subagents for read-heavy research, not click-by-click flows.
+  • **Handle the FD "existing order vs new bag" popup** by clicking **"Add to order"** (never "Start
+    new bag" — that wipes the cart). Expect a "Try This" upsell popup after adds; dismiss it.
+  • **When an approach fails ~twice, switch tactics** instead of retrying variations.
+  • **Write scratch/snapshot files to a subfolder (e.g. `.playwright-mcp/`), never the repo root.**
+  • **Trust the observed state + the user's account over my assumptions** — don't narrate a guessed
+    history as fact.
+
 - 2026-06-13 — **Correction.** When asked to "plan next week," jumped straight to a finished
   plan. He'd have preferred a collaborative lead-in: check how he's feeling that week and *sell*
   him on the dinner options before committing. Led to adding two planning modes in CLAUDE.md.

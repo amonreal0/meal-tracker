@@ -9,7 +9,7 @@ existing recipe). Candidates are untested guesses worth proposing.
 - Chile relleno (probably simplified / deconstructed)
 - Crispy chickpea salad with tahini-lemon dressing
 - Italian chopped salad with salami, provolone, chickpeas *(→ recipe written)*
-- Fish tacos with cabbage, crema, lime
+- Fish tacos with cabbage, crema, lime *(→ recipe written)*
 - Crispy tofu with chili-garlic sauce *(→ recipe written)*
 - Crispy rice bowl with spicy tuna
 - Garlic chili noodles with ground pork *(→ recipe written)*

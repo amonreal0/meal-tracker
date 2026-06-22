@@ -23,7 +23,7 @@ How to use:
 | Garlic | Garlic, 1 head | $3.49 | |
 | Cilantro | Organic Cilantro, bunch | $2.49 | |
 | Arugula | Olivia's Organics Baby Arugula, ~5 oz | $4.29 | |
-| Cherry tomatoes | **Plain cherry tomatoes, ~1 pint** (NOT a medley/mixed-color pack) | ~$5.99 | He didn't love the medley/small-tomato mix from the 06-14 order — wants straight cherry tomatoes. |
+| Cherry tomatoes | **Organic Grape Tomatoes, ~12 oz** | $5.99 | FD has **no plain single-color cherry tomato** (only "Mixed Cherry" = the medley he dislikes). Grape = the cleanest single-variety pick. Confirmed 2026-06-21. |
 | Lemon | Lemons (loose) | $0.89 ea | UI added in qty 2; hard to set to 1 |
 | Broccoli | Broccoli Crowns (loose) | $2.49 ea | UI added in qty 2; hard to set to 1 |
 | Raspberries | FreshDirect Raspberries (house brand), ~6 oz | $3.49–3.99 | user-approved favorite (seen on sale at $3.49) |
@@ -49,5 +49,13 @@ How to use:
 | Fresh ginger | Organic Ginger Root, ~6 oz | $4.39 | sold by piece |
 | Oranges (lasting fruit) | Navel Orange (loose) | ~$1.79 ea | UI min qty 2; watch for "4 for $4" |
 | Sandwich bread | Just FreshDirect All-Natural Sourdough, 16 oz / 12 slices | $5.49 | pre-sliced; Bread Alone SF Sourdough 22 oz ($7.69) is the nicer/larger option |
+| Lo mein noodles | **Twin Marquis Lo Mein Noodles, Frozen, 16 oz** | $4.99 | **the week-1 noodles he liked (user-confirmed 2026-06-21)**; frozen, keeps. For garlic chili noodles |
+| Corn tortillas | **Vista Hermosa Corn Tortillas, 5", 10 ct** | $5.39 | his preferred brand (2026-06-21). **NEVER buy Mission tortillas — he really dislikes them.** |
+| Sour cream | Breakstone's Sour Cream, 8 oz | $2.99 | smallest tub. **FD carries no Mexican crema** — use this for lime crema |
+| Green cabbage | Green Cabbage, loose (by lb, $0.99/lb) | ~$4/head | heads run big (~4 lb / ~$4); plenty for slaw + weekend leftovers |
+| Limes | Limes, loose ($0.69/ea, min qty 2) | $0.69 ea | UI min qty 2 |
+| White fish (cod) | Wild Icelandic Cod Loins, 6–8 oz hand-cut ($24.49/lb) | ~$10/loin | premium, rated "Excellent"; ~2 loins ≈ 1 lb. Pricey — cheaper white fish (tilapia/swai) exists if cutting cost |
+| Ground pork | Pasture-Raised Ground Pork (Non-GMO, no antibiotics) | $7.49 | premium pork |
+| Cherry tomatoes (AVOID) | ~~Sunset Grown Flavor Bombs Cherry Tomatoes, 12 oz ($6.19)~~ | — | **avoid** — sweet cocktail type, the "medley-ish" tomato he didn't love. Use plain cherry tomatoes instead. |
 
 <!-- Add real product URLs/IDs on a future order to make reordering one-click. -->
