@@ -72,6 +72,10 @@ See `freshdirect/README.md` for the full procedure. Short version:
    the results, don't just grab #1), add to cart, and **save the choice to the catalog.**
 3. **Stop at the filled cart.** Never check out. Hand control back to the user for
    delivery window, payment, and placing the order.
+4. **After the user confirms the order is placed, commit AND push the session's changes**
+   (all the week/recipe/pantry/catalog/order edits) with a descriptive message. This is a
+   personal notes repo — commit straight to the current branch (`master`) and push to the remote,
+   matching the existing one-commit-per-update history. (User instruction 2026-07-08.)
 
 ### "Log that judgment call" / feedback on how you worked
 When the user praises (or corrects) *how* you handled something — a good inference, the right

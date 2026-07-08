@@ -34,8 +34,8 @@ in the apartment.
 - [x] Couscous (unopened — never used last week)
 - [x] Rice (jasmine / medium-grain white) (likely on hand — bought last week but not cooked; confirm)
 - [ ] Noodles (wheat/ramen/lo mein/udon) — used the 8oz, rebuy for noodle nights
-- [x] Panko breadcrumbs (partial)
-- [ ] Canned chickpeas (2–4)
+- [x] Panko breadcrumbs — **plenty on hand (2026-07-08).** He skipped rebuying (had lots). Don't rebuy soon; doubles as meatball breadcrumbs.
+- [x] Canned chickpeas — **2 cans on hand (2026-07-08).** Unused from prior weeks. Don't rebuy.
 - [ ] Canned black beans (2)
 - [ ] Canned crushed tomatoes (2)
 - [ ] Chicken broth or Better Than Bouillon
@@ -81,9 +81,18 @@ in the apartment.
   buying it as a side/filler. Pickled jalapeños + garlic still assumed on hand (they last).
 - **Cilantro retired (2026-06-21).** He barely used it and it wilted. Default herb = parsley, often
   skip entirely.
-- **1 block extra-firm tofu on hand (uncooked)** as of 2026-06-14 — bought for the 06-14 week
-  but never cooked. Use it this coming week (crispy tofu chili-garlic) so it doesn't sit.
+- **Tofu block — TOSSED (2026-07-08).** The extra-firm block sat since ~06-14, unused through the
+  06-22 week and ~2 weeks of travel. Assumed spoiled; skipped for the 07-06 week. Rebuy fresh when
+  a tofu night is actually planned.
+- **Travel reset (2026-07-08).** He was away ~2 weeks after the 06-22 order. Assume all perishables
+  from that period are gone (scallions, bread, celery, any leftover fish/cabbage/produce). Durables
+  kept: pickled jalapeños, jars/oils/dry goods. Lemons/onion from 06-21 may or may not have
+  survived — the 07-06 list rebuys fresh to be safe. **Garlic: out (he flagged 2026-07-08)** — on
+  the 07-06 buy list.
 - 2026-06-07 order: FreshDirect **raspberries** and **avocados** were highlights — good
   produce sources, reorder these. FD threw in free first-order gifts (the berries/avocados
   plus flowers).
+- **Chickpeas: crispy > raw (2026-07-08).** He didn't find raw canned chickpeas in salads
+  appealing and left 2 cans unused. He *is* interested in the **air-fried/crispy** version — so
+  lean chickpeas toward crispy prep (air-fryer) rather than tossing them in raw.
 - (purchase / brand notes go here — e.g. "Mina harissa = good", "FD cilantro often wilted")

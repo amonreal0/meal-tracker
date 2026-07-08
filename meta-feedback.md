@@ -56,6 +56,13 @@ Format:
   • **Trust the observed state + the user's account over my assumptions** — don't narrate a guessed
     history as fact.
 
+- 2026-07-08 — **Instruction.** After the user placed the FreshDirect order, he asked that I
+  **commit AND push the session's changes every time after we order.** Commit straight to `master`
+  and push (personal notes repo; matches his existing one-commit-per-update history). Added the step
+  to the ordering procedure in CLAUDE.md. **Principle:** "Ordered" is the natural save-point for this
+  system — once the buy is placed, snapshot all the week/recipe/pantry/catalog/order edits into a
+  descriptive commit and push it to the remote so nothing lives only on this machine.
+
 - 2026-06-13 — **Correction.** When asked to "plan next week," jumped straight to a finished
   plan. He'd have preferred a collaborative lead-in: check how he's feeling that week and *sell*
   him on the dinner options before committing. Led to adding two planning modes in CLAUDE.md.

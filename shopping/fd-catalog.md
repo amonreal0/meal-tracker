@@ -15,16 +15,16 @@ How to use:
 | Extra-firm tofu | Nasoya Organic Extra Firm Tofu, 14 oz | $4.19 | good single-block size |
 | Salami (sliced) | Applegate Organics Uncured Genoa Salami, 4 oz | $9.39 | 6oz pre-sliced packs were ~$15.69; this is the sane single size |
 | Provolone (sliced) | Applegate Organic No Smoke Provolone, 6 oz | $4.99 | smallest clean pack |
-| Eggs | Just FreshDirect Organic Cage-Free Pasture-Raised Large Eggs, ½ dozen | $5.49 | half-dozen = right size for one person |
+| Eggs | Just FreshDirect Organic Cage-Free Pasture-Raised Large Eggs, **Dozen** | $6.49 | **½-dozen no longer surfaces on FD (2026-07-08) — the "half dozen eggs" filter just echoes the search term.** Using the Dozen of the same line; eggs keep for weeks so not a spoilage issue. |
 | Chickpeas (canned) | Goya Chick Peas / Garbanzo Beans, 15.5 oz | $1.79 | cheap, reliable |
 | Diced tomatoes (canned) | Muir Glen Organic Diced Tomatoes, 14.5 oz | $2.69 | |
 | Yellow onion | Lancaster Farm Local Organic Yellow Onion, medium | ~$0.90 | by weight |
 | Red onion | Red Onion, large (loose) | ~$1.89 | by weight |
 | Garlic | Garlic, 1 head | $3.49 | |
 | Cilantro | Organic Cilantro, bunch | $2.49 | |
-| Arugula | Olivia's Organics Baby Arugula, ~5 oz | $4.29 | |
+| Arugula | Olivia's Organics Baby Arugula, ~5 oz | $3.99 | often "any 2 for $7" — but one clamshell is right for a single person; don't buy 2 (wilts) |
 | Cherry tomatoes | **Organic Grape Tomatoes, ~12 oz** | $5.99 | FD has **no plain single-color cherry tomato** (only "Mixed Cherry" = the medley he dislikes). Grape = the cleanest single-variety pick. Confirmed 2026-06-21. |
-| Lemon | Lemons (loose) | $0.89 ea | UI added in qty 2; hard to set to 1 |
+| Lemon | "Pretty on the Inside" Lemons (loose) | $0.59 ea | cheapest loose lemon (2026-07-08); adds at qty **1** and the +/- stepper works cleanly (unlike the $0.99 "4 for $3" lemon which forces qty 2). |
 | Broccoli | Broccoli Crowns (loose) | $2.49 ea | UI added in qty 2; hard to set to 1 |
 | Raspberries | FreshDirect Raspberries (house brand), ~6 oz | $3.49–3.99 | user-approved favorite (seen on sale at $3.49) |
 | Apples (lasting fruit) | Organic Pink Lady Apples, 4 ct (~2 lb) | $5.99 | |
@@ -47,7 +47,7 @@ How to use:
 | Avocados | Hass Avocado (loose) | $1.99 ea | (also listed above) |
 | Scallions | Scallions, ~6 oz bunch | $1.99 | |
 | Fresh ginger | Organic Ginger Root, ~6 oz | $4.39 | sold by piece |
-| Oranges (lasting fruit) | Navel Orange (loose) | ~$1.79 ea | UI min qty 2; watch for "4 for $4" |
+| Oranges (lasting fruit) | Navel Orange (loose) | $1.79 ea / **4 for $4** | UI min qty 2. The "Any 4 for $4" scale is the buy — cheaper total than 3 singles; add to cart then step up to qty 4. The "Any 4 for $4" *button* on the tile only applies the promo display, it does NOT add to cart (confirmed 2026-07-08). |
 | Sandwich bread | Just FreshDirect All-Natural Sourdough, 16 oz / 12 slices | $5.49 | pre-sliced; Bread Alone SF Sourdough 22 oz ($7.69) is the nicer/larger option |
 | Lo mein noodles | **Twin Marquis Lo Mein Noodles, Frozen, 16 oz** | $4.99 | **the week-1 noodles he liked (user-confirmed 2026-06-21)**; frozen, keeps. For garlic chili noodles |
 | Corn tortillas | **Vista Hermosa Corn Tortillas, 5", 10 ct** | $5.39 | his preferred brand (2026-06-21). **NEVER buy Mission tortillas — he really dislikes them.** |
@@ -57,5 +57,14 @@ How to use:
 | White fish (cod) | Wild Icelandic Cod Loins, 6–8 oz hand-cut ($24.49/lb) | ~$10/loin | premium, rated "Excellent"; ~2 loins ≈ 1 lb. Pricey — cheaper white fish (tilapia/swai) exists if cutting cost |
 | Ground pork | Pasture-Raised Ground Pork (Non-GMO, no antibiotics) | $7.49 | premium pork |
 | Cherry tomatoes (AVOID) | ~~Sunset Grown Flavor Bombs Cherry Tomatoes, 12 oz ($6.19)~~ | — | **avoid** — sweet cocktail type, the "medley-ish" tomato he didn't love. Use plain cherry tomatoes instead. |
+| Ground beef | FreshDirect 80% Lean Ground Beef, Fresh (by lb) | $6.99/lb | 80% = right fat for tender meatballs/albóndigas; plain, not a pre-seasoned blend |
+| Chicken cutlets | Springer Mountain Farms Boneless Skinless Thin-Sliced Chicken Breasts, Raised w/o Antibiotics (by lb) | $8.49/lb | raw thin-sliced (no pounding); skip pre-breaded when breading with panko yourself |
+| Crushed tomatoes | Cento All Purpose Crushed Tomatoes, 28 oz | $3.99 | plain — skip basil versions (clash with cumin/chipotle in Mexican broths) |
+| Panko | JFC Panko (Japanese-Style Bread Crumbs), 12 oz | $4.49 | 12oz same price as 8oz; keeps. Doubles as breadcrumbs for meatballs |
+| Hummus | Sabra Hummus, Classic, 8 oz | $3.79 | small tub; base for the hummus-lemon salad dressing (he's not a tahini fan) |
+| Cucumber | Green Cucumber (loose) | $1.99 | single; enough for one salad, keeps ~a week |
+| Cherries | Fresh Red Cherries, ~8 oz | $4.99 | fresh sweet red; buy 2 (~1 lb) for a week of snacking — high-value fruit for him |
+| Parmesan | BelGioioso Freshly Grated Parmesan, 5 oz | $5.59 | fixed-size pack (avoids by-weight wedge modal); for cutlet crust + shaving |
+| Avocados (single) | Hass Avocado, loose | $2.29 ea | 2 singles ($4.58) beat the 2-ct ready-to-eat pack (now $5.99) + give staggered ripeness. The 2-ct pack still exists if you want both ripe now. |
 
 <!-- Add real product URLs/IDs on a future order to make reordering one-click. -->

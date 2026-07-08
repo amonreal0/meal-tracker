@@ -1,57 +1,58 @@
 # Current FreshDirect cart
 
-## FILLED cart for week of 2026-06-22   (filled 2026-06-21)
+## PLACED order for week of 2026-07-06   (filled 2026-07-08, placed by user)
 
-**Status: PLACED by the user (2026-06-21), finalized by hand. Final total $91.34.** The user swapped
-the tortillas to **Vista Hermosa** themselves and placed the order. Table below is the cart as I last
-knew it (tortillas corrected to Vista Hermosa); the $91.34 is the user's actual final total incl.
-tax/fees + the tortilla swap.
+**Status: ORDERED by the user (2026-07-08).** Claude filled 20 items inline; the user **removed the
+panko** before checkout (plenty on hand already) → **19 items ordered.** Delivery slot chosen by the
+user (earliest showing was Fri 7/10). Subtotal was $95.03 for 20; less panko ($4.49) ≈ **$90.54**
+before tax (user's actual total may differ w/ tax/fees).
 
-ℹ️ **How the cart got built (corrected):** the **subagent** (the one spun up to fill the cart)
-actually ran and populated ~11 items, then got **stuck** on (a) a cod customization/quantity popup
-and (b) the noodle search, and on the "Add to your existing order or start a new bag?" modal. I
-took over manually, added the remaining items, swapped the tomatoes — and the user finished the
-tortilla swap + checkout by hand. (Earlier note saying the cart was "pre-populated by you/a prior
-session" was wrong — it was the subagent.)
+| Item | Product (brand + size) | Qty | Price | For |
+|---|---|---|---|---|
+| Ground beef | FreshDirect 80% Lean Ground Beef, Fresh ($6.99/lb) | 1 | ~$6.99* | albóndigas |
+| Chicken cutlets | Springer Mountain Farms Boneless Skinless Thin-Sliced Chicken Breasts ($8.49/lb) | 1 | ~$8.49* | cutlet |
+| Crushed tomatoes | Cento All Purpose Crushed Tomatoes, 28oz | 1 | $3.99 | albóndigas |
+| Chipotles in adobo | Goya Chipotle Peppers in Adobo Sauce, 7oz | 1 | $2.99 | albóndigas |
+| Chicken broth | Pacific Organic Free-Range Low-Sodium Chicken Broth, 32 fl oz | 1 | $3.69 | albóndigas |
+| ~~Panko~~ | ~~JFC Panko (Japanese-Style Bread Crumbs), 12oz~~ | — | — | **removed by user — plenty on hand** |
+| Hummus | Sabra Hummus, Classic, 8oz | 1 | $3.79 | salad dressing |
+| Arugula | Olivia's Organics Baby Arugula, ~5oz | 1 | $3.99 | cutlet + salad (shared) |
+| Cucumber | Green Cucumber (loose) | 1 | $1.99 | salad |
+| Grape tomatoes | Organic Grape Tomatoes, ~12oz | 1 | $5.99 | salad |
+| Red onion | Red Onion, Large (loose, $1.99/lb) | 1 | ~$1.89* | salad + albóndigas |
+| Parsley | Italian Parsley, bunch | 1 | $1.49 | albóndigas (subs cilantro) |
+| Limes | Limes, loose ($0.79/ea) | 2 | $1.58 | albóndigas finish |
+| Lemons | "Pretty on the Inside" Lemons, loose ($0.59/ea) | 3 | $1.77 | cutlet + salad dressings |
+| Avocados | Hass Avocado, loose ($2.29/ea) | 2 | $4.58 | salad + on-hand (2 max) |
+| Cherries | Fresh Red Cherries, ~8oz ($4.99/ea) | 2 | $9.98 | fast fruit (~1 lb snacking) |
+| Oranges | Navel Orange, loose (any 4 for $4) | 4 | $4.00 | lasting fruit |
+| Eggs | Just FreshDirect Organic Cage-Free Pasture-Raised Large Eggs, **Dozen** | 1 | $6.49 | albóndigas + cutlet |
+| Parmesan | BelGioioso Freshly Grated Parmesan, 5oz | 1 | $5.59 | cutlet crust / shaved |
+| Garlic | Garlic, 3ct (~3.2oz) | 1 | $3.49 | out — albóndigas + dressings |
 
-| Item | Product (brand + size) | Qty | Price | For | Notes |
-|---|---|---|---|---|---|
-| White fish | Wild Icelandic Cod Loins, 6–8 oz hand-cut ($24.49/lb) | 2 | $21.06* | tacos | pre-added; premium ("Excellent"). ~1 lb total. See flag. |
-| Ground pork | Pasture-Raised Ground Pork, Non-GMO, no antibiotics | 1 | $7.49 | noodles | pre-added |
-| Salami | Applegate Organics Uncured Genoa Salami, 4 oz | 1 | $9.39 | salad | pre-added |
-| Provolone | Applegate Organic No Smoke Provolone, 6 oz | 1 | $4.99 | salad | pre-added |
-| Chickpeas | Goya Chick Peas / Garbanzo Beans, 15.5 oz | 1 | $1.39 | salad | pre-added |
-| Noodles | **Twin Marquis Lo Mein Noodles, Frozen, 16 oz** | 1 | $4.99 | noodles | **added — your week-1 noodles, confirmed** |
-| Arugula | Olivia's Organics Baby Arugula, ~5 oz | 1 | $3.99 | salad | pre-added (Save 12%) |
-| Cherry tomatoes | **Organic Grape Tomatoes, ~12 oz** | 1 | $5.99 | salad | **swapped in** for the Flavor Bombs (single-variety, not a medley) |
-| Avocados | Hass Avocados, Ready-to-Eat, 2 ct (~1 lb) | 1 | $4.99 | tacos + on-hand | pre-added; 2-ct = your 2 avocados |
-| Limes | Limes, loose ($0.69/ea, min 2) | 4 | $2.76 | tacos | **added** |
-| Raspberries | FreshDirect Raspberries, ~6 oz | 1 | $3.49 | fast fruit | pre-added (on sale, was $3.99) |
-| Tortillas | **Vista Hermosa Corn Tortillas, 5", 10 ct** | 1 | $5.39 | tacos | **user's manual swap** — never Mission |
-| Green cabbage | Green Cabbage, loose ($0.99/lb) | 1 | $4.16* | taco slaw | **added** — big ~4 lb head; see flag |
-| Ginger | Organic Ginger Root, ~6 oz | 1 | $4.39 | noodles | pre-added |
-| Red onion | Red Onion, Large, loose ($1.99/lb) | 1 | $1.89* | salad | pre-added (optional item) |
-| Sour cream | **Breakstone's Sour Cream, 8 oz** | 1 | $2.99 | taco crema | **added** (no Mexican crema at FD — see flag) |
+`*` = estimated (sold by weight). **Cart subtotal (shown, before tax): $95.03.**
 
-`*` = estimated price (sold by weight).  **Subtotal: $87.15** before tax/delivery.
-
-### Resolved
-1. ✅ **Tomatoes swapped** — Flavor Bombs ($6.19) → Organic Grape Tomatoes ($5.99, single-variety).
-   FD had no plain single-color cherry tomato; "Mixed Cherry" is the medley you dislike, so grape is
-   the cleanest non-medley pick.
-2. ✅ **Cod kept** — Wild Icelandic Cod Loins, premium ($21.06). Your call.
-
-### Still worth knowing
-3. **Green cabbage is a ~4 lb head** ($4.16) — far more than one slaw needs, but it keeps for weeks →
-   good weekend raw-material.
-4. **No Mexican crema at FreshDirect** — used Breakstone's sour cream for the lime crema. Stir in lime
-   + salt + a little chili crisp and it plays the same role.
-5. **Delivery: earliest standard slot is Tue 6/23** (Express is faster). The plan assumed a Mon slot —
-   if you take Tue, cook the **fish tacos Tue evening or Wed** and use the cod promptly (freshest first).
+### Judgment calls made while filling
+- **Ground beef 80% lean** (not a meatball blend) — plain, right fat ratio for tender albóndigas.
+- **Chicken = raw thin-sliced breast** (not pre-breaded) since we bread with panko ourselves.
+- **Crushed tomatoes = plain "All Purpose"** — skipped basil versions (clash with cumin/chipotle).
+- **Panko 12oz** for the same $4.49 as the 8oz — better value, keeps.
+- **Arugula = ONE clamshell.** Skipped a 2-for-$7 deal — a second bag of arugula is the classic
+  wilting-produce waste; cucumber/tomato/chickpeas/avocado carry the salad's bulk.
+- **Cherries ×2 (~1 lb)** — you snack these all week and rate them high-value, so not a skimpy
+  half-pound. **Oranges = 4-for-$4 deal** (cheaper than 3 singles; they keep).
+- **Avocados = 2 singles ($4.58)** — beat the 2-ct ready-to-eat pack (now $5.99) and give staggered
+  ripeness (one for the salad now, one to ripen).
+- **Eggs = a DOZEN ($6.49), not a ½-dozen.** FD no longer surfaces the ½-dozen; eggs keep for weeks
+  and you cook on weekends, so not a spoilage risk. (Catalog updated.)
+- **Parmesan = fixed-size grated pack** (BelGioioso 5oz) to avoid a by-weight modal stall.
+- **Garlic** comes as a 3ct pack for $3.49 (plenty).
+- No "existing order vs new bag" popup appeared (no pending order). Dismissed an app-redirect modal
+  via "Continue in browser." No stalls.
 
 ### NOT added — on hand
-Pickled jalapeños, scallions, onion, celery, garlic, lemons, bread, orange + apple, and pantry
-staples (chili crisp, soy, rice vinegar, sesame oil, cornstarch, mayo, oils, spices, panko). No
-broccoli, no cilantro, no lasting fruit, no flowers this week.
+2 cans chickpeas · pickled jalapeños (+ brine) · pantry staples (olive oil, cumin, smoked paprika,
+garlic powder, oregano, chili crisp, mayo, cornstarch, soy, rice vinegar, sesame oil). No feta,
+no cilantro, no tofu, no broccoli, no flowers this week.
 
-### Stopped at filled cart — did NOT check out.
+### ORDERED by the user (2026-07-08). Panko removed at checkout (plenty on hand).

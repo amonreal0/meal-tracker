@@ -7,7 +7,7 @@ existing recipe). Candidates are untested guesses worth proposing.
 ## ⭐ Standouts (explicitly liked — prioritize these)
 - Albóndigas in chipotle tomato broth *(→ recipe written)*
 - Chile relleno (probably simplified / deconstructed)
-- Crispy chickpea salad with tahini-lemon dressing
+- Crispy chickpea salad with tahini-lemon dressing *(→ recipe written; uses a hummus-based dressing — he's not a tahini fan)*
 - Italian chopped salad with salami, provolone, chickpeas *(→ recipe written)*
 - Fish tacos with cabbage, crema, lime *(→ recipe written)*
 - Crispy tofu with chili-garlic sauce *(→ recipe written)*
@@ -31,7 +31,7 @@ a little olive oil. The "interesting sauce" cold sandwich without buying six con
 soup w/ avocado+crema · white bean+sausage+kale soup · garbanzo stew w/ chorizo+tomato+spinach ·
 spicy tomato-braised eggs w/ chickpeas · albóndigas variations.
 
-**Crispy / air-fryer:** air-fryer chicken cutlet w/ arugula · air-fryer falafel plate · wings
+**Crispy / air-fryer:** air-fryer chicken cutlet w/ arugula *(→ recipe written)* · air-fryer falafel plate · wings
 w/ lime-hot sauce · crispy potatoes w/ salsa+eggs+crema · chicken/potato flautas/taquitos ·
 air-fryer fish tacos · air-fryer pork chops w/ salsa verde.
 

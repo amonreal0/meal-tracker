@@ -46,6 +46,10 @@
 
 ## Hard preferences
 - **No sweet meals**, especially meat with a sweet sauce — avoid BBQ, mole, honey-glazed, etc.
+- **No feta (2026-07-08).** Dislikes it entirely. Don't add it to salads or anything else; sub
+  another cheese (parmesan, mozzarella, provolone) or just skip.
+- **Tahini: not a fan (2026-07-08).** Avoid straight-tahini dressings. He *does* like **hummus**
+  (tahini mellowed/balanced), so build creamy-nutty dressings on hummus instead.
 - Likes: spicy, savory, acidic, crispy, fresh-and-rich.
 
 ## Taste profile (derived from what he picked)

@@ -6,9 +6,9 @@ effort: medium
 time_minutes: 40
 equipment: [air-fryer, stovetop]
 tags: [mexican, crispy, fish, seafood, fresh, acidic, taco-bar, project]
-times_made: 0
-last_made: null
-rating: null
+times_made: 1
+last_made: 2026-06-23
+rating: 5
 ---
 
 # Fish tacos with cabbage slaw, crema & lime
@@ -60,4 +60,6 @@ cook-and-eat night, not a leftovers night — though leftover fish + slaw make a
 and avocado the next day rather than re-tacoing.
 
 ## Feedback log
-- (empty — add a dated note after you cook it)
+- 2026-06-23 — **Huge success** (first cook). Rated 5★. Lived up to its ⭐ standout billing.
+  *(Date approximate — the week-of-06-22 cook, before travel. No component-level notes captured;
+  add specifics next time — which route (air-fryer vs skillet), slaw/crema tweaks.)*
