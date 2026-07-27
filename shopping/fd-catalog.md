@@ -67,4 +67,16 @@ How to use:
 | Parmesan | BelGioioso Freshly Grated Parmesan, 5 oz | $5.59 | fixed-size pack (avoids by-weight wedge modal); for cutlet crust + shaving |
 | Avocados (single) | Hass Avocado, loose | $2.29 ea | 2 singles ($4.58) beat the 2-ct ready-to-eat pack (now $5.99) + give staggered ripeness. The 2-ct pack still exists if you want both ripe now. |
 
+| Chicken thighs (boneless) | Springer Mountain Farms Boneless Skinless Chicken Thighs, Raised w/o Antibiotics (5–6 ct, by lb) | $6.59/lb | same trusted brand as the cutlets; cheapest good option. Pack runs ~1.5 lb (more than 1 lb — freezes fine) |
+| Ground chicken | Smart Chicken Organic Ground Chicken, Air-Chilled, ~1 lb | $8.99 (sale; reg $10.49) | **regular grind, NOT lean breast** — breast grind is too dry for pad krapow/stir-fry. Air-chilled organic |
+| Top sirloin steak | 100% Grass-Fed Boneless Center-Cut Top Sirloin Steak (by lb, $23.19/lb) | ~$17.39 | **BY-WEIGHT MODAL** — pick thickness (0.5"=0.30 lb · 1.0"=0.45 lb · **1.5"=0.75 lb**) + packaging (Standard, or Vacuum +$0.50). **1.5" ≈ ¾ lb, ideal for searing + slicing over salad.** Much cheaper than skirt ($34–41/lb) for a sliced-over-salad use |
+| Oyster sauce | Lee Kum Kee Premium Oyster Flavored Sauce, 9 oz | $6.19 | the classic; keeps a long time |
+| Fish sauce | Red Boat Fish Sauce, 8.45 fl oz | $9.99 | gold-standard brand; pricey but keeps for years (one-time buy) |
+| Basil | Organic Basil, ~2 oz | $3.99 | **FD carries NO Thai basil (confirmed 2026-07-15)** — sub regular basil in pad krapow / Thai dishes |
+| Serrano peppers | Serrano Peppers (3–4 ct, ~0.25 lb) | $0.99 | rated Excellent; fresh chile heat for stir-fries (pickled won't sub) |
+| Flowers — sunflowers | Lancaster Farm Fresh Cooperative Sunflower Bunch, Locally Grown (5 ct) | $9.99 | cheerful summer bunch; good value for the ~monthly flower treat |
+| Red onion (single) | **quirk: no clean single loose red onion surfaces.** Plain "Red Onions" is a 2 lb / 6 ct bag ($3.79); by-weight "Organic Red Onion" ($2.49/lb) **adds at a 2 lb minimum (~$4.98)** | ~$4.98 | 2026-07-15: bought the by-weight organic at its 2 lb min (~3 onions). Red onions keep a month; use raw in salad + sautéed in soup/stir-fry, so a red onion can cover the yellow-onion slot too |
+
+<!-- Eggs update 2026-07-15: the ½-dozen "Just FreshDirect Organic Cage-Free Pasture-Raised Grade A Large Eggs" ($5.49) IS surfacing again (as "Your Fave") — earlier note said it had stopped. Dozen still better value/egg; use ½-doz if minimizing. -->
+
 <!-- Add real product URLs/IDs on a future order to make reordering one-click. -->

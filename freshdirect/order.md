@@ -1,58 +1,63 @@
 # Current FreshDirect cart
 
-## PLACED order for week of 2026-07-06   (filled 2026-07-08, placed by user)
+## FILLED cart for week of 2026-07-13   (filled 2026-07-15 — NOT yet placed)
 
-**Status: ORDERED by the user (2026-07-08).** Claude filled 20 items inline; the user **removed the
-panko** before checkout (plenty on hand already) → **19 items ordered.** Delivery slot chosen by the
-user (earliest showing was Fri 7/10). Subtotal was $95.03 for 20; less panko ($4.49) ≈ **$90.54**
-before tax (user's actual total may differ w/ tax/fees).
+**Status: FILLED by Claude, awaiting user checkout.** 21 items in the bag. Claude drove the browser
+inline and stopped at the filled cart. **User to pick the delivery slot, review, and place the order.**
+Earliest slot showing: **Fri 7/17.**
+
+**Cart subtotal (before tax, as shown): $115.58** (was $120.25 — includes a 4-for-$4 orange group discount).
 
 | Item | Product (brand + size) | Qty | Price | For |
 |---|---|---|---|---|
-| Ground beef | FreshDirect 80% Lean Ground Beef, Fresh ($6.99/lb) | 1 | ~$6.99* | albóndigas |
-| Chicken cutlets | Springer Mountain Farms Boneless Skinless Thin-Sliced Chicken Breasts ($8.49/lb) | 1 | ~$8.49* | cutlet |
-| Crushed tomatoes | Cento All Purpose Crushed Tomatoes, 28oz | 1 | $3.99 | albóndigas |
-| Chipotles in adobo | Goya Chipotle Peppers in Adobo Sauce, 7oz | 1 | $2.99 | albóndigas |
-| Chicken broth | Pacific Organic Free-Range Low-Sodium Chicken Broth, 32 fl oz | 1 | $3.69 | albóndigas |
-| ~~Panko~~ | ~~JFC Panko (Japanese-Style Bread Crumbs), 12oz~~ | — | — | **removed by user — plenty on hand** |
-| Hummus | Sabra Hummus, Classic, 8oz | 1 | $3.79 | salad dressing |
-| Arugula | Olivia's Organics Baby Arugula, ~5oz | 1 | $3.99 | cutlet + salad (shared) |
-| Cucumber | Green Cucumber (loose) | 1 | $1.99 | salad |
-| Grape tomatoes | Organic Grape Tomatoes, ~12oz | 1 | $5.99 | salad |
-| Red onion | Red Onion, Large (loose, $1.99/lb) | 1 | ~$1.89* | salad + albóndigas |
-| Parsley | Italian Parsley, bunch | 1 | $1.49 | albóndigas (subs cilantro) |
-| Limes | Limes, loose ($0.79/ea) | 2 | $1.58 | albóndigas finish |
-| Lemons | "Pretty on the Inside" Lemons, loose ($0.59/ea) | 3 | $1.77 | cutlet + salad dressings |
-| Avocados | Hass Avocado, loose ($2.29/ea) | 2 | $4.58 | salad + on-hand (2 max) |
-| Cherries | Fresh Red Cherries, ~8oz ($4.99/ea) | 2 | $9.98 | fast fruit (~1 lb snacking) |
-| Oranges | Navel Orange, loose (any 4 for $4) | 4 | $4.00 | lasting fruit |
-| Eggs | Just FreshDirect Organic Cage-Free Pasture-Raised Large Eggs, **Dozen** | 1 | $6.49 | albóndigas + cutlet |
-| Parmesan | BelGioioso Freshly Grated Parmesan, 5oz | 1 | $5.59 | cutlet crust / shaved |
-| Garlic | Garlic, 3ct (~3.2oz) | 1 | $3.49 | out — albóndigas + dressings |
+| Chicken thighs | Springer Mountain Farms Boneless Skinless Chicken Thighs (5–6 ct, $6.59/lb) | 1 | ~$10* | tortilla soup |
+| Ground chicken | Smart Chicken Organic Ground Chicken, Air-Chilled, ~1 lb | 1 | $8.99 | Thai basil |
+| Steak | 100% Grass-Fed Top Sirloin, **1.5" / ~0.75 lb, Standard pack** | 1 | $17.39 | steak salad |
+| Diced tomatoes | Muir Glen Organic Diced Tomatoes, 14.5 oz | 1 | $2.69 | tortilla soup |
+| Chipotles in adobo | Goya Chipotle Peppers in Adobo Sauce, 7 oz | 1 | $2.99 | tortilla soup |
+| Chicken broth | Pacific Organic Free-Range Low-Sodium Chicken Broth, 32 fl oz | 1 | $3.69 | tortilla soup |
+| Oyster sauce | Lee Kum Kee Premium Oyster Flavored Sauce, 9 oz | 1 | $6.19 | Thai basil |
+| Fish sauce | Red Boat Fish Sauce, 8.45 fl oz | 1 | $9.99 | Thai basil |
+| Arugula | Olivia's Organics Baby Arugula, ~5 oz | 1 | $3.99 | steak salad |
+| Cucumber | Green Cucumber (loose) | 1 | $1.99 | steak salad |
+| Grape tomatoes | Organic Grape Tomatoes, ~12 oz | 1 | $5.99 | steak salad (no plain cherry at FD) |
+| Red onion | Organic Red Onion (by weight, 2 lb min @ $2.49/lb) | 2 lb | ~$4.98 | salad + soup + Thai (covers yellow onion too) |
+| Parsley | Italian Parsley, bunch | 1 | $1.49 | chimichurri + soup topping |
+| Basil | Organic Basil, ~2 oz *(no Thai basil at FD)* | 1 | $3.99 | Thai basil |
+| Serrano peppers | Serrano Peppers, 3–4 ct (~0.25 lb) | 1 | $0.99 | Thai basil heat |
+| Limes | Limes, loose ($0.79/ea) | 3 | $2.37 | all three dishes |
+| Avocados | Hass Avocado, loose ($2.29/ea) | 2 | $4.58 | soup + salad |
+| Garlic | Garlic, 3 ct | 1 | $3.49 | all three (~10 cloves) |
+| Raspberries | FreshDirect Raspberries, ~6 oz | 1 | ~$3.99 | fast fruit |
+| Oranges | Navel Orange, loose (**4 for $4** group discount) | 4 | $4.00 | lasting fruit |
+| Flowers | Lancaster Farm Fresh Cooperative Sunflower Bunch (5 ct) | 1 | $9.99 | ~monthly flower treat (last 06-07) |
 
-`*` = estimated (sold by weight). **Cart subtotal (shown, before tax): $95.03.**
+`*` = estimated (sold by weight). **Cart subtotal shown (before tax): $115.58.**
 
 ### Judgment calls made while filling
-- **Ground beef 80% lean** (not a meatball blend) — plain, right fat ratio for tender albóndigas.
-- **Chicken = raw thin-sliced breast** (not pre-breaded) since we bread with panko ourselves.
-- **Crushed tomatoes = plain "All Purpose"** — skipped basil versions (clash with cumin/chipotle).
-- **Panko 12oz** for the same $4.49 as the 8oz — better value, keeps.
-- **Arugula = ONE clamshell.** Skipped a 2-for-$7 deal — a second bag of arugula is the classic
-  wilting-produce waste; cucumber/tomato/chickpeas/avocado carry the salad's bulk.
-- **Cherries ×2 (~1 lb)** — you snack these all week and rate them high-value, so not a skimpy
-  half-pound. **Oranges = 4-for-$4 deal** (cheaper than 3 singles; they keep).
-- **Avocados = 2 singles ($4.58)** — beat the 2-ct ready-to-eat pack (now $5.99) and give staggered
-  ripeness (one for the salad now, one to ripen).
-- **Eggs = a DOZEN ($6.49), not a ½-dozen.** FD no longer surfaces the ½-dozen; eggs keep for weeks
-  and you cook on weekends, so not a spoilage risk. (Catalog updated.)
-- **Parmesan = fixed-size grated pack** (BelGioioso 5oz) to avoid a by-weight modal stall.
-- **Garlic** comes as a 3ct pack for $3.49 (plenty).
-- No "existing order vs new bag" popup appeared (no pending order). Dismissed an app-redirect modal
-  via "Continue in browser." No stalls.
+- **Steak = grass-fed TOP SIRLOIN, not skirt.** Skirt ran $34–41/lb (~$26 for ¾ lb); sirloin gives the
+  same sliced-over-salad result for ~$17. Set the by-weight modal to **1.5" = exactly 0.75 lb**, Standard
+  pack (skipped +$0.50 vacuum — cooking it ~1 day after delivery).
+- **Ground chicken = regular grind (Smart Chicken), not lean breast** — breast grind is too dry for pad krapow.
+- **No Thai basil at FD** → subbed **Organic Basil** (the recipe's noted fallback).
+- **Red onion covers the yellow-onion slot too.** The by-weight organic red onion only adds at a **2 lb
+  minimum (~3 onions)**; rather than also buy a yellow onion, I dropped the yellow onion and will use red
+  onion raw (salad) + sautéed (soup, Thai). Red onions keep a month, so not a spoilage risk.
+- **EGGS SKIPPED — likely on hand.** A full dozen was delivered 7/10 (5 days ago); with no weekday
+  breakfasts/lunches, only ~2 eggs would've been used last week (albóndigas + cutlet), leaving ~10. The
+  Thai basil needs just 2. **If you're actually low, add a dozen (Just FreshDirect Organic Cage-Free, $6.49)
+  or the ½-dozen ($5.49) — both surfacing.**
+- **Oranges** hit the 4-for-$4 group discount (stepped qty up to 4). **Limes** set to 3, **avocados** to 2.
+- **Flowers = summer sunflower bunch** ($9.99) — cheerful, good value, resets the ~monthly cadence.
+- Optional soup cheese skipped (kept lean). No "existing order vs new bag" popup appeared. A couple of
+  harmless pop-under ad tabs opened during searches; ignored.
 
-### NOT added — on hand
-2 cans chickpeas · pickled jalapeños (+ brine) · pantry staples (olive oil, cumin, smoked paprika,
-garlic powder, oregano, chili crisp, mayo, cornstarch, soy, rice vinegar, sesame oil). No feta,
-no cilantro, no tofu, no broccoli, no flowers this week.
+### NOT added — on hand / intentionally skipped
+- **Eggs** (see above — ~10 likely on hand). **Yellow onion** (red onion covers it).
+- 2 cans chickpeas · pickled jalapeños (+ brine) · jasmine rice · soy sauce · sesame oil · olive oil ·
+  chili crisp · mayo · cornstarch · spices (cumin, oregano, smoked paprika, garlic powder, red pepper flakes).
+- **No feta, no cilantro, no black beans, no broccoli, no tofu.**
 
-### ORDERED by the user (2026-07-08). Panko removed at checkout (plenty on hand).
+### Next step (user)
+Pick a delivery window (earliest = Fri 7/17), review the bag, and **place the order.** Once you confirm
+it's placed, Claude will commit + push the session's changes.

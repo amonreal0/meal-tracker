@@ -50,6 +50,8 @@
   another cheese (parmesan, mozzarella, provolone) or just skip.
 - **Tahini: not a fan (2026-07-08).** Avoid straight-tahini dressings. He *does* like **hummus**
   (tahini mellowed/balanced), so build creamy-nutty dressings on hummus instead.
+- **No black beans (2026-07-15).** Dislikes them — skip black bean soups/dishes. (Other legumes —
+  lentils, chickpeas, pinto — are fine.)
 - Likes: spicy, savory, acidic, crispy, fresh-and-rich.
 
 ## Taste profile (derived from what he picked)
