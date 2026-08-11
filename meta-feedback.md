@@ -70,6 +70,15 @@ Format:
   *every* ingredient line of each recipe — including toppings/garnish/serve-with sub-sections —
   against list + pantry. Garnishes are load-bearing in this cuisine (the toppings are the point).
 
+- 2026-08-11 — **User suggestion adopted.** He pointed at FD's `/d/toprated` (Peak Quality) and
+  `/feed/local_month` pages as planning inputs, asking whether checking them would "pollute the
+  context." Assessed first (toprated = ~35 curated items, cheap; local_month = bigger promo feed,
+  skim selectively), then wired both into the CLAUDE.md planning step. Also learned: **WebFetch
+  times out on FreshDirect** (bot protection / JS rendering) — use Playwright for anything FD.
+  **Principle:** When he suggests a workflow improvement, evaluate its real cost with a quick
+  test before adopting, then bake it into CLAUDE.md so it survives sessions — and prefer
+  seasonal/quality signals over memory when picking produce and fish.
+
 - 2026-06-13 — **Correction.** When asked to "plan next week," jumped straight to a finished
   plan. He'd have preferred a collaborative lead-in: check how he's feeling that week and *sell*
   him on the dinner options before committing. Led to adding two planning modes in CLAUDE.md.

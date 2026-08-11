@@ -46,6 +46,17 @@ file so they're correctable.
 **In both modes:** never build the FreshDirect cart until the user has explicitly approved the
 plan. Approval of the plan is the gate before any buying.
 
+**Seasonal check (both modes, user instruction 2026-08-11).** Before pitching dinners, skim
+FreshDirect's seasonal pages via Playwright (one page load each, cheap):
+- `https://www.freshdirect.com/d/toprated` — "Peak Quality Store": ~12 items each of top-rated
+  fruit / vegetables / seafood. Use it to pick the week's fruit and the fish for fish nights.
+- `https://www.freshdirect.com/feed/local_month?id=local_month` — rotating seasonal/local feed
+  (bigger, promo-driven, changes monthly — may go stale or rotate; skim selectively).
+Pull only the 3–5 items that intersect with his tastes and weave them into the pitches
+("branzino is peak right now — fish night around that?"). This is a nice-to-have input, never
+a blocker: if the browser/MCP isn't connected at planning time, skip it silently rather than
+derailing the session.
+
 Once you're actually writing the plan (either mode):
 1. Read `profile.md` and skim recipe frontmatter + `recipes/_ideas.md`.
 2. Default shape: **3 cooking nights** — one saucy/stew, one crispy/air-fryer, one fast
