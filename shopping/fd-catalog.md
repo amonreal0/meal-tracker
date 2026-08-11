@@ -57,6 +57,8 @@ How to use:
 | Green cabbage | Green Cabbage, loose (by lb, $0.99/lb) | ~$4/head | heads run big (~4 lb / ~$4); plenty for slaw + weekend leftovers |
 | Limes | Limes, loose ($0.69/ea, min qty 2) | $0.69 ea | UI min qty 2 |
 | White fish (cod) | Wild Icelandic Cod Loins, 6–8 oz hand-cut ($24.49/lb) | ~$10/loin | premium, rated "Excellent"; ~2 loins ≈ 1 lb. Pricey — cheaper white fish (tilapia/swai) exists if cutting cost |
+| White fish (haddock, cod alternative) | Wild Icelandic Haddock Fillet ($20.99/lb) | ~$21/lb | "Excellent"-rated, $3.50/lb cheaper than cod, identical prep for fish tacos (classic fry fish). **Caveat (2026-08-11): showed limited delivery availability (Friday+ only) — check the delivery date before swapping to it** |
+| Shrimp (fresh) | Blue Foot Fresh White Shrimp, Cleaned, 26-30/lb ($14.99/lb) | ~$15/lb | "Excellent"-rated, cleaned; crispy shrimp taco option — same dredge as fish tacos, 2–3 min cook |
 | Ground pork | Hickory Nut Gap Pasture-Raised Ground Pork (Non-GMO, no antibiotics), **12 oz** | $7.49 | premium pork; note pack is 12 oz, not 1 lb |
 | Cherry tomatoes (AVOID) | ~~Sunset Grown Flavor Bombs Cherry Tomatoes, 12 oz ($6.19)~~ | — | **avoid** — sweet cocktail type, the "medley-ish" tomato he didn't love. Use plain cherry tomatoes instead. |
 | Ground beef | FreshDirect 80% Lean Ground Beef, Fresh (by lb) | $6.99/lb | 80% = right fat for tender meatballs/albóndigas; plain, not a pre-seasoned blend |
