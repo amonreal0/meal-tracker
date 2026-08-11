@@ -6,9 +6,9 @@ effort: easy
 time_minutes: 30
 equipment: [air-fryer]
 tags: [crispy, chicken, fresh, acidic, milanese, leftover-friendly]
-times_made: 0
-last_made: null
-rating: null
+times_made: 1
+last_made: 2026-07-11
+rating: 4
 ---
 
 # Air-fryer chicken cutlet over arugula
@@ -48,4 +48,5 @@ fryer, a big pile of lemony arugula on top so the greens wilt slightly against t
 crispy chickpea salad.
 
 ## Feedback log
-- (empty — add a dated note after you cook it)
+- 2026-08-11 (re: week of 07-06) — First make: "good" — 4. No tweaks flagged. Solid crispy-lane
+  option. (Cook date inferred as Sat 07-11 per the week plan.)

@@ -6,6 +6,8 @@ existing recipe). Candidates are untested guesses worth proposing.
 
 ## ⭐ Standouts (explicitly liked — prioritize these)
 - Albóndigas in chipotle tomato broth *(→ recipe written)*
+- **Picadillo with Jalapa Jar salsa** *(→ recipe written — user-invented 07-06 swap, "awesome";
+  add potatoes next time per his note; beef, so occasional per the red-meat limit)*
 - Chile relleno (probably simplified / deconstructed)
 - Crispy chickpea salad with tahini-lemon dressing *(→ recipe written; uses a hummus-based dressing — he's not a tahini fan)*
 - Italian chopped salad with salami, provolone, chickpeas *(→ recipe written)*

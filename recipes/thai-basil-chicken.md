@@ -6,9 +6,9 @@ effort: low
 time_minutes: 20
 equipment: [stovetop, wok]
 tags: [thai, spicy, chicken, fast, friday-night]
-times_made: 0
-last_made: null
-rating: null
+times_made: 1
+last_made: 2026-07-19
+rating: 4
 ---
 
 # Thai basil chicken over rice (pad krapow gai)
@@ -52,4 +52,6 @@ through garlic and chile, salty-savory sauce, lots of basil, crispy fried egg on
 you'd rather keep carbs light — it's good in lettuce cups too.
 
 ## Feedback log
-- (fill in after first cook)
+- 2026-08-11 (re: week of 07-13) — First make: "good, not much more to say." Solid 4 —
+  reliable fast weeknight, no tweaks requested. Regular basil (FD had no Thai basil) worked fine.
+  (Cook date inferred as Sun 07-19 per the week plan.)

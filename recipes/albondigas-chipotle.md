@@ -64,3 +64,6 @@ bread; add zucchini or spinach to the broth if you want vegetables in it.
 - 2026-06-13 — Came out **too soupy** — threw away some broth. Cut broth to ~1 cup next time
   (ingredient updated). Otherwise no complaints. Also skipped the rice/tortilla side — it was
   plenty of food on its own.
+- 2026-08-11 (re: week of 07-06) — **Planned but not made.** He used the ground beef for an
+  improvised **picadillo with Jalapa Jar salsa** instead — which was "awesome" and is now its
+  own recipe (`recipes/picadillo.md`). No knock on this dish; the swap just won that night.

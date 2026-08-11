@@ -18,13 +18,17 @@ in the apartment.
   Quick pantry glance to correct any of these is welcome but not required.
 
 ## Flavor anchors (high-value, won't go to waste)
-- [ ] Canned chipotles in adobo — used the whole can, rebuy
+- [x] Canned chipotles in adobo — **unopened 7 oz can on hand** (bought 07-17; the soup it was
+  for never got made)
 - [x] Harissa paste
 - [x] Chili crisp / chili oil (Lao Gan Ma, Fly By Jing, Momofuku…)
-- [x] Pickled jalapeños — **on hand (2026-06-14).** Standing staple; he uses them/their brine as
-  his salad acid (prefers to red wine vinegar). Don't rebuy until he says he's low.
+- [ ] Pickled jalapeños — **GONE (2026-08-11), rebuy.** Standing staple; he uses them/their
+  brine as his salad acid (prefers to red wine vinegar). On the 08-10 buy list.
 - [ ] Artichoke hearts (for the artichoke-jalapeño sandwich sauce)
 - [x] Mayo (on hand)
+- [ ] **Jalapa Jar fresh salsa — NEW STANDING STAPLE (2026-08-11).** He loves it; keep a tub
+  around at all times (drove the improvised picadillo win, goes on tacos/eggs/everything).
+  Rebuy whenever it's low, like the pickled jalapeños.
 - [ ] Dijon mustard — on order (arrives Wed 6/17)
 - [x] Soy sauce
 - [x] Rice vinegar
@@ -35,10 +39,11 @@ in the apartment.
 - [x] Rice (jasmine / medium-grain white) (likely on hand — bought last week but not cooked; confirm)
 - [ ] Noodles (wheat/ramen/lo mein/udon) — used the 8oz, rebuy for noodle nights
 - [x] Panko breadcrumbs — **plenty on hand (2026-07-08).** He skipped rebuying (had lots). Don't rebuy soon; doubles as meatball breadcrumbs.
-- [x] Canned chickpeas — **2 cans on hand (2026-07-08).** Unused from prior weeks. Don't rebuy.
+- [x] Canned chickpeas — **1 can on hand (2026-08-11).** The crispy chickpea salad (week of
+  07-06) used one of the two. Don't rebuy yet.
 - [ ] Canned black beans (2)
-- [ ] Canned crushed tomatoes (2)
-- [ ] Chicken broth or Better Than Bouillon
+- [x] Canned diced tomatoes — **1 unopened can (Muir Glen 14.5 oz) on hand** (bought 07-17, soup not made)
+- [x] Chicken broth — **unopened 32 oz (Pacific low-sodium) on hand** (bought 07-17, soup not made)
 - [x] Cornstarch
 
 ## Spices
@@ -55,6 +60,8 @@ in the apartment.
 - [ ] Olive oil
 - [ ] Neutral oil (avocado/canola/vegetable)
 - [x] Sesame oil
+- [x] Oyster sauce (Lee Kum Kee 9 oz, opened 07-19 — keeps refrigerated)
+- [x] Fish sauce (Red Boat 8.45 oz, opened 07-19 — keeps ~forever)
 - (Later: sherry vinegar — great in salads, beans, Spanish/Mexican savory food.)
 
 ## Freezer staples (good for one person)
@@ -77,6 +84,12 @@ in the apartment.
 - [ ] Salsa verde / tomatillo salsa
 
 ## Notes
+- **Travel reset #2 (2026-08-11).** Away ~3 weeks after the 07-17 delivery (surprise travel).
+  All perishables from that order are **gone** (confirmed 2026-08-11): arugula, cucumber, grape
+  tomatoes, parsley, basil, serranos, raspberries, avocados, limes, **eggs, oranges, and the raw
+  chicken thighs — all tossed.** Kept: unopened chipotles/diced tomatoes/broth, oyster + fish
+  sauce, and garlic (3-ct head, keeps months). Red onions from the 2 lb bag: **not usable
+  (confirmed 2026-08-11)** — toss. Pickled jalapeños also finished — rebuying.
 - **Broccoli retired (2026-06-21).** Kept accumulating unused (2 heads still in the fridge). Stop
   buying it as a side/filler. Pickled jalapeños + garlic still assumed on hand (they last).
 - **Cilantro retired (2026-06-21).** He barely used it and it wilted. Default herb = parsley, often

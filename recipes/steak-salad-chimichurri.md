@@ -6,9 +6,9 @@ effort: low
 time_minutes: 25
 equipment: [stovetop, skillet]
 tags: [salad, beef, fresh, acidic, no-cook-adjacent]
-times_made: 0
-last_made: null
-rating: null
+times_made: 1
+last_made: 2026-07-18
+rating: 5
 ---
 
 # Steak salad with chimichurri
@@ -52,4 +52,9 @@ acid-forward, no feta.
 sandwich. Cook a little extra steak and it becomes a steak torta or rice bowl the next day.
 
 ## Feedback log
-- (fill in after first cook)
+- 2026-08-11 (re: week of 07-13) — First make: "amazing" — both the steak and the chimichurri.
+  Clear 5. The ~$17 grass-fed top sirloin swap (vs $34+/lb skirt) worked, so sirloin is the
+  default cut. **BUT: he wants to limit red meat** — keep this in rotation as an occasional
+  treat (~once a month), not a regular. The chimichurri itself is a keeper — reuse it on
+  chicken/eggs/sandwiches for the same payoff without the beef.
+  (Cook date inferred as Sat 07-18 per the week plan.)

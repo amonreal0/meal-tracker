@@ -63,6 +63,13 @@ Format:
   system — once the buy is placed, snapshot all the week/recipe/pantry/catalog/order edits into a
   descriptive commit and push it to the remote so nothing lives only on this machine.
 
+- 2026-08-11 — **Miss (self-caught during review).** The 07-13 tortilla soup called for corn
+  tortillas/chips in its toppings section, but they never made it onto the week's grocery list or
+  into the cart — the "Toppings (at the bowl)" sub-list got skipped when consolidating. User
+  couldn't have made the dish as written. **Principle:** When building a grocery list, cross-check
+  *every* ingredient line of each recipe — including toppings/garnish/serve-with sub-sections —
+  against list + pantry. Garnishes are load-bearing in this cuisine (the toppings are the point).
+
 - 2026-06-13 — **Correction.** When asked to "plan next week," jumped straight to a finished
   plan. He'd have preferred a collaborative lead-in: check how he's feeling that week and *sell*
   him on the dinner options before committing. Led to adding two planning modes in CLAUDE.md.

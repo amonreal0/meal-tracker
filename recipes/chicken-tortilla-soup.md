@@ -55,4 +55,8 @@ The toppings are the point: keep them crisp/fresh and add at the bowl, not the p
 Reheat and re-top fresh. Also good spooned over rice if you want it heartier.
 
 ## Feedback log
-- (fill in after first cook)
+- 2026-08-11 (re: week of 07-13) — **Not made** (surprise travel cut the week short). Also:
+  the tortillas/chips for the topping never made it into the grocery list or cart, so it
+  couldn't have been made properly anyway. Still unproven — good early candidate for a future
+  week; the durable ingredients (diced tomatoes, chipotles, broth) were bought 07-17 and
+  should still be on hand unopened.

@@ -20,14 +20,20 @@
   red wine vinegar in salad dressings from now on.
 - **Appled out (as of 2026-06-14).** Rotate the "lasting fruit" away from apples for now —
   oranges/mandarins/grapes instead. Revisit apples later.
-- **Flowers ~once a month.** FreshDirect included flowers as a first-order gift (2026-06-07)
-  and he liked it — add a flower bunch to roughly one cart per month. Last added: 2026-06-07.
-  When building a cart, check whether it's been ~a month since the last flowers and offer to add them.
+- **Flowers: PAUSED (2026-08-11).** The monthly-flowers experiment is on hold — the 07-17
+  sunflowers didn't work out (he doesn't have a big enough container/vase for them, and they
+  bloomed to an empty apartment). Don't add flowers to carts for now. If it ever resumes:
+  smaller/shorter bunches, **not sunflowers.** (History: first-order gift 06-07 was liked;
+  sunflower bunch 07-17 was the miss.)
 - **Fast-fruit rotation.** Raspberries are a favorite but **only ~every other week** so they
   don't get routine. On the off weeks, rotate other fast fruit — **cherries, strawberries**,
   grapes, etc. Don't buy raspberries two weeks running. (Cherries used week of 2026-06-15.)
-- **Cherries = high-value snack fruit (2026-06-21).** He snacked on them all week and felt he got
-  a lot of value; worth the price. Keep them high in the fast-fruit rotation.
+- **Cherries = high-value snack fruit (2026-06-21), and BUY THE BIG WASHINGTON ONES (2026-08-11).**
+  He snacked on them all week and felt he got a lot of value; worth the price. **Brand/size matters:**
+  the **"Red Washington Cherries"** (~$18.86, big container) were way better and better *value* than
+  the small "Fresh Red Cherries" container, which disappointed him on sight. Price is not the
+  deciding factor for cherries — quantity and quality are. Default to the large Washington pack
+  when in season (roughly May–Sept for Northwest cherries).
 - Reorder favorites: FreshDirect raspberries and avocados were standouts (see `pantry.md`).
 - **Avocado = standing useful item (2026-06-21).** Beyond the BLT, he likes having one around all
   week for its versatility. Default to one avocado on most carts (still **2 max**).
@@ -36,8 +42,15 @@
   he asks — sub parsley (or just skip the herb) in recipes that call for it.
 - **Skip broccoli (2026-06-21).** Keeps accumulating unused heads. Don't add broccoli as a side
   or filler.
-- **Tortillas: Vista Hermosa, never Mission (2026-06-21).** He really dislikes Mission tortillas —
-  do not buy them. Default to **Vista Hermosa** (corn).
+- **Tortillas & chips: Vista Hermosa, never Mission (2026-06-21; chips added 2026-08-11).** He
+  really dislikes Mission tortillas — do not buy them. Default to **Vista Hermosa** for both corn
+  tortillas and tortilla chips.
+- **Fresh salsa = standing staple: Jalapa Jar (2026-08-11).** Keep a fresh salsa around at all
+  times — "it's pretty useful." Jalapa Jar is the brand he named and loved (made the improvised
+  picadillo "awesome"). Treat like pickled jalapeños: default-on-hand, rebuy when low.
+- **Cabbage: don't buy a whole head for one dish (2026-08-11).** A whole cabbage for fish-taco
+  slaw was way too much for one person — the slaw is now skipped/optional (salsa + crema +
+  avocado carry the taco instead).
 
 ## Equipment
 - Air fryer
@@ -52,6 +65,9 @@
   (tahini mellowed/balanced), so build creamy-nutty dressings on hummus instead.
 - **No black beans (2026-07-15).** Dislikes them — skip black bean soups/dishes. (Other legumes —
   lentils, chickpeas, pinto — are fine.)
+- **Limit red meat (2026-08-11).** The steak salad was a 5★ hit, but he doesn't want to eat much
+  red meat — treat beef (steak, and go easy on beef-heavy stews) as an occasional pick, roughly
+  once a month, not a weekly protein. Default proteins: chicken, fish/shrimp, legumes, pork sparingly.
 - Likes: spicy, savory, acidic, crispy, fresh-and-rich.
 
 ## Taste profile (derived from what he picked)

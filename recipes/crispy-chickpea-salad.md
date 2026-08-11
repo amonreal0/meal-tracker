@@ -6,9 +6,9 @@ effort: easy
 time_minutes: 25
 equipment: [air-fryer]
 tags: [salad, legumes, crispy, fresh, acidic, vegetarian, no-cook-ish]
-times_made: 0
-last_made: null
-rating: null
+times_made: 1
+last_made: 2026-07-13
+rating: 4
 ---
 
 # Crispy chickpea salad with hummus-lemon dressing
@@ -55,4 +55,6 @@ you want it heartier, chopped leftover chicken cutlet on top is great (skip the 
 not his thing).
 
 ## Feedback log
-- (empty — add a dated note after you cook it)
+- 2026-08-11 (re: week of 07-06) — First make: "good" — 4. No tweaks flagged; the hummus
+  dressing swap stands. Used one of the two on-hand chickpea cans (1 left). (Cook date
+  inferred as Mon 07-13 per the week plan.)

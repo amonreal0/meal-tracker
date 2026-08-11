@@ -1,63 +1,55 @@
 # Current FreshDirect cart
 
-## FILLED cart for week of 2026-07-13   (filled 2026-07-15 — NOT yet placed)
+## FILLED cart for week of 2026-08-10   (filled 2026-08-11 — NOT yet placed)
 
-**Status: FILLED by Claude, awaiting user checkout.** 21 items in the bag. Claude drove the browser
-inline and stopped at the filled cart. **User to pick the delivery slot, review, and place the order.**
-Earliest slot showing: **Fri 7/17.**
-
-**Cart subtotal (before tax, as shown): $115.58** (was $120.25 — includes a 4-for-$4 orange group discount).
+**Status: ORDERED by the user 2026-08-11.** 16 items, **subtotal $119.54 before tax**
+(* = estimated by-weight prices). Claude drove the browser inline and stopped at the filled cart;
+user picked the slot and placed the order.
+User tweaks after the initial fill: **eggs → ½ dozen** (dozen removed), **oranges → dropped**
+(the 2¼ lb of cherries covers fruit this week).
 
 | Item | Product (brand + size) | Qty | Price | For |
 |---|---|---|---|---|
-| Chicken thighs | Springer Mountain Farms Boneless Skinless Chicken Thighs (5–6 ct, $6.59/lb) | 1 | ~$10* | tortilla soup |
-| Ground chicken | Smart Chicken Organic Ground Chicken, Air-Chilled, ~1 lb | 1 | $8.99 | Thai basil |
-| Steak | 100% Grass-Fed Top Sirloin, **1.5" / ~0.75 lb, Standard pack** | 1 | $17.39 | steak salad |
-| Diced tomatoes | Muir Glen Organic Diced Tomatoes, 14.5 oz | 1 | $2.69 | tortilla soup |
-| Chipotles in adobo | Goya Chipotle Peppers in Adobo Sauce, 7 oz | 1 | $2.99 | tortilla soup |
-| Chicken broth | Pacific Organic Free-Range Low-Sodium Chicken Broth, 32 fl oz | 1 | $3.69 | tortilla soup |
-| Oyster sauce | Lee Kum Kee Premium Oyster Flavored Sauce, 9 oz | 1 | $6.19 | Thai basil |
-| Fish sauce | Red Boat Fish Sauce, 8.45 fl oz | 1 | $9.99 | Thai basil |
-| Arugula | Olivia's Organics Baby Arugula, ~5 oz | 1 | $3.99 | steak salad |
-| Cucumber | Green Cucumber (loose) | 1 | $1.99 | steak salad |
-| Grape tomatoes | Organic Grape Tomatoes, ~12 oz | 1 | $5.99 | steak salad (no plain cherry at FD) |
-| Red onion | Organic Red Onion (by weight, 2 lb min @ $2.49/lb) | 2 lb | ~$4.98 | salad + soup + Thai (covers yellow onion too) |
-| Parsley | Italian Parsley, bunch | 1 | $1.49 | chimichurri + soup topping |
-| Basil | Organic Basil, ~2 oz *(no Thai basil at FD)* | 1 | $3.99 | Thai basil |
-| Serrano peppers | Serrano Peppers, 3–4 ct (~0.25 lb) | 1 | $0.99 | Thai basil heat |
-| Limes | Limes, loose ($0.79/ea) | 3 | $2.37 | all three dishes |
-| Avocados | Hass Avocado, loose ($2.29/ea) | 2 | $4.58 | soup + salad |
-| Garlic | Garlic, 3 ct | 1 | $3.49 | all three (~10 cloves) |
-| Raspberries | FreshDirect Raspberries, ~6 oz | 1 | ~$3.99 | fast fruit |
-| Oranges | Navel Orange, loose (**4 for $4** group discount) | 4 | $4.00 | lasting fruit |
-| Flowers | Lancaster Farm Fresh Cooperative Sunflower Bunch (5 ct) | 1 | $9.99 | ~monthly flower treat (last 06-07) |
-
-`*` = estimated (sold by weight). **Cart subtotal shown (before tax): $115.58.**
+| Chicken thighs | Springer Mountain Farms Boneless Skinless Thighs, 5–6 ct ($6.59/lb) | 1 | $11.86* | tortilla soup (pack ~1.8 lb — freeze extra) |
+| Cod | Wild Icelandic Cod Loins, 6–8 oz hand-cut ($24.49/lb) | 2 | $21.06* | fish tacos (~0.86 lb) |
+| Ground pork | Hickory Nut Gap Pasture-Raised Ground Pork, **12 oz** | 1 | $7.49 | noodles (recipe needs 8 oz — use all 12, no need to freeze) |
+| Corn tortillas | Vista Hermosa Corn Tortillas, 5", 10 ct | 1 | $5.99 | tacos (price up from $5.39) |
+| Tortilla chips | **Vista Hermosa Totopos Tortilla Chips, Sea Salted, 9 oz** | 1 | $7.49 | soup topping — the 07-13 miss, fixed. Tagged "Your Fave" |
+| Fresh salsa | **Jalapa Jar Fresh Salsa, Medium, 16 oz** | 1 | $10.59 | new standing staple. "Your Fave" tag = his prior buy (Medium confirmed) |
+| Lo mein noodles | Twin Marquis Lo Mein Noodles, Frozen, 16 oz | 1 | $4.99 | noodles (use half) |
+| Yellow onion | Lancaster Farm Local Organic Yellow Onion, Medium ($1.99/lb) | 1 | $1.99* | soup |
+| Ginger | Organic Ginger Root, ~6 oz | 1 | $4.39 | noodles |
+| Scallions | Scallions, ~6 oz bunch | 1 | $1.99 | noodles |
+| Limes | Limes, loose ($0.79/ea) | 3 | $2.37 | soup/tacos/crema |
+| Avocados | Hass Avocado, loose ($2.29/ea) | 2 | $4.58 | soup + tacos |
+| Cherries | **Red Washington Cherries ($9.99/lb, 1 unit ≈ 2.25 lb)** | 1 | $22.48* | fast fruit — the big-container buy he wanted |
+| Eggs | Just FreshDirect Organic Cage-Free Pasture-Raised Eggs, **½ dozen** | 1 | $5.49 | taco breading + fried eggs (user picked 6 over 12) |
+| Sour cream | Breakstone's Sour Cream, 8 oz | 1 | $2.99 | lime crema |
+| Pickled jalapeños | Cento Sliced Jalapeño Peppers, 12 oz | 1 | $3.79 | standing staple restock |
 
 ### Judgment calls made while filling
-- **Steak = grass-fed TOP SIRLOIN, not skirt.** Skirt ran $34–41/lb (~$26 for ¾ lb); sirloin gives the
-  same sliced-over-salad result for ~$17. Set the by-weight modal to **1.5" = exactly 0.75 lb**, Standard
-  pack (skipped +$0.50 vacuum — cooking it ~1 day after delivery).
-- **Ground chicken = regular grind (Smart Chicken), not lean breast** — breast grind is too dry for pad krapow.
-- **No Thai basil at FD** → subbed **Organic Basil** (the recipe's noted fallback).
-- **Red onion covers the yellow-onion slot too.** The by-weight organic red onion only adds at a **2 lb
-  minimum (~3 onions)**; rather than also buy a yellow onion, I dropped the yellow onion and will use red
-  onion raw (salad) + sautéed (soup, Thai). Red onions keep a month, so not a spoilage risk.
-- **EGGS SKIPPED — likely on hand.** A full dozen was delivered 7/10 (5 days ago); with no weekday
-  breakfasts/lunches, only ~2 eggs would've been used last week (albóndigas + cutlet), leaving ~10. The
-  Thai basil needs just 2. **If you're actually low, add a dozen (Just FreshDirect Organic Cage-Free, $6.49)
-  or the ½-dozen ($5.49) — both surfacing.**
-- **Oranges** hit the 4-for-$4 group discount (stepped qty up to 4). **Limes** set to 3, **avocados** to 2.
-- **Flowers = summer sunflower bunch** ($9.99) — cheerful, good value, resets the ~monthly cadence.
-- Optional soup cheese skipped (kept lean). No "existing order vs new bag" popup appeared. A couple of
-  harmless pop-under ad tabs opened during searches; ignored.
+- **Cherries quantity quirk (important for reorders):** the by-weight unit is ~2.25 lb, so the
+  stepper's "qty 1" is already the big container (~$22.48). I initially stepped to 2 → **$44.96
+  / ~4.5 lb** — caught it in the cart review and dropped back to 1. Never step this one up.
+- **Jalapa Jar = Medium heat, 16 oz** — Medium (not Mild) carried the "Your Fave" tag, i.e. it's
+  the exact prior purchase.
+- **Chips = Sea Salted Totopos** (not Blue Corn) — Sea Salted had the "Your Fave" tag.
+- **Ground pork pack is 12 oz** (not 1 lb as the plan assumed) — still covers the recipe's 8 oz
+  with a bit over; just use it all.
+- **Cod modal:** 6–8 oz hand-cut option, qty 2 = 0.86 lb total ($21.06).
+- **Post-fill user tweaks:** dozen eggs swapped to the ½-dozen ($5.49 — it surfaces fine now,
+  confirming the 07-15 catalog note), and the 4-for-$4 oranges dropped ("if we already have the
+  cherries we can skip the oranges") — the ~2¼ lb cherry container is the week's fruit.
+- **No "existing order vs new bag" popup** this session. One "Try This" wine upsell after the cod
+  add — dismissed with Escape.
 
 ### NOT added — on hand / intentionally skipped
-- **Eggs** (see above — ~10 likely on hand). **Yellow onion** (red onion covers it).
-- 2 cans chickpeas · pickled jalapeños (+ brine) · jasmine rice · soy sauce · sesame oil · olive oil ·
-  chili crisp · mayo · cornstarch · spices (cumin, oregano, smoked paprika, garlic powder, red pepper flakes).
-- **No feta, no cilantro, no black beans, no broccoli, no tofu.**
+- Chipotles, diced tomatoes, chicken broth (all unopened from 07-17 — the soup's pantry base),
+  oyster/fish sauce, garlic, cornstarch, panko, rice, soy, rice vinegar, sesame oil, chili crisp,
+  oils, mayo, spices, 1 can chickpeas.
+- **No flowers** (paused — no vase big enough; sunflower experiment failed).
+- **No cabbage** (slaw retired), no parsley, no feta/cilantro/black beans/broccoli/Mission anything.
 
 ### Next step (user)
-Pick a delivery window (earliest = Fri 7/17), review the bag, and **place the order.** Once you confirm
-it's placed, Claude will commit + push the session's changes.
+Pick a delivery window, review the bag, and **place the order.** Once you confirm it's placed,
+Claude commits + pushes the session's changes.

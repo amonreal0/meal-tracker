@@ -15,7 +15,7 @@ How to use:
 | Extra-firm tofu | Nasoya Organic Extra Firm Tofu, 14 oz | $4.19 | good single-block size |
 | Salami (sliced) | Applegate Organics Uncured Genoa Salami, 4 oz | $9.39 | 6oz pre-sliced packs were ~$15.69; this is the sane single size |
 | Provolone (sliced) | Applegate Organic No Smoke Provolone, 6 oz | $4.99 | smallest clean pack |
-| Eggs | Just FreshDirect Organic Cage-Free Pasture-Raised Large Eggs, **Dozen** | $6.49 | **½-dozen no longer surfaces on FD (2026-07-08) — the "half dozen eggs" filter just echoes the search term.** Using the Dozen of the same line; eggs keep for weeks so not a spoilage issue. |
+| Eggs | Just FreshDirect Organic Cage-Free Pasture-Raised Large Eggs — **½ dozen ($5.49) is his default (2026-08-11)**; Dozen ($6.49) exists | $5.49 | ½-dozen surfaces fine again (bought 2026-08-11). He prefers 6 over 12 — no weekday breakfasts, a dozen lingers. |
 | Chickpeas (canned) | Goya Chick Peas / Garbanzo Beans, 15.5 oz | $1.79 | cheap, reliable |
 | Diced tomatoes (canned) | Muir Glen Organic Diced Tomatoes, 14.5 oz | $2.69 | |
 | Yellow onion | Lancaster Farm Local Organic Yellow Onion, medium | ~$0.90 | by weight |
@@ -50,12 +50,14 @@ How to use:
 | Oranges (lasting fruit) | Navel Orange (loose) | $1.79 ea / **4 for $4** | UI min qty 2. The "Any 4 for $4" scale is the buy — cheaper total than 3 singles; add to cart then step up to qty 4. The "Any 4 for $4" *button* on the tile only applies the promo display, it does NOT add to cart (confirmed 2026-07-08). |
 | Sandwich bread | Just FreshDirect All-Natural Sourdough, 16 oz / 12 slices | $5.49 | pre-sliced; Bread Alone SF Sourdough 22 oz ($7.69) is the nicer/larger option |
 | Lo mein noodles | **Twin Marquis Lo Mein Noodles, Frozen, 16 oz** | $4.99 | **the week-1 noodles he liked (user-confirmed 2026-06-21)**; frozen, keeps. For garlic chili noodles |
-| Corn tortillas | **Vista Hermosa Corn Tortillas, 5", 10 ct** | $5.39 | his preferred brand (2026-06-21). **NEVER buy Mission tortillas — he really dislikes them.** |
+| Corn tortillas | **Vista Hermosa Corn Tortillas, 5", 10 ct** | $5.99 (was $5.39) | his preferred brand (2026-06-21). **NEVER buy Mission tortillas — he really dislikes them.** |
+| Tortilla chips | **Vista Hermosa Totopos Tortilla Chips, Sea Salted, 9 oz** | $7.49 | his brand for chips too (2026-08-11); Sea Salted = the "Your Fave" variant (Blue Corn exists). Soup-topping duty |
+| Fresh salsa | **Jalapa Jar Fresh Salsa, Medium, 16 oz** | $10.59 | **standing staple (2026-08-11)** — keep one around at all times. Medium = his prior buy ("Your Fave"); Mild exists, skip it. Refrigerated/fresh |
 | Sour cream | Breakstone's Sour Cream, 8 oz | $2.99 | smallest tub. **FD carries no Mexican crema** — use this for lime crema |
 | Green cabbage | Green Cabbage, loose (by lb, $0.99/lb) | ~$4/head | heads run big (~4 lb / ~$4); plenty for slaw + weekend leftovers |
 | Limes | Limes, loose ($0.69/ea, min qty 2) | $0.69 ea | UI min qty 2 |
 | White fish (cod) | Wild Icelandic Cod Loins, 6–8 oz hand-cut ($24.49/lb) | ~$10/loin | premium, rated "Excellent"; ~2 loins ≈ 1 lb. Pricey — cheaper white fish (tilapia/swai) exists if cutting cost |
-| Ground pork | Pasture-Raised Ground Pork (Non-GMO, no antibiotics) | $7.49 | premium pork |
+| Ground pork | Hickory Nut Gap Pasture-Raised Ground Pork (Non-GMO, no antibiotics), **12 oz** | $7.49 | premium pork; note pack is 12 oz, not 1 lb |
 | Cherry tomatoes (AVOID) | ~~Sunset Grown Flavor Bombs Cherry Tomatoes, 12 oz ($6.19)~~ | — | **avoid** — sweet cocktail type, the "medley-ish" tomato he didn't love. Use plain cherry tomatoes instead. |
 | Ground beef | FreshDirect 80% Lean Ground Beef, Fresh (by lb) | $6.99/lb | 80% = right fat for tender meatballs/albóndigas; plain, not a pre-seasoned blend |
 | Chicken cutlets | Springer Mountain Farms Boneless Skinless Thin-Sliced Chicken Breasts, Raised w/o Antibiotics (by lb) | $8.49/lb | raw thin-sliced (no pounding); skip pre-breaded when breading with panko yourself |
@@ -63,7 +65,8 @@ How to use:
 | Panko | JFC Panko (Japanese-Style Bread Crumbs), 12 oz | $4.49 | 12oz same price as 8oz; keeps. Doubles as breadcrumbs for meatballs |
 | Hummus | Sabra Hummus, Classic, 8 oz | $3.79 | small tub; base for the hummus-lemon salad dressing (he's not a tahini fan) |
 | Cucumber | Green Cucumber (loose) | $1.99 | single; enough for one salad, keeps ~a week |
-| Cherries | Fresh Red Cherries, ~8 oz | $4.99 | fresh sweet red; buy 2 (~1 lb) for a week of snacking — high-value fruit for him |
+| Cherries | **Red Washington Cherries ($9.99/lb, by weight)** | ~$22.48/unit | **his preferred cherry buy (2026-08-11)** — pricier but "way better and more value." **QUIRK: the stepper's qty 1 is already ~2.25 lb (the big container). NEVER step to 2 — that's ~4.5 lb / $45** (caught in cart review 2026-08-11). In season ~May–Sept |
+| Cherries (AVOID) | ~~Fresh Red Cherries, ~8 oz ($4.99)~~ | — | **avoid** — the small container disappointed him on sight ("I was disappointed when I saw the small container"). Don't optimize cherry price downward |
 | Parmesan | BelGioioso Freshly Grated Parmesan, 5 oz | $5.59 | fixed-size pack (avoids by-weight wedge modal); for cutlet crust + shaving |
 | Avocados (single) | Hass Avocado, loose | $2.29 ea | 2 singles ($4.58) beat the 2-ct ready-to-eat pack (now $5.99) + give staggered ripeness. The 2-ct pack still exists if you want both ripe now. |
 
