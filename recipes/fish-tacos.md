@@ -6,8 +6,8 @@ effort: medium
 time_minutes: 40
 equipment: [air-fryer, stovetop]
 tags: [mexican, crispy, fish, seafood, fresh, acidic, taco-bar, project]
-times_made: 1
-last_made: 2026-06-23
+times_made: 2
+last_made: 2026-08-14
 rating: 5
 ---
 
@@ -61,6 +61,9 @@ and avocado the next day rather than re-tacoing.
 - 2026-06-23 — **Huge success** (first cook). Rated 5★. Lived up to its ⭐ standout billing.
   *(Date approximate — the week-of-06-22 cook, before travel. No component-level notes captured;
   add specifics next time — which route (air-fryer vs skillet), slaw/crema tweaks.)*
+- 2026-08-16 (re: cook ~08-14) — **Second make, first run of the no-slaw build** (Vista Hermosa
+  + Jalapa Jar + crema + avocado). Week rated great overall; 5★ stands. No complaints about the
+  missing slaw — the retirement looks right.
 - 2026-08-11 — **Cabbage slaw retired.** A whole head was way too much for one person; slaw
   dropped from the build. Going forward: Vista Hermosa tortillas + Jalapa Jar fresh salsa +
   crema + avocado + pickled jalapeños. Cornstarch confirmed on hand for the dredge.

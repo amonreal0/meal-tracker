@@ -18,17 +18,17 @@ in the apartment.
   Quick pantry glance to correct any of these is welcome but not required.
 
 ## Flavor anchors (high-value, won't go to waste)
-- [x] Canned chipotles in adobo — **unopened 7 oz can on hand** (bought 07-17; the soup it was
-  for never got made)
+- [x] Canned chipotles in adobo — **opened 7 oz can in fridge** (opened for the 08-13 tortilla
+  soup; plenty left — spicy-mayo / crema duty)
 - [x] Harissa paste
 - [x] Chili crisp / chili oil (Lao Gan Ma, Fly By Jing, Momofuku…)
 - [ ] Pickled jalapeños — **GONE (2026-08-11), rebuy.** Standing staple; he uses them/their
   brine as his salad acid (prefers to red wine vinegar). On the 08-10 buy list.
 - [ ] Artichoke hearts (for the artichoke-jalapeño sandwich sauce)
 - [x] Mayo (on hand)
-- [ ] **Jalapa Jar fresh salsa — NEW STANDING STAPLE (2026-08-11).** He loves it; keep a tub
-  around at all times (drove the improvised picadillo win, goes on tacos/eggs/everything).
-  Rebuy whenever it's low, like the pickled jalapeños.
+- [x] **Jalapa Jar fresh salsa — STANDING STAPLE (2026-08-11).** Keep a tub around at all times.
+  **On hand: plenty left in the 08-10-week tub (user confirmed 2026-08-16).** Rebuy whenever
+  it's low, like the pickled jalapeños.
 - [ ] Dijon mustard — on order (arrives Wed 6/17)
 - [x] Soy sauce
 - [x] Rice vinegar
@@ -42,19 +42,24 @@ in the apartment.
 - [x] Canned chickpeas — **1 can on hand (2026-08-11).** The crispy chickpea salad (week of
   07-06) used one of the two. Don't rebuy yet.
 - [ ] Canned black beans (2)
-- [x] Canned diced tomatoes — **1 unopened can (Muir Glen 14.5 oz) on hand** (bought 07-17, soup not made)
-- [x] Chicken broth — **unopened 32 oz (Pacific low-sodium) on hand** (bought 07-17, soup not made)
+- [x] Canned diced tomatoes — 07-17 can used in the 08-13 tortilla soup; **new Muir Glen can
+  ordered 08-16** (earmarked: lentil soup)
+- [x] Chicken broth — 07-17 quart used in the tortilla soup (user confirmed out 08-16);
+  **new Pacific 32 oz quart ordered 08-16** (earmarked: the lentil soup takes all 4 cups)
+- [x] Dry brown lentils — Goya 16 oz ordered 08-16 (soup uses 1 cup; rest keeps forever)
 - [x] Cornstarch
 
-## Spices
-- [ ] Kosher salt
-- [ ] Black pepper
-- [ ] Ground cumin
-- [ ] Oregano (Mexican or regular)
-- [ ] Smoked paprika
-- [ ] Garlic powder
-- [ ] Red pepper flakes
-- (Top 5 if buying minimal: cumin, oregano, smoked paprika, garlic powder, red pepper flakes.)
+## Spices — **true inventory per user, 2026-08-16: salt, pepper, and an Italian herb medley. That's it.**
+(Prior week files over-credited the rack — cumin/paprika/etc. were assumed on hand but aren't.)
+- [x] Salt
+- [x] Black pepper
+- [x] Italian herb medley (covers oregano-ish needs)
+- [x] Ground cumin — Just FD 1.8 oz (ordered 08-16, arrives Tue 08-18)
+- [x] Smoked paprika — Simply Organic 2.72 oz (ordered 08-16)
+- [x] Garlic powder — Just FD (ordered 08-16)
+- [x] Garlic salt — Just FD ~4 oz (ordered 08-16; his ask)
+- [x] Red pepper flakes — Just FD 1.2 oz (ordered 08-16)
+- [ ] Oregano (Mexican or regular) — skipped for now; medley subs
 
 ## Oils & acids
 - [ ] Olive oil

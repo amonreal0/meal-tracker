@@ -82,6 +82,20 @@ How to use:
 | Flowers — sunflowers | Lancaster Farm Fresh Cooperative Sunflower Bunch, Locally Grown (5 ct) | $9.99 | cheerful summer bunch; good value for the ~monthly flower treat |
 | Red onion (single) | **quirk: no clean single loose red onion surfaces.** Plain "Red Onions" is a 2 lb / 6 ct bag ($3.79); by-weight "Organic Red Onion" ($2.49/lb) **adds at a 2 lb minimum (~$4.98)** | ~$4.98 | 2026-07-15: bought the by-weight organic at its 2 lb min (~3 onions). Red onions keep a month; use raw in salad + sautéed in soup/stir-fry, so a red onion can cover the yellow-onion slot too |
 
+| Fingerling potatoes | Lancaster Farm Fresh Coop Local Organic Russian Banana Fingerlings, ~1.5 lb bag | $5.99 | peak-rated 08-16; roast/picadillo duty. **Quirk: carousel add-buttons showed disabled — the product page's own Add to bag works** |
+| Plumcots | **Family Tree Farms Summer Punch Plumcot** ($3.99/lb) | ~$2.45/fruit | "Exceptional"-rated stone fruit, in season ~Jul–Sep. **"Min. of 2" = 2 individual fruits (~0.6 lb each), NOT 2 lb** — buy 4 for a week's fruit |
+| Cucumber (organic) | Organic Green Cucumber, ~7 oz | $2.49 / **2 for $4.50** | peak-rated 08-16; the 2-for promo applies automatically at qty 2 |
+| Carrots (updated) | Jumbo Carrots, loose ($1.49/lb) | ~$0.30–0.60/carrot | **QUIRK: qty stepper = number of CARROTS, not lbs** — qty 1 is a single carrot. 2–3 for a soup |
+| Ground cumin | Just FreshDirect Ground Cumin, 1.8 oz | $4.39 | house brand, small jar |
+| Smoked paprika | Simply Organic Smoked Paprika, 2.72 oz | $9.19 | pricey but the only real smoked paprika in top results (house brands = plain paprika only); lasts a year+ |
+| Garlic powder | Just FreshDirect Garlic Powder | $4.39 | house brand |
+| Garlic salt | Just FreshDirect Garlic Salt, ~4 oz | $3.59 | house brand; his 2026-08-16 ask |
+| Red pepper flakes | Just FreshDirect Crushed Red Pepper, 1.2 oz | $4.99 | house brand |
+
+<!-- Price updates 2026-08-16: Muir Glen diced tomatoes $2.69→$3.39; Pacific low-sodium broth
+$3.69→$4.59; limes $0.69→$0.79/ea; Hickory Nut Gap hot Italian sausage $6.49→$7.29 (was on an
+"any 2 for $11.98" promo). -->
+
 <!-- Eggs update 2026-07-15: the ½-dozen "Just FreshDirect Organic Cage-Free Pasture-Raised Grade A Large Eggs" ($5.49) IS surfacing again (as "Your Fave") — earlier note said it had stopped. Dozen still better value/egg; use ½-doz if minimizing. -->
 
 <!-- Add real product URLs/IDs on a future order to make reordering one-click. -->

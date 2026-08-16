@@ -6,8 +6,8 @@ effort: low
 time_minutes: 25
 equipment: [stovetop]
 tags: [asian, spicy, pork, fast, friday-night]
-times_made: 1
-last_made: 2026-06-12
+times_made: 2
+last_made: 2026-08-16
 rating: 5
 ---
 
@@ -47,6 +47,9 @@ Makes **2 servings**. Fast Friday-ish meal.
 > noodles instead of pooling. Skip it and the noodles are still good, just less saucy.
 
 ## Feedback log
+- 2026-08-16 — **Second make** (per the week-of-08-10 plan: Sunday cook, 12 oz pork pack used
+  in full, noodle water instead of broth). Week rated great overall; 5★ stands. *(Cook date
+  assumed from the plan — correct if it shifted.)*
 - 2026-06-12 — **Favorite of the week.** Made as written; came out great. This is a proven
   keeper — keep it in heavy rotation. Have ginger + scallions left over, so it's cheap to
   repeat soon.

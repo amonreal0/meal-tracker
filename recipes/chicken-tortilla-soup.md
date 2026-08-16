@@ -6,9 +6,9 @@ effort: low
 time_minutes: 35
 equipment: [stovetop]
 tags: [mexican, spicy, leftover-friendly, chicken, brothy]
-times_made: 0
-last_made: null
-rating: null
+times_made: 1
+last_made: 2026-08-13
+rating: 4
 ---
 
 # Chicken tortilla soup
@@ -60,3 +60,7 @@ Reheat and re-top fresh. Also good spooned over rice if you want it heartier.
   couldn't have been made properly anyway. Still unproven — good early candidate for a future
   week; the durable ingredients (diced tomatoes, chipotles, broth) were bought 07-17 and
   should still be on hand unopened.
+- 2026-08-16 (re: week of 08-10, first actual cook ~08-13) — **Made at last; rated 4★.** Part of
+  a week he called great overall. Chips-as-topping build (Vista Hermosa) this time. No
+  component-level notes captured — next make, note what would push it to 5 (more chipotle? more
+  toppings?). Solid rotation member, not yet a favorite.
