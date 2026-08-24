@@ -22,6 +22,30 @@ anything that involves taste, recipes, or shopping. Also skim `meta-feedback.md`
 | `meta-feedback.md` | Log of judgment calls / working style the user liked or corrected. About *how* to work, not about food. Skim it at session start; append to it when praised or corrected. |
 | `archive/` | The original ChatGPT conversation this system was extracted from, for provenance. |
 
+## Two surfaces: desktop and phone (added 2026-08-23)
+
+This system now runs from two places. Same repo, same manual, different capabilities:
+
+| | Desktop CLI (Windows PC) | Phone / cloud session (claude.ai/code, Claude app Code tab) |
+|---|---|---|
+| Plan the week (collaborative or quick) | ✅ | ✅ |
+| Log feedback, edit recipes/pantry/weeks | ✅ | ✅ |
+| Commit + push | ✅ | ✅ |
+| FD seasonal-pages check (Playwright) | ✅ | ❌ — no browser MCP; **skip silently** (already the rule) |
+| Build the FreshDirect cart | ✅ (local Playwright + logged-in FD profile) | ❌ **never attempt** — no browser, no login |
+
+**If you are a cloud/phone session:** you're the stove-side and couch surface. Answer cooking
+questions and log the answer + feedback into the files *immediately* (that's the whole reason
+you exist — feedback used to die in read-only ChatGPT threads). You may plan a full week and
+write the week file. If the user approves a plan, **commit and push the plan and note in the
+week file that the cart still needs building from the desktop.** Don't leave edits unpushed —
+the desktop only sees what's on the remote.
+
+**Commit hygiene across surfaces:** always `git pull` / start from fresh remote state, and
+push promptly after meaningful edits, so the two surfaces never diverge. Phone sessions may
+commit more frequently than the desktop's one-commit-per-order rhythm — that's fine; small
+descriptive commits beat lost edits.
+
 ## Common requests and how to handle them
 
 ### "Plan my week" / "what should I cook"
