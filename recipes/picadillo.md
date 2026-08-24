@@ -6,8 +6,8 @@ effort: low
 time_minutes: 25
 equipment: [stovetop, skillet]
 tags: [mexican, beef, fast, improvised, salsa, leftover-friendly]
-times_made: 1
-last_made: 2026-07-11
+times_made: 2
+last_made: 2026-08-21
 rating: 5
 ---
 
@@ -54,3 +54,5 @@ rice with a fried egg.
   is Claude's reconstruction — verify against how he actually made it next cook.
 - 2026-08-11 — Follow-up note: "**would have been way better with potatoes.**" Potatoes added
   to the recipe as standard (diced, browned first). Next make = the real test of the full version.
+- 2026-08-23 (re: 2026-08-21, week of 08-17) — **"Top notch."** First make of the full version
+  with potatoes (fingerlings) — the upgrade holds. 5★ confirmed. Staple.

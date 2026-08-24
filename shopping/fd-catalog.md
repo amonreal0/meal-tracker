@@ -14,7 +14,7 @@ How to use:
 |---|---|---|---|
 | Extra-firm tofu | Nasoya Organic Extra Firm Tofu, 14 oz | $4.19 | good single-block size |
 | Salami (sliced) | Applegate Organics Uncured Genoa Salami, 4 oz | $9.39 | 6oz pre-sliced packs were ~$15.69; this is the sane single size |
-| Provolone (sliced) | Applegate Organic No Smoke Provolone, 6 oz | $4.99 | smallest clean pack |
+| Provolone (sliced) | **Wild Harvest** Organic No Smoke Provolone, 6 oz (10 ct) | $4.99 | smallest clean pack. **2026-08-23: the old Applegate listing now surfaces as Wild Harvest** — same size/price, tagged "Your Fave"; search "applegate provolone" still finds it |
 | Eggs | Just FreshDirect Organic Cage-Free Pasture-Raised Large Eggs — **½ dozen ($5.49) is his default (2026-08-11)**; Dozen ($6.49) exists | $5.49 | ½-dozen surfaces fine again (bought 2026-08-11). He prefers 6 over 12 — no weekday breakfasts, a dozen lingers. |
 | Chickpeas (canned) | Goya Chick Peas / Garbanzo Beans, 15.5 oz | $1.79 | cheap, reliable |
 | Diced tomatoes (canned) | Muir Glen Organic Diced Tomatoes, 14.5 oz | $2.69 | |
@@ -70,7 +70,8 @@ How to use:
 | Cherries | **Red Washington Cherries ($9.99/lb, by weight)** | ~$22.48/unit | **his preferred cherry buy (2026-08-11)** — pricier but "way better and more value." **QUIRK: the stepper's qty 1 is already ~2.25 lb (the big container). NEVER step to 2 — that's ~4.5 lb / $45** (caught in cart review 2026-08-11). In season ~May–Sept |
 | Cherries (AVOID) | ~~Fresh Red Cherries, ~8 oz ($4.99)~~ | — | **avoid** — the small container disappointed him on sight ("I was disappointed when I saw the small container"). Don't optimize cherry price downward |
 | Parmesan | BelGioioso Freshly Grated Parmesan, 5 oz | $5.59 | fixed-size pack (avoids by-weight wedge modal); for cutlet crust + shaving |
-| Avocados (single) | Hass Avocado, loose | $2.29 ea | 2 singles ($4.58) beat the 2-ct ready-to-eat pack (now $5.99) + give staggered ripeness. The 2-ct pack still exists if you want both ripe now. |
+| Avocados (single) | Hass Avocado, loose | $2.29 ea | **arrives FIRM — took ~all week to ripen (user, 2026-08-23).** Only buy loose when staggered/late-week ripening is wanted |
+| Avocados (ready to eat) | **Hass Avocados, Ready-to-Eat, 2 ct ~1 lb** (`veg_fd_fgavcrdypk`) | $5.99 | **the default avocado buy as of 2026-08-23** — ripe on arrival. Organic version exists ($6.99). Within the 2-max rule |
 
 | Chicken thighs (boneless) | Springer Mountain Farms Boneless Skinless Chicken Thighs, Raised w/o Antibiotics (5–6 ct, by lb) | $6.59/lb | same trusted brand as the cutlets; cheapest good option. Pack runs ~1.5 lb (more than 1 lb — freezes fine) |
 | Ground chicken | Smart Chicken Organic Ground Chicken, Air-Chilled, ~1 lb | $8.99 (sale; reg $10.49) | **regular grind, NOT lean breast** — breast grind is too dry for pad krapow/stir-fry. Air-chilled organic |
@@ -80,10 +81,10 @@ How to use:
 | Basil | Organic Basil, ~2 oz | $3.99 | **FD carries NO Thai basil (confirmed 2026-07-15)** — sub regular basil in pad krapow / Thai dishes |
 | Serrano peppers | Serrano Peppers (3–4 ct, ~0.25 lb) | $0.99 | rated Excellent; fresh chile heat for stir-fries (pickled won't sub) |
 | Flowers — sunflowers | Lancaster Farm Fresh Cooperative Sunflower Bunch, Locally Grown (5 ct) | $9.99 | cheerful summer bunch; good value for the ~monthly flower treat |
-| Red onion (single) | **quirk: no clean single loose red onion surfaces.** Plain "Red Onions" is a 2 lb / 6 ct bag ($3.79); by-weight "Organic Red Onion" ($2.49/lb) **adds at a 2 lb minimum (~$4.98)** | ~$4.98 | 2026-07-15: bought the by-weight organic at its 2 lb min (~3 onions). Red onions keep a month; use raw in salad + sautéed in soup/stir-fry, so a red onion can cover the yellow-onion slot too |
+| Red onion (single) | **"Red Onion, Large" (loose, by weight) — surfacing again as of 2026-08-23** (~$1.89, tagged "Your Fave"); grab it via search "red onions" | ~$1.89 | The old quirk (2 lb minimums only) resolved itself. Fallback if it vanishes: plain "Red Onions" 2 lb / 6 ct bag ($3.79) — they keep a month |
 
 | Fingerling potatoes | Lancaster Farm Fresh Coop Local Organic Russian Banana Fingerlings, ~1.5 lb bag | $5.99 | peak-rated 08-16; roast/picadillo duty. **Quirk: carousel add-buttons showed disabled — the product page's own Add to bag works** |
-| Plumcots | **Family Tree Farms Summer Punch Plumcot** ($3.99/lb) | ~$2.45/fruit | "Exceptional"-rated stone fruit, in season ~Jul–Sep. **"Min. of 2" = 2 individual fruits (~0.6 lb each), NOT 2 lb** — buy 4 for a week's fruit |
+| Plumcots | **Family Tree Farms Summer Punch Plumcot** ($3.99/lb) | ~$2.45/fruit | "Exceptional"-rated stone fruit, in season ~Jul–Sep. **"Min. of 2" = 2 individual fruits (~0.6 lb each), NOT 2 lb** — buy 4 for a week's fruit. **User verdict 2026-08-23: "excellent" — proven rebuy while in season** |
 | Cucumber (organic) | Organic Green Cucumber, ~7 oz | $2.49 / **2 for $4.50** | peak-rated 08-16; the 2-for promo applies automatically at qty 2 |
 | Carrots (updated) | Jumbo Carrots, loose ($1.49/lb) | ~$0.30–0.60/carrot | **QUIRK: qty stepper = number of CARROTS, not lbs** — qty 1 is a single carrot. 2–3 for a soup |
 | Ground cumin | Just FreshDirect Ground Cumin, 1.8 oz | $4.39 | house brand, small jar |
@@ -91,6 +92,10 @@ How to use:
 | Garlic powder | Just FreshDirect Garlic Powder | $4.39 | house brand |
 | Garlic salt | Just FreshDirect Garlic Salt, ~4 oz | $3.59 | house brand; his 2026-08-16 ask |
 | Red pepper flakes | Just FreshDirect Crushed Red Pepper, 1.2 oz | $4.99 | house brand |
+
+| Branzino | **Branzino Fillet** (`/sea/sc/fflt/p/sea_pid_3604187`), sold per ~0.5 lb fillet, $33.59/lb | ~$16.80/fillet | "Exceptional"-rated (toprated page). **Qty = fillets** — 2 fillets ≈ 1 lb for 2 servings. Premium; the ~3.5 lb "Jumbo Branzino" whole fish also exists ($16.49/lb) but is too much for one person |
+| Greek yogurt (plain) | **Fage TOTAL 2% Greek Yogurt, Plain, 16 oz** (`dai_fage_2ygrt`) | $4.49 | smallest sane plain tub (5.3 oz singles too small for a marinade + sauce; 32 oz lingers). 0%/5% variants same price |
+| White peaches | **Family Tree Farms White Peach** (`fru_pid_2210296`), by fruit ~0.78 lb each | $2.99–3.99/lb | same grower as the beloved Summer Punch plumcots; min 2 fruits, 4 = a week's fruit (~$9–12). Season ~Jun–Sep. Yellow Peach (loose, $3.99/lb) is the alternate |
 
 <!-- Price updates 2026-08-16: Muir Glen diced tomatoes $2.69→$3.39; Pacific low-sodium broth
 $3.69→$4.59; limes $0.69→$0.79/ea; Hickory Nut Gap hot Italian sausage $6.49→$7.29 (was on an

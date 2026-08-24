@@ -6,9 +6,9 @@ effort: easy
 time_minutes: 30
 equipment: [air-fryer, stovetop]
 tags: [shrimp, seafood, crispy, bowl, spicy-mayo, fast, fresh]
-times_made: 0
-last_made: null
-rating: null
+times_made: 1
+last_made: 2026-08-18
+rating: 2
 ---
 
 # Crispy shrimp rice bowl
@@ -22,9 +22,9 @@ cook-and-eat night, not a leftovers night.
 
 ### Shrimp
 - ~1 lb shrimp (26–30/lb), peeled/cleaned, patted very dry
-- ⅓ cup flour or cornstarch *(on hand)*
-- 1 egg, beaten
-- ~1 cup panko *(on hand)*
+- **Light coat only** (first make's full flour→egg→panko was too thick for shrimp): a thin
+  cornstarch dust, or cornstarch → egg → a *sparse* panko press. Shrimp is small and delicate —
+  it can't carry the breading a fish-taco fillet or tofu can.
 - ½ tsp each garlic powder + smoked paprika *(on hand)*, salt + pepper
 
 ### Spicy mayo
@@ -33,7 +33,8 @@ cook-and-eat night, not a leftovers night.
 - Squeeze of lime, pinch of salt
 
 ### Bowl
-- Rice for 2 *(on hand)*
+- **Sushi rice, a modest portion** — first make used too much regular rice and the bowl ate
+  heavy. A smaller bed of seasoned sushi rice is the fix; let cucumber/avocado carry more volume.
 - 1–2 cucumbers, sliced or smashed, dressed with a splash of rice vinegar (or pickled-jalapeño
   brine) + a few drops sesame oil + salt
 - 1 avocado, sliced
@@ -42,8 +43,8 @@ cook-and-eat night, not a leftovers night.
 ## Method
 1. Start the rice.
 2. Stir the spicy mayo together; dress the cucumbers. Both sit in the fridge while you cook.
-3. Bread the shrimp: season, then flour → egg → panko. Air-fry at 400°F ~8–10 min, flipping
-   once, until golden. Salt immediately.
+3. Coat the shrimp *lightly* (see ingredient note — thin dust, not a full bread). Air-fry at
+   400°F ~8–10 min, flipping once, until golden. Salt immediately.
 4. Build: rice → cucumbers → shrimp → avocado → spicy mayo drizzled over → pickled jalapeños /
    scallions / chili crisp → lime squeeze.
 
@@ -51,4 +52,11 @@ cook-and-eat night, not a leftovers night.
 snack or gets folded into fried rice, not a re-bowl.
 
 ## Feedback log
-- (first make pending)
+- 2026-08-23 (re: 2026-08-18, week of 08-17) — **"Not the best meal."** Rated 2 (Claude's read
+  of the verdict — bump if that's harsh). The problems, all fixable:
+  - **Too heavy overall.**
+  - **Too much rice** — and plain rice at that. His suggestion: **sushi rice** would have helped.
+  - **Breading too thick.** The cornstarch/egg/panko treatment "worked better on other meals"
+    (fish tacos, tofu) than on shrimp — shrimp needs a much lighter coat.
+  - Recipe updated: light coat only, modest portion of sushi rice, produce carries more volume.
+  Retry-worthy but not until the fixes prove out; don't re-plan it as-is.

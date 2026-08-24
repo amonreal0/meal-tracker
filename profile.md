@@ -37,6 +37,11 @@
 - Reorder favorites: FreshDirect raspberries and avocados were standouts (see `pantry.md`).
 - **Avocado = standing useful item (2026-06-21).** Beyond the BLT, he likes having one around all
   week for its versatility. Default to one avocado on most carts (still **2 max**).
+- **Avocado ripeness (2026-08-23): loose FD Hass arrive firm and can take all week to ripen**
+  (the week-of-08-17 pair wasn't ready until week's end). When avocado is wanted in the first
+  half of the week — or just by default — buy FD's **"Hass Avocados, Ready-to-Eat" 2-ct
+  (~$5.99)** instead of loose. Loose singles are only the right buy when late-week/staggered
+  ripening is actually desirable.
 - **Skip cilantro (2026-06-21).** Uses too little to justify it, doesn't think it adds much, and
   ends up with a wilting bunch. **Default to parsley as the one herb; don't buy cilantro** unless
   he asks — sub parsley (or just skip the herb) in recipes that call for it.

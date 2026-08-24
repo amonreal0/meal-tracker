@@ -89,6 +89,11 @@ in the apartment.
 - [ ] Salsa verde / tomatillo salsa
 
 ## Notes
+- **2026-08-23 status:** garlic was **out** (08-16 head drained by lentil soup + picadillo) —
+  **new head ordered 2026-08-23**. Eggs **confirmed out by user** — ½ dozen ordered 2026-08-23.
+  Greek yogurt (Fage 2% 16 oz) ordered — harissa uses ~⅔ cup, rest for snacking. Jalapa Jar
+  **rebought** (standing staple). Couscous + harissa finally getting used (08-24 week). Chickpea
+  can freed up: chickpeas officially cut from the chopped salad — hold for a crispy-chickpea night.
 - **Travel reset #2 (2026-08-11).** Away ~3 weeks after the 07-17 delivery (surprise travel).
   All perishables from that order are **gone** (confirmed 2026-08-11): arugula, cucumber, grape
   tomatoes, parsley, basil, serranos, raspberries, avocados, limes, **eggs, oranges, and the raw

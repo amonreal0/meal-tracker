@@ -43,7 +43,7 @@ Makes **2 servings**. Compact ingredient list — good for a delivery order.
 - 1 tbsp olive oil
 - 1 tbsp lemon juice
 - Salt and pepper
-- Optional: ¼ cup feta
+- ~~Optional: ¼ cup feta~~ *(struck 2026-08-23 — feta is a hard no per profile 2026-07-08)*
 
 ### Yogurt sauce
 - ½ cup Greek yogurt

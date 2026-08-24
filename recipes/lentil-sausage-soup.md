@@ -6,8 +6,8 @@ effort: low
 time_minutes: 70
 equipment: [stovetop]
 tags: [soup, legumes, lentils, sausage, leftover-friendly, savory, staple]
-times_made: 1
-last_made: 2026-06-17
+times_made: 2
+last_made: 2026-08-19
 rating: 5
 ---
 
@@ -51,3 +51,5 @@ reheating. Even better day two.
 - 2026-06-17 — **Excellent. Promote to staple rotation.** Only fix: lentils needed ~30 min
   *more* simmering than the recipe's 25–30 (so ~55–60 total) to get fully tender. Recipe times
   updated. Likely the acidic tomatoes + lentil age; not a problem, just budget the time. Rated 5.
+- 2026-08-23 (re: 2026-08-19, week of 08-17) — **"Top notch."** Second make confirms the 5★.
+  No changes requested.
