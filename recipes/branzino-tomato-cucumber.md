@@ -6,9 +6,9 @@ effort: easy
 time_minutes: 25
 equipment: [stovetop, skillet]
 tags: [fish, seafood, crispy-skin, light, fast, fresh, salad]
-times_made: 0
-last_made: null
-rating: null
+times_made: 1
+last_made: 2026-08-26
+rating: 5
 ---
 
 # Pan-seared branzino with tomato-cucumber salad
@@ -37,6 +37,19 @@ cooked fish reheats poorly).
 ### Optional starch (keep it light — the 08-18 shrimp bowl drowned in rice)
 - Small portion of couscous *(on hand)*, or skip entirely — the salad carries it
 
+### The heat (added 2026-08-26 — his one ask after the first make)
+The dish is excellent but "safe"; it wants something **very spicy** to keep you on your toes.
+**Do it inside the existing pan-finish, not as a separate sauce** — the whole point of this
+recipe is how special it feels for how little work, and a second component would spend exactly
+what he liked.
+- **Default: chiles de árbol in the garlic oil.** At step 4, drop **2–4 whole dried árbols**
+  (broken open, seeds in for full heat) into the pan with the smashed garlic. 30–45 sec off-heat
+  in the hot oil is enough — they should darken, never blacken. Squeeze the lemon in and spoon
+  the now-fiery oil over the fish. Zero added steps, mojo-style.
+- **Zero-effort fallback: chili crisp** *(on hand)*, spooned over the plated fillet.
+- **Project version: salsa macha** — toasted árbol/guajillo + peanuts blitzed into oil. Keeps
+  for weeks in the fridge, would serve this and a lot else. Worth a weekend.
+
 ## Method
 1. Mix the salad; let it sit while you cook.
 2. Dry the fillets again. Score the skin lightly if it's arching. Season.
@@ -51,4 +64,16 @@ cooked fish reheats poorly).
 tomorrow's salad, not reheated.
 
 ## Feedback log
-- (first make pending)
+- **2026-08-26 — first make. 5★. "Excellent."** What he singled out: **how special it felt for
+  actually very little effort.** That ratio is the recipe's whole value — protect it. Any future
+  change that adds a component or a step is probably the wrong change.
+  - **The one gap: it needs heat.** "The only thing that could elevate it would be something like
+    a very spicy sauce to keep you on your toes." → added a **The heat** section above; default
+    fix is dried árbols in the existing garlic-oil finish (no new step). **Buy dried chiles de
+    árbol** — cheap, keep forever, flagged in `pantry.md`.
+  - **Pan: stainless over cast iron** (asked mid-cook). One thin fillet means there's no thermal
+    drop for cast iron's mass to buffer, and cast iron overshoots on a fish that cooks in 4 min.
+    Stainless gives the visual preheat read and instant heat-down. Skin grabs at first and
+    releases itself when crisp — that's the technique, not a problem.
+  - Cooked as a **single fillet** (his 08-23 order edit, 2→1). Right call: no leftovers, and the
+    uncrowded pan crisps better. Keep buying one.
