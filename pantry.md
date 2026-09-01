@@ -22,7 +22,7 @@ in the apartment.
   soup; plenty left — spicy-mayo / crema duty)
 - [x] Harissa paste
 - [x] Chili crisp / chili oil (Lao Gan Ma, Fly By Jing, Momofuku…)
-- [ ] **Dried chiles de árbol — BUY (2026-08-26).** His branzino feedback: the dish needs "a very
+- [ ] **Dried chiles de árbol — BUY (2026-09-01).** His branzino feedback: the dish needs "a very
   spicy sauce to keep you on your toes." Árbols dropped into the existing garlic-oil pan finish
   add heat with **zero extra steps** — which matters, because what he loved about that recipe was
   the effort-to-payoff ratio. Cheap, keep ~forever, and they're the base for salsa macha later.
