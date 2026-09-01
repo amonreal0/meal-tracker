@@ -1,56 +1,40 @@
-# Current FreshDirect cart
+# FreshDirect order — week of 2026-08-31
 
-## FILLED cart for week of 2026-08-24   (filled 2026-08-23)
+Status: **ORDERED 2026-08-30 — delivery Tue 2026-09-01** (user confirmed). 15 items,
+subtotal **$81.99** before tax. Built from the approved plan in `weeks/2026-08-31.md`;
+verified in the bag drawer item-by-item before checkout.
 
-**Status: ORDERED by the user 2026-08-23.**
-15 line items / 18 units, **subtotal $94.14 before tax** (* = by-weight estimates). List
-approved in chat 2026-08-23 (his confirms: Jalapa Jar rebuy, eggs out, Monday-delivery plan
-OK). **His edits 2026-08-23 after review: branzino 2→1 fillet; loose avocado swapped for the
-Ready-to-Eat 2-pack** (last week's loose ones took all week to ripen).
+## Filled cart (verified)
 
-| Item | Product (brand + size) | Qty | Price | For |
+| # | Item | FD product | Qty | Price |
 |---|---|---|---|---|
-| Chicken thighs | Springer Mountain Farms Boneless Skinless Thighs (~1.8 lb pack) | 1 | $10.60* (sale $5.89/lb, save 10%) | harissa chicken (+leftover bowl) |
-| Branzino | **Branzino Fillet, ~0.5 lb ($33.59/lb, "Exceptional")** | 1 | $16.80* | branzino night (his call: 1 fillet, ~7.5 oz) |
-| Salami | Applegate Organics Uncured Genoa Salami, 4 oz | 1 | $9.39 | chopped salad |
-| Provolone | **Wild Harvest** Organic No Smoke Provolone, 6 oz ("Your Fave" — the old Applegate listing rebranded) | 1 | $4.99 | chopped salad |
-| Greek yogurt | **Fage TOTAL 2% Greek Yogurt, Plain, 16 oz** | 1 | $4.49 | harissa marinade + yogurt sauce (+peach snacking) |
-| Eggs | Just FD Organic Pasture-Raised Large, ½ dozen | 1 | $5.49 | leftover/pantry nights |
-| Arugula | Olivia's Organics Baby Arugula, ~5 oz | 1 | $3.99 | chopped salad + Thu bowl |
-| Grape tomatoes | Organic Grape Tomatoes, ~12 oz ("Your Fave") | 1 | $5.99 | all three dinners |
-| Cucumbers | Organic Green Cucumber (2-for promo) | 2 | $4.50 | harissa + branzino salads |
-| Red onion | **Red Onion, Large, loose ("Your Fave") — the single IS surfacing again**, no 2 lb bag needed | 1 | ~$1.89* | ¼ each into the three salads |
-| Garlic | Garlic, head ("Your Fave") | 1 | $3.49 | harissa + branzino |
-| Lemons | "Pretty on the Inside" Lemons, loose | 2 | $1.18 | harissa (1) + branzino (1) |
-| Avocados | **Hass Avocados, Ready-to-Eat, 2 ct (~1 lb)** | 1 | $5.99 | standing default — ripe on arrival (his ask; loose ones took all week) |
-| White peaches | Family Tree Farms White Peach (~0.78 lb each) | 4 | ~$9.33* (sale $2.99/lb, was $3.99) | week's fruit |
-| Jalapa Jar salsa | Jalapa Jar Fresh Salsa, Medium, 16 oz ("Your Fave") | 1 | $10.59 | standing staple restock |
+| 1 | Chicken thighs (soup) | Springer Mountain Farms Boneless Skinless Thighs, 5–6 ct | 1 | $10.60* (SALE $5.89/lb, was $11.86) |
+| 2 | Ground pork (noodles) | Hickory Nut Gap Pasture-Raised Ground Pork, 12 oz | 1 | $7.49 |
+| 3 | Bacon (BLT) | North Country Smokehouse Organic Applewood Uncured, 8 oz | 1 | $9.69 (up from $8.29) |
+| 4 | Sourdough (BLT) | Just FreshDirect All-Natural Sourdough, 16 oz | 1 | $4.49 (SALE, was $5.49) |
+| 5 | Scallions | Scallions, ~6 oz bunch | 1 | $1.99 |
+| 6 | Ginger | Organic Ginger Root, ~6 oz | 1 | $4.39 |
+| 7 | Limes | Limes, loose | 2 | $1.58 |
+| 8 | Slicing tomato (BLT) | **Lancaster Farm Local Organic Heirloom Tomatoes** — the only single-tomato buy (all beefsteaks force min 2); ~0.83 lb | 1 | $4.97* |
+| 9 | Baby arugula | Olivia's Organics Baby Arugula, ~5 oz | 1 | $3.99 |
+| 10 | Avocados | Hass Avocados, Ready-to-Eat, 2 ct | 1 | $5.99 |
+| 11 | Week's fruit | **Red Seedless Grapes, ~2 lb** ("Excellent"-rated, SALE) — cherries GONE, season over (searched; only frozen/jarred left) | 1 | $7.85* (was $8.98) |
+| 12 | Noodles | Twin Marquis Lo Mein Noodles, Frozen, 16 oz | 1 | $4.99 |
+| 13 | Diced tomatoes (soup) | **Muir Glen Organic FIRE ROASTED Diced, 14.5 oz** (the variant exists — recipe's preference) | 1 | $3.99 |
+| 14 | Chicken broth (soup) | Pacific Organic Low-Sodium Chicken Broth, 32 oz | 1 | $3.99 (down from $4.59) |
+| 15 | Corn tortillas (soup strips) | Vista Hermosa Corn Tortillas, 5", 10 ct | 1 | $5.99 |
 
-### Judgment calls made while filling
-- **Branzino sold per ~0.5 lb fillet** ($16.80 est each). Claude initially took 2 (one per
-  person); **user cut to 1 on review** — one ~7.5 oz fillet for the night. Premium ($33.59/lb)
-  but FD top-rated "Exceptional" and the week's only seafood.
-- **Avocados swapped to Ready-to-Eat on his review** — last week's loose Hass took until the
-  end of the week to ripen. FD's "Hass Avocados, Ready-to-Eat" 2-ct ($5.99) arrives ripe;
-  within the 2-max rule. New standing rule saved to profile + catalog.
-- **Provolone:** the catalog's Applegate 6 oz now lists as **Wild Harvest** Organic No Smoke
-  Provolone — same size/price ($4.99), tagged "Your Fave." Took it; catalog updated.
-- **Red onion:** contrary to the catalog quirk note, a loose single ("Red Onion, Large") is
-  back and even tagged "Your Fave" — bought 1 instead of the 2 lb bag. Catalog updated.
-- **Yogurt:** Fage TOTAL 2% 16 oz ($4.49) — smallest sane plain tub; 5.3 oz singles would
-  barely cover the two recipe uses, 32 oz would linger.
-- **Peaches ×4** (~3.1 lb, ~$9.33) — same role/spend as the 4 plumcots he loved; on sale.
-- **Chicken thighs pack runs ~1.8 lb** vs the recipe's 1–1.25 lb — cook it all; the extra
-  feeds Thursday's leftover salad bowl.
-- No weight-modal popups, no "existing order vs new bag" popup this session.
+`*` = estimated (by-weight items). **Subtotal: $81.99** (before tax; was $85.38 pre-sales).
 
-### NOT added — on hand / intentionally skipped
-Harissa paste, couscous, oils, Dijon, mayo, pickled jalapeños, chili crisp, soy/rice
-vinegar/sesame oil, rice, panko, cornstarch, 1 can chickpeas (freed up — chickpeas cut from
-the chopped salad), full spice rack (08-16 restock), sour cream, chipotles, ½ yellow onion,
-tortilla remnants. Skipped: parsley (skippable), pepperoncini (jalapeños sub), broth (couscous
-in water), limes, lasting fruit. No cilantro/feta/black beans/broccoli/Mission/flowers.
+## NOT filled — needs another source
+- **Dried chiles de árbol (+ guajillos):** FreshDirect carries **no dried Mexican chiles at
+  all** (searched "dried chiles de arbol", "dried chile peppers", "guajillo" — nothing).
+  Bodega / Mexican grocery / Amazon buy. Still on the standing list in `pantry.md`.
 
-### Order placed ✓
-Ordered 2026-08-23. Day-by-day assumes **Monday 08-24 delivery** — if the window landed on
-Tuesday, shift everything a day (branzino stays the delivery-day dinner).
+## Skipped as on-hand
+Chipotles (opened), mayo + chili crisp, cumin, Italian medley, garlic, red onions, pickled
+jalapeños, Jalapa Jar, soy/rice vinegar/sesame oil, cornstarch, eggs, Greek yogurt, oils.
+
+## Outcome
+Ordered 2026-08-30 for **Tuesday 09-01 delivery** — day-by-day in the week file shifted +1
+(soup lands Tue, BLT Thu, noodles Fri). Reminder on arrival: **freeze the ground pork.**

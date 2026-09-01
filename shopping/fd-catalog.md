@@ -97,9 +97,18 @@ How to use:
 | Greek yogurt (plain) | **Fage TOTAL 2% Greek Yogurt, Plain, 16 oz** (`dai_fage_2ygrt`) | $4.49 | smallest sane plain tub (5.3 oz singles too small for a marinade + sauce; 32 oz lingers). 0%/5% variants same price |
 | White peaches | **Family Tree Farms White Peach** (`fru_pid_2210296`), by fruit ~0.78 lb each | $2.99–3.99/lb | same grower as the beloved Summer Punch plumcots; min 2 fruits, 4 = a week's fruit (~$9–12). Season ~Jun–Sep. Yellow Peach (loose, $3.99/lb) is the alternate |
 
+| Heirloom tomato (single) | **Lancaster Farm Fresh Coop Local Organic Heirloom Tomatoes** (by weight, $5.99/lb, ~0.83 lb ea) | ~$4.97 | **the only single-tomato buy on FD** — every beefsteak listing forces min qty 2 (confirmed 2026-08-30). Big slicer; BLT duty |
+| Grapes | Red Seedless Grapes, ~2 lb (by weight, $3.49/lb) | ~$7.85 | "Excellent"-rated 08-30; the fast-fruit fallback when cherries are out of season |
+| Fire-roasted diced tomatoes | Muir Glen Organic Fire Roasted Diced Tomatoes, 14.5 oz | $3.99 | the tortilla-soup preference; $0.60 over plain Muir Glen |
+| Dried chiles (árbol, guajillo) — NOT ON FD | — | — | **FD carries no dried Mexican chiles at all** (searched árbol/guajillo/dried chile peppers, 2026-08-30). Bodega / Amazon item |
+
 <!-- Price updates 2026-08-16: Muir Glen diced tomatoes $2.69→$3.39; Pacific low-sodium broth
 $3.69→$4.59; limes $0.69→$0.79/ea; Hickory Nut Gap hot Italian sausage $6.49→$7.29 (was on an
 "any 2 for $11.98" promo). -->
+
+<!-- Price updates 2026-08-30: Pacific low-sodium broth back to $3.99; North Country bacon
+$8.29→$9.69; Springer Mountain thighs on sale $5.89/lb (reg ~$6.59); Just FD sourdough on sale
+$4.49 (reg $5.49). Fresh cherries fully delisted — Northwest season over (late Aug). -->
 
 <!-- Eggs update 2026-07-15: the ½-dozen "Just FreshDirect Organic Cage-Free Pasture-Raised Grade A Large Eggs" ($5.49) IS surfacing again (as "Your Fave") — earlier note said it had stopped. Dozen still better value/egg; use ½-doz if minimizing. -->
 

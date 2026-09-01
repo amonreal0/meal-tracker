@@ -22,11 +22,12 @@ in the apartment.
   soup; plenty left — spicy-mayo / crema duty)
 - [x] Harissa paste
 - [x] Chili crisp / chili oil (Lao Gan Ma, Fly By Jing, Momofuku…)
-- [ ] **Dried chiles de árbol — BUY (2026-09-01).** His branzino feedback: the dish needs "a very
-  spicy sauce to keep you on your toes." Árbols dropped into the existing garlic-oil pan finish
-  add heat with **zero extra steps** — which matters, because what he loved about that recipe was
-  the effort-to-payoff ratio. Cheap, keep ~forever, and they're the base for salsa macha later.
-  Add to the next order. (Guajillos alongside if easy — macha wants both.)
+- [ ] **Dried chiles de árbol — BUY, but NOT from FreshDirect (2026-08-30: FD carries no dried
+  Mexican chiles at all — searched árbol/guajillo/dried chile peppers, zero hits).** Needs a
+  bodega / Mexican grocery / Amazon buy instead. Original ask (2026-08-26): branzino feedback —
+  the dish needs "a very spicy sauce to keep you on your toes." Árbols dropped into the existing
+  garlic-oil pan finish add heat with **zero extra steps.** Cheap, keep ~forever, base for salsa
+  macha later. (Guajillos alongside — macha wants both.)
 - [ ] Pickled jalapeños — **GONE (2026-08-11), rebuy.** Standing staple; he uses them/their
   brine as his salad acid (prefers to red wine vinegar). On the 08-10 buy list.
 - [ ] Artichoke hearts (for the artichoke-jalapeño sandwich sauce)

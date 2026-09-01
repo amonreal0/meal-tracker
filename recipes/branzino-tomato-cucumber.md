@@ -7,7 +7,7 @@ time_minutes: 25
 equipment: [stovetop, skillet]
 tags: [fish, seafood, crispy-skin, light, fast, fresh, salad]
 times_made: 1
-last_made: 2026-09-01
+last_made: 2026-08-26
 rating: 5
 ---
 
@@ -37,7 +37,7 @@ cooked fish reheats poorly).
 ### Optional starch (keep it light — the 08-18 shrimp bowl drowned in rice)
 - Small portion of couscous *(on hand)*, or skip entirely — the salad carries it
 
-### The heat (added 2026-09-01 — his one ask after the first make)
+### The heat (added 2026-08-26 — his one ask after the first make)
 The dish is excellent but "safe"; it wants something **very spicy** to keep you on your toes.
 **Do it inside the existing pan-finish, not as a separate sauce** — the whole point of this
 recipe is how special it feels for how little work, and a second component would spend exactly
@@ -64,7 +64,7 @@ what he liked.
 tomorrow's salad, not reheated.
 
 ## Feedback log
-- **2026-09-01 — first make. 5★. "Excellent."** What he singled out: **how special it felt for
+- **2026-08-26 — first make. 5★. "Excellent."** What he singled out: **how special it felt for
   actually very little effort.** That ratio is the recipe's whole value — protect it. Any future
   change that adds a component or a step is probably the wrong change.
   - **The one gap: it needs heat.** "The only thing that could elevate it would be something like
