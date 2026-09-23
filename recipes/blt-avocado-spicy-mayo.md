@@ -6,8 +6,8 @@ effort: low
 time_minutes: 15
 equipment: [stovetop, air-fryer]
 tags: [sandwich, no-cook, low-cook, bacon, avocado, spicy]
-times_made: 1
-last_made: 2026-06-19
+times_made: 2
+last_made: 2026-09-03
 rating: 5
 ---
 
@@ -43,3 +43,10 @@ if you want more heat/acid.
 - 2026-06-19 — **Really good and convenient — a keeper.** The avocado was a highlight; he liked
   having one around all week for its versatility, not just the sandwich. Keep an avocado on most
   carts as a standing-useful item. Rated 5.
+- **2026-09-22 (re: week of 08-31, cooked Thu 09-03) — second make. Still 5, held for
+  convenience.** His words: "good because of how convenient it is." Worth reading precisely —
+  the value here is **the effort-to-dinner ratio, not the sandwich being remarkable.** That's
+  exactly what earns its slot: it's the thing that makes a cook-free night still feel like
+  dinner. **Planning implication:** keep pitching the BLT as the low-effort slot filler, and
+  don't try to "upgrade" it with extra components — the convenience *is* the feature.
+  *(Cook date inferred from the week plan.)*

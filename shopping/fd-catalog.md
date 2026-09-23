@@ -13,20 +13,20 @@ How to use:
 | Generic item | FreshDirect product (brand / size) | Price | Notes |
 |---|---|---|---|
 | Extra-firm tofu | Nasoya Organic Extra Firm Tofu, 14 oz | $4.19 | good single-block size |
-| Salami (sliced) | Applegate Organics Uncured Genoa Salami, 4 oz | $9.39 | 6oz pre-sliced packs were ~$15.69; this is the sane single size |
-| Provolone (sliced) | **Wild Harvest** Organic No Smoke Provolone, 6 oz (10 ct) | $4.99 | smallest clean pack. **2026-08-23: the old Applegate listing now surfaces as Wild Harvest** — same size/price, tagged "Your Fave"; search "applegate provolone" still finds it |
+| Salami (sliced) | Applegate Organics Uncured Genoa Salami, 4 oz (`del_pid_3204417`) | $9.99 | 6oz pre-sliced packs were ~$15.69; this is the sane single size |
+| Provolone (sliced) | **Wild Harvest** Organic No Smoke Provolone, 6 oz (10 ct) (`dai_pid_2005935`) | $4.99 | smallest clean pack. **2026-08-23: the old Applegate listing now surfaces as Wild Harvest** — same size/price, tagged "Your Fave"; search "applegate provolone" still finds it |
 | Eggs | Just FreshDirect Organic Cage-Free Pasture-Raised Large Eggs — **½ dozen ($5.49) is his default (2026-08-11)**; Dozen ($6.49) exists | $5.49 | ½-dozen surfaces fine again (bought 2026-08-11). He prefers 6 over 12 — no weekday breakfasts, a dozen lingers. |
 | Chickpeas (canned) | Goya Chick Peas / Garbanzo Beans, 15.5 oz | $1.79 | cheap, reliable |
 | Diced tomatoes (canned) | Muir Glen Organic Diced Tomatoes, 14.5 oz | $2.69 | |
 | Yellow onion | Lancaster Farm Local Organic Yellow Onion, medium | ~$0.90 | by weight |
 | Red onion | Red Onion, large (loose) | ~$1.89 | by weight |
-| Garlic | Garlic, 1 head | $3.49 | |
+| Garlic | Garlic, 3 ct head (`veg_pid_2302395`) | $3.49 | |
 | Cilantro | Organic Cilantro, bunch | $2.49 | |
-| Arugula | Olivia's Organics Baby Arugula, ~5 oz | $3.99 | often "any 2 for $7" — but one clamshell is right for a single person; don't buy 2 (wilts) |
-| Cherry tomatoes | **Organic Grape Tomatoes, ~12 oz** | $5.99 | FD has **no plain single-color cherry tomato** (only "Mixed Cherry" = the medley he dislikes). Grape = the cleanest single-variety pick. Confirmed 2026-06-21. |
-| Lemon | "Pretty on the Inside" Lemons (loose) | $0.59 ea | cheapest loose lemon (2026-07-08); adds at qty **1** and the +/- stepper works cleanly (unlike the $0.99 "4 for $3" lemon which forces qty 2). |
+| Arugula | Olivia's Organics Baby Arugula, ~5 oz (`veg_pid_2302999`) | $3.99 | often "any 2 for $7" — but one clamshell is right for a single person; don't buy 2 (wilts) |
+| Cherry tomatoes | **Organic Grape Tomatoes, ~12 oz** (`tm_grape_or`) | $5.49 | FD has **no plain single-color cherry tomato** (only "Mixed Cherry" = the medley he dislikes). Grape = the cleanest single-variety pick. Confirmed 2026-06-21. |
+| Lemon | "Pretty on the Inside" Lemons (loose) (`fru_pid_2211004`) | $0.59 ea | cheapest loose lemon (2026-07-08); adds at qty **1** and the +/- stepper works cleanly (unlike the $0.99 "4 for $3" lemon which forces qty 2). |
 | Broccoli | Broccoli Crowns (loose) | $2.49 ea | UI added in qty 2; hard to set to 1 |
-| Raspberries | FreshDirect Raspberries (house brand), ~6 oz | $3.49–3.99 | user-approved favorite (seen on sale at $3.49) |
+| Raspberries | FreshDirect Raspberries (house brand), ~6 oz (`fru_pid_2210871`) | $3.99 | user-approved favorite (seen on sale at $3.49) |
 | Apples (lasting fruit) | Organic Pink Lady Apples, 4 ct (~2 lb) | $5.99 | |
 | Avocados | Hass Avocado (loose) | $1.99 ea | |
 | Frozen naan | Atoria's Family Bakery Traditional Naan, Frozen, 2 ct (10 oz) | $4.79 | |
@@ -52,7 +52,7 @@ How to use:
 | Lo mein noodles | **Twin Marquis Lo Mein Noodles, Frozen, 16 oz** | $4.99 | **the week-1 noodles he liked (user-confirmed 2026-06-21)**; frozen, keeps. For garlic chili noodles |
 | Corn tortillas | **Vista Hermosa Corn Tortillas, 5", 10 ct** | $5.99 (was $5.39) | his preferred brand (2026-06-21). **NEVER buy Mission tortillas — he really dislikes them.** |
 | Tortilla chips | **Vista Hermosa Totopos Tortilla Chips, Sea Salted, 9 oz** | $7.49 | his brand for chips too (2026-08-11); Sea Salted = the "Your Fave" variant (Blue Corn exists). Soup-topping duty |
-| Fresh salsa | **Jalapa Jar Fresh Salsa, Medium, 16 oz** | $10.59 | **standing staple (2026-08-11)** — keep one around at all times. Medium = his prior buy ("Your Fave"); Mild exists, skip it. Refrigerated/fresh |
+| Fresh salsa | **Jalapa Jar Fresh Salsa, Medium, 16 oz** (`dai_pid_2004832`) | $10.59 | **standing staple (2026-08-11)** — keep one around at all times. Medium = his prior buy ("Your Fave"); Mild exists, skip it. Refrigerated/fresh |
 | Sour cream | Breakstone's Sour Cream, 8 oz | $2.99 | smallest tub. **FD carries no Mexican crema** — use this for lime crema |
 | Green cabbage | Green Cabbage, loose (by lb, $0.99/lb) | ~$4/head | heads run big (~4 lb / ~$4); plenty for slaw + weekend leftovers |
 | Limes | Limes, loose ($0.69/ea, min qty 2) | $0.69 ea | UI min qty 2 |
@@ -74,18 +74,18 @@ How to use:
 | Avocados (ready to eat) | **Hass Avocados, Ready-to-Eat, 2 ct ~1 lb** (`veg_fd_fgavcrdypk`) | $5.99 | **the default avocado buy as of 2026-08-23** — ripe on arrival. Organic version exists ($6.99). Within the 2-max rule |
 
 | Chicken thighs (boneless) | Springer Mountain Farms Boneless Skinless Chicken Thighs, Raised w/o Antibiotics (5–6 ct, by lb) | $6.59/lb | same trusted brand as the cutlets; cheapest good option. Pack runs ~1.5 lb (more than 1 lb — freezes fine) |
-| Ground chicken | Smart Chicken Organic Ground Chicken, Air-Chilled, ~1 lb | $8.99 (sale; reg $10.49) | **regular grind, NOT lean breast** — breast grind is too dry for pad krapow/stir-fry. Air-chilled organic |
+| Ground chicken | Smart Chicken Organic Ground Chicken, Air-Chilled, ~1 lb (`mea_pid_3335022`) | $10.49 | **regular grind, NOT lean breast** — breast grind is too dry for pad krapow/stir-fry. Air-chilled organic |
 | Top sirloin steak | 100% Grass-Fed Boneless Center-Cut Top Sirloin Steak (by lb, $23.19/lb) | ~$17.39 | **BY-WEIGHT MODAL** — pick thickness (0.5"=0.30 lb · 1.0"=0.45 lb · **1.5"=0.75 lb**) + packaging (Standard, or Vacuum +$0.50). **1.5" ≈ ¾ lb, ideal for searing + slicing over salad.** Much cheaper than skirt ($34–41/lb) for a sliced-over-salad use |
 | Oyster sauce | Lee Kum Kee Premium Oyster Flavored Sauce, 9 oz | $6.19 | the classic; keeps a long time |
 | Fish sauce | Red Boat Fish Sauce, 8.45 fl oz | $9.99 | gold-standard brand; pricey but keeps for years (one-time buy) |
-| Basil | Organic Basil, ~2 oz | $3.99 | **FD carries NO Thai basil (confirmed 2026-07-15)** — sub regular basil in pad krapow / Thai dishes |
-| Serrano peppers | Serrano Peppers (3–4 ct, ~0.25 lb) | $0.99 | rated Excellent; fresh chile heat for stir-fries (pickled won't sub) |
+| Basil | Organic Basil, ~2 oz (`orghrb_basil_vsku`) | $3.99 | **FD carries NO Thai basil (confirmed 2026-07-15)** — sub regular basil in pad krapow / Thai dishes |
+| Serrano peppers | Serrano Peppers (3–4 ct, ~0.25 lb) (`veg_pep_srnopkg`) | $0.99 | rated Excellent; fresh chile heat for stir-fries (pickled won't sub) |
 | Flowers — sunflowers | Lancaster Farm Fresh Cooperative Sunflower Bunch, Locally Grown (5 ct) | $9.99 | cheerful summer bunch; good value for the ~monthly flower treat |
 | Red onion (single) | **"Red Onion, Large" (loose, by weight) — surfacing again as of 2026-08-23** (~$1.89, tagged "Your Fave"); grab it via search "red onions" | ~$1.89 | The old quirk (2 lb minimums only) resolved itself. Fallback if it vanishes: plain "Red Onions" 2 lb / 6 ct bag ($3.79) — they keep a month |
 
 | Fingerling potatoes | Lancaster Farm Fresh Coop Local Organic Russian Banana Fingerlings, ~1.5 lb bag | $5.99 | peak-rated 08-16; roast/picadillo duty. **Quirk: carousel add-buttons showed disabled — the product page's own Add to bag works** |
 | Plumcots | **Family Tree Farms Summer Punch Plumcot** ($3.99/lb) | ~$2.45/fruit | "Exceptional"-rated stone fruit, in season ~Jul–Sep. **"Min. of 2" = 2 individual fruits (~0.6 lb each), NOT 2 lb** — buy 4 for a week's fruit. **User verdict 2026-08-23: "excellent" — proven rebuy while in season** |
-| Cucumber (organic) | Organic Green Cucumber, ~7 oz | $2.49 / **2 for $4.50** | peak-rated 08-16; the 2-for promo applies automatically at qty 2 |
+| Cucumber (organic) | Organic Green Cucumber, ~7 oz (`cuc_grn_or`) | $2.49 / **2 for $4.50** | peak-rated 08-16; the 2-for promo applies automatically at qty 2 |
 | Carrots (updated) | Jumbo Carrots, loose ($1.49/lb) | ~$0.30–0.60/carrot | **QUIRK: qty stepper = number of CARROTS, not lbs** — qty 1 is a single carrot. 2–3 for a soup |
 | Ground cumin | Just FreshDirect Ground Cumin, 1.8 oz | $4.39 | house brand, small jar |
 | Smoked paprika | Simply Organic Smoked Paprika, 2.72 oz | $9.19 | pricey but the only real smoked paprika in top results (house brands = plain paprika only); lasts a year+ |
@@ -113,3 +113,16 @@ $4.49 (reg $5.49). Fresh cherries fully delisted — Northwest season over (late
 <!-- Eggs update 2026-07-15: the ½-dozen "Just FreshDirect Organic Cage-Free Pasture-Raised Grade A Large Eggs" ($5.49) IS surfacing again (as "Your Fave") — earlier note said it had stopped. Dozen still better value/egg; use ½-doz if minimizing. -->
 
 <!-- Add real product URLs/IDs on a future order to make reordering one-click. -->
+
+| Cara Cara oranges (lasting fruit) | **Cara Cara Orange, loose** (`orng_rednavel`), ~0.75 lb ea | $1.49 ea / **4 for $4** | **The better orange buy as of 2026-09-22** — the "4 for $4" promo sat on Cara Cara this week while plain Navel (`orng_navel`) was $1.79/ea with no promo, so 4 Cara Caras ($4.00) beat 2 navels ($3.58) on both count and price. Red-fleshed navel, sweeter. **UI min qty 2; step up to 4 for the promo** — same quirk as navels (the promo button doesn't add to cart) |
+| Flowers — dahlias | **Wells Homestead Acres Dahlia Bunch, Locally Grown** (`flo_pid_2490306`) | $14.99 (**any 2 for $24**) | **The flower pick as of 2026-09-22, chosen against the sunflower failure:** short compact stems that fit a small vessel — he has no large vase. Locally grown; **dahlias peak late Aug–Oct**, so this is a seasonal buy. Other short-stem options on FD: Locally Grown Marigolds 10 ct ($14.99) and Tulips Bunch 10 ct ($14.99, Express). **Buy 1, not the 2-for** — one bunch is the standing brief |
+| Sandwich bread (ID) | Just FreshDirect All-Natural Sourdough, 16 oz / 12 slices (`bak_pid_4651144`) | $5.49 | the 08-30 $4.49 was a sale; $5.49 is regular |
+| Eggs (ID) | Just FreshDirect Organic Cage-Free Pasture-Raised Large Eggs, **½ dozen** (`dai_pid_2003886`); Dozen = `dai_pid_2003885` ($6.49) | $5.49 | ½-dozen is his default |
+| Limes (ID) | Limes, loose (`lme_lime`) | $0.79 ea | **auto-adds at qty 2** (the min) — one click, no stepping needed. "Pretty on the Inside Limes" (`fru_pid_2211005`, $0.59) is a cheaper alternative if ever wanted |
+| Red onion (ID) | "Red Onion, Large" loose (`on_red`), $1.99/lb | ~$1.99 | still surfacing; a smaller Lancaster organic red onion (`veg_pid_2301799`, ~0.65 lb / $1.62) is the better single-person size if the large one is too much |
+| Pineapple (AVOID for one person) | ~~Mini Honeyglow Pineapple (`fru_pid_2210978`)~~ | $7.99 | Peak-page favorite, but **"Mini" is misleading — it's a 3 lb whole pineapple.** Too much fruit + too much knife work for a single household; skipped 2026-09-22 in favor of oranges. Only buy if he actively wants a pineapple project |
+
+<!-- Price updates 2026-09-22: Applegate organic Genoa salami $9.39→$9.99; Smart Chicken organic
+ground chicken back to regular $10.49 (the $8.99 was a sale); Just FD sourdough back to regular
+$5.49; organic grape tomatoes $5.99→$5.49 (on sale); Red Onion Large now priced $1.99/lb.
+Branzino fillet steady at $33.59/lb (~7.3–7.7 oz actual = $16.80). Cherries still delisted. -->

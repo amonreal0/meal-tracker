@@ -53,3 +53,7 @@ Makes **2 servings**. Fast Friday-ish meal.
 - 2026-06-12 — **Favorite of the week.** Made as written; came out great. This is a proven
   keeper — keep it in heavy rotation. Have ginger + scallions left over, so it's cheap to
   repeat soon.
+- **2026-09-22 (re: week of 08-31) — NOT made.** Week ran out before Friday. Both components
+  survived: the **noodles and the ground pork are in the freezer**, and he's deliberately
+  **keeping them as a standing emergency meal.** Don't rebuy either; don't schedule this dish
+  as a planned dinner until he uses the stash — it's now the safety net, not a slot.

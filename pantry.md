@@ -22,9 +22,11 @@ in the apartment.
   soup; plenty left — spicy-mayo / crema duty)
 - [x] Harissa paste
 - [x] Chili crisp / chili oil (Lao Gan Ma, Fly By Jing, Momofuku…)
-- [ ] **Dried chiles de árbol — BUY, but NOT from FreshDirect (2026-08-30: FD carries no dried
-  Mexican chiles at all — searched árbol/guajillo/dried chile peppers, zero hits).** Needs a
-  bodega / Mexican grocery / Amazon buy instead. Original ask (2026-08-26): branzino feedback —
+- [ ] **Dried chiles de árbol — HE IS SOURCING THESE HIMSELF (2026-09-22, his call).** Not a
+  FreshDirect item (2026-08-30: FD carries no dried Mexican chiles at all — searched
+  árbol/guajillo/dried chile peppers, zero hits), so it needs a bodega / Mexican grocery /
+  Amazon buy — and he's taking it on. **Don't put it on FD carts; don't treat it as blocking
+  the branzino.** Original ask (2026-08-26): branzino feedback —
   the dish needs "a very spicy sauce to keep you on your toes." Árbols dropped into the existing
   garlic-oil pan finish add heat with **zero extra steps.** Cheap, keep ~forever, base for salsa
   macha later. (Guajillos alongside — macha wants both.)
@@ -76,6 +78,11 @@ in the apartment.
 - (Later: sherry vinegar — great in salads, beans, Spanish/Mexican savory food.)
 
 ## Freezer staples (good for one person)
+- [x] **EMERGENCY MEAL — garlic chili noodles, fully stocked (2026-09-22).** The week-of-08-31
+  **noodles + ground pork went into the freezer unmade** and he's deliberately keeping them as
+  his break-glass dinner. **Don't rebuy either item, and don't schedule the noodle dish as a
+  planned dinner** until he's used the stash — it stops being a safety net the moment it's on
+  a plan.
 - [ ] Frozen naan
 - [ ] Frozen dumplings (emergency dinner + chili crisp + cucumber salad)
 - [ ] Frozen shrimp
@@ -125,3 +132,14 @@ in the apartment.
   appealing and left 2 cans unused. He *is* interested in the **air-fried/crispy** version — so
   lean chickpeas toward crispy prep (air-fryer) rather than tossing them in raw.
 - (purchase / brand notes go here — e.g. "Mina harissa = good", "FD cilantro often wilted")
+
+- **Travel reset #3 (2026-09-22).** Away ~3 weeks after the Tue 09-01 delivery; he reports
+  **"nothing on the fridge."** Assume every perishable from that order is gone: bread, bacon,
+  chicken, scallions, ginger, limes, tomato, arugula, avocados, grapes. **Two open containers
+  to toss on sight** — the **opened chipotle can** (open since the 08-13 soup) and the
+  **Jalapa Jar tub** (opened ~08-23); both are 4+ weeks open. Jalapa Jar is a standing staple,
+  so it goes back on the buy list. **Kept:** the freezer stash above, dry lentils (only 1 cup
+  of the Goya 16 oz used), the whole 08-16 spice restock, noodles/tortillas if unopened, jars,
+  oils, pickled jalapeños, cornstarch. **Unverified, ask before relying on:** eggs (½ dozen from
+  08-23 — ~4½ weeks, borderline), garlic (08-23 head), Greek yogurt (08-23 tub — likely gone),
+  the 2 lb red onion bag.

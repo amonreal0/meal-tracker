@@ -20,11 +20,12 @@
   red wine vinegar in salad dressings from now on.
 - **Appled out (as of 2026-06-14).** Rotate the "lasting fruit" away from apples for now —
   oranges/mandarins/grapes instead. Revisit apples later.
-- **Flowers: PAUSED (2026-08-11).** The monthly-flowers experiment is on hold — the 07-17
-  sunflowers didn't work out (he doesn't have a big enough container/vase for them, and they
-  bloomed to an empty apartment). Don't add flowers to carts for now. If it ever resumes:
-  smaller/shorter bunches, **not sunflowers.** (History: first-order gift 06-07 was liked;
-  sunflower bunch 07-17 was the miss.)
+- **Flowers: RESUMED (2026-09-22, his ask).** The pause (2026-08-11, after the 07-17 sunflower
+  miss) is lifted — he asked for flowers on this delivery. **Constraints carried over from the
+  miss, and they still bind:** buy a **small/short bunch** — he has no large vase, and a tall
+  sunflower-sized bunch has nowhere to go. **Never sunflowers.** Also time it so he's home:
+  the 07-17 bunch bloomed to an empty apartment during travel. (History: 06-07 first-order
+  gift = liked; 07-17 sunflowers = the miss; 09-22 = resumed by request.)
 - **Fast-fruit rotation.** Raspberries are a favorite but **only ~every other week** so they
   don't get routine. On the off weeks, rotate other fast fruit — **cherries, strawberries**,
   grapes, etc. Don't buy raspberries two weeks running. (Cherries used week of 2026-06-15.)

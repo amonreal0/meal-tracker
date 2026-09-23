@@ -1,40 +1,58 @@
-# FreshDirect order — week of 2026-08-31
+# FreshDirect order — week of 2026-09-21
 
-Status: **ORDERED 2026-08-30 — delivery Tue 2026-09-01** (user confirmed). 15 items,
-subtotal **$81.99** before tax. Built from the approved plan in `weeks/2026-08-31.md`;
-verified in the bag drawer item-by-item before checkout.
+**Status: ORDERED — delivered Wed 2026-09-23, 7–9 PM window.**
+**Order # 1200031866066** (confirmed in-transit on FD, 2026-09-23). Cart was built 09-22 and
+handed off at the filled-cart stage; he picked the window and checked out himself.
 
-## Filled cart (verified)
+Source list: `weeks/2026-09-21.md`. **20 products · subtotal $118.00** before tax/delivery.
 
-| # | Item | FD product | Qty | Price |
-|---|---|---|---|---|
-| 1 | Chicken thighs (soup) | Springer Mountain Farms Boneless Skinless Thighs, 5–6 ct | 1 | $10.60* (SALE $5.89/lb, was $11.86) |
-| 2 | Ground pork (noodles) | Hickory Nut Gap Pasture-Raised Ground Pork, 12 oz | 1 | $7.49 |
-| 3 | Bacon (BLT) | North Country Smokehouse Organic Applewood Uncured, 8 oz | 1 | $9.69 (up from $8.29) |
-| 4 | Sourdough (BLT) | Just FreshDirect All-Natural Sourdough, 16 oz | 1 | $4.49 (SALE, was $5.49) |
-| 5 | Scallions | Scallions, ~6 oz bunch | 1 | $1.99 |
-| 6 | Ginger | Organic Ginger Root, ~6 oz | 1 | $4.39 |
-| 7 | Limes | Limes, loose | 2 | $1.58 |
-| 8 | Slicing tomato (BLT) | **Lancaster Farm Local Organic Heirloom Tomatoes** — the only single-tomato buy (all beefsteaks force min 2); ~0.83 lb | 1 | $4.97* |
-| 9 | Baby arugula | Olivia's Organics Baby Arugula, ~5 oz | 1 | $3.99 |
-| 10 | Avocados | Hass Avocados, Ready-to-Eat, 2 ct | 1 | $5.99 |
-| 11 | Week's fruit | **Red Seedless Grapes, ~2 lb** ("Excellent"-rated, SALE) — cherries GONE, season over (searched; only frozen/jarred left) | 1 | $7.85* (was $8.98) |
-| 12 | Noodles | Twin Marquis Lo Mein Noodles, Frozen, 16 oz | 1 | $4.99 |
-| 13 | Diced tomatoes (soup) | **Muir Glen Organic FIRE ROASTED Diced, 14.5 oz** (the variant exists — recipe's preference) | 1 | $3.99 |
-| 14 | Chicken broth (soup) | Pacific Organic Low-Sodium Chicken Broth, 32 oz | 1 | $3.99 (down from $4.59) |
-| 15 | Corn tortillas (soup strips) | Vista Hermosa Corn Tortillas, 5", 10 ct | 1 | $5.99 |
+| # | Product (as added) | Qty | Price |
+|---|---|---|---|
+| 1 | **Branzino Fillet** (`sea_pid_3604187`) — $33.59/lb, actual 7.3–7.7 oz. Tagged **EXCEPTIONAL** | 1 | $16.80* |
+| 2 | **Smart Chicken Organic Ground Chicken, Air-Chilled** (`mea_pid_3335022`) ~1 lb | 1 | $10.49 |
+| 3 | **Applegate Organics Uncured Genoa Salami**, 4 oz (`del_pid_3204417`) | 1 | $9.99 |
+| 4 | **Wild Harvest Organic No Smoke Provolone**, 6 oz / 10 ct (`dai_pid_2005935`) | 1 | $4.99 |
+| 5 | **Organic Basil**, ~2 oz (`orghrb_basil_vsku`) | 1 | $3.99 |
+| 6 | **Serrano Peppers**, 3–4 ct (`veg_pep_srnopkg`) | 1 | $0.99 |
+| 7 | **Olivia's Organics Baby Arugula**, 5 oz (`veg_pid_2302999`) | 1 | $3.99 |
+| 8 | **Organic Grape Tomatoes**, ~12 oz (`tm_grape_or`) — was $5.99, now on sale | 1 | $5.49 |
+| 9 | **Organic Green Cucumber**, ~7 oz (`cuc_grn_or`) | 1 | $2.49 |
+| 10 | **Red Onion, Large** (`on_red`) $1.99/lb | 1 | $1.99* |
+| 11 | **"Pretty on the Inside" Lemons** (`fru_pid_2211004`) $0.59 ea | 2 | $1.18 |
+| 12 | **Limes** (`lme_lime`) $0.79 ea — **auto-adds at qty 2** | 2 | $1.58 |
+| 13 | **Garlic**, 3 ct head (`veg_pid_2302395`) | 1 | $3.49 |
+| 14 | **Hass Avocados, Ready-to-Eat**, 2 ct (`veg_fd_fgavcrdypk`) | 1 | $5.99 |
+| 15 | **Raspberries**, ~6 oz (`fru_pid_2210871`) | 1 | $3.99 |
+| 16 | **Cara Cara Orange** (`orng_rednavel`) — **4 for $4 promo**, 33% off | 4 | $4.00 |
+| 17 | **Jalapa Jar Fresh Salsa, Medium**, 16 oz (`dai_pid_2004832`) | 1 | $10.59 |
+| 18 | **Just FreshDirect Organic Cage-Free Pasture-Raised Eggs, ½ dozen** (`dai_pid_2003886`) | 1 | $5.49 |
+| 19 | **Just FreshDirect All-Natural Sourdough Bread**, 16 oz (`bak_pid_4651144`) | 1 | $5.49 |
+| 20 | **Wells Homestead Acres Dahlia Bunch, Locally Grown** (`flo_pid_2490306`) | 1 | $14.99 |
 
-`*` = estimated (by-weight items). **Subtotal: $81.99** (before tax; was $85.38 pre-sales).
+`*` = sold by weight; final price adjusts to actual weight.
 
-## NOT filled — needs another source
-- **Dried chiles de árbol (+ guajillos):** FreshDirect carries **no dried Mexican chiles at
-  all** (searched "dried chiles de arbol", "dried chile peppers", "guajillo" — nothing).
-  Bodega / Mexican grocery / Amazon buy. Still on the standing list in `pantry.md`.
+**Subtotal: $118.00**
 
-## Skipped as on-hand
-Chipotles (opened), mayo + chili crisp, cumin, Italian medley, garlic, red onions, pickled
-jalapeños, Jalapa Jar, soy/rice vinegar/sesame oil, cornstarch, eggs, Greek yogurt, oils.
+## Substitutions & judgment calls made while filling
+- **Mini Honeyglow pineapple → Cara Cara oranges (4 for $4).** The peak-page "mini" pineapple
+  turned out to be a **3 lb whole pineapple at $7.99** — too much fruit and too much knife work
+  for one person just back from vacation, and a textbook anti-spoilage risk. Cara Caras were on
+  a **4-for-$4 promo** (vs $1.79/ea for regular navels), keep for weeks, need zero prep, and
+  satisfy the same "lasting fruit" slot. **Correct me if you wanted the pineapple.**
+- **Flowers → dahlia bunch, not sunflowers.** Locally grown, and **dahlias are at peak in late
+  September.** Short, compact heads — chosen specifically against the 07-17 failure mode (no
+  large vase). There's an "any 2 for $24" promo; **deliberately took only 1** — one bunch was
+  the brief. Marigolds and tulips were the other short-stem options.
+- **Prices moved since the last order** (all noted in the catalog): salami $9.39→$9.99, ground
+  chicken $8.99 sale→$10.49 regular, sourdough $4.49 sale→$5.49, grape tomatoes $5.99→$5.49.
+- **Skipped as on-hand** (user-confirmed): jasmine rice, pickled jalapeños/brine.
+  **Skipped as banked:** noodles + ground pork (freezer emergency meal).
+  **Not an FD item:** dried chiles de árbol — he's sourcing them.
 
 ## Outcome
-Ordered 2026-08-30 for **Tuesday 09-01 delivery** — day-by-day in the week file shifted +1
-(soup lands Tue, BLT Thu, noodles Fri). Reminder on arrival: **freeze the ground pork.**
+- **Placed and delivered Wed 09-23, 7–9 PM** — matching the day-by-day's assumption exactly, so
+  no shift was needed.
+- **The 7–9 PM window retroactively validated the day-order call:** groceries landing at 9 PM
+  rule out a real cook on delivery night, and the plan had already put the **no-cook chopped
+  salad** there. Branzino on Thursday is unaffected. **Worth remembering when planning:
+  FD evening windows make landing-day dinners assembly-only.**
