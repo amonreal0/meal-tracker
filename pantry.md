@@ -22,7 +22,7 @@ in the apartment.
   soup; plenty left — spicy-mayo / crema duty)
 - [x] Harissa paste
 - [x] Chili crisp / chili oil (Lao Gan Ma, Fly By Jing, Momofuku…)
-- [ ] **Dried chiles de árbol — HE IS SOURCING THESE HIMSELF (2026-09-22, his call).** Not a
+- [x] **Dried chiles de árbol — ON HAND (bought 2026-09-24, self-sourced).** Keep ~forever. Not a
   FreshDirect item (2026-08-30: FD carries no dried Mexican chiles at all — searched
   árbol/guajillo/dried chile peppers, zero hits), so it needs a bodega / Mexican grocery /
   Amazon buy — and he's taking it on. **Don't put it on FD carts; don't treat it as blocking
