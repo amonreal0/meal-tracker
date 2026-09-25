@@ -70,7 +70,7 @@ in the apartment.
 - [ ] Oregano (Mexican or regular) — skipped for now; medley subs
 
 ## Oils & acids
-- [ ] Olive oil
+- [ ] Olive oil — **RUNNING OUT (2026-09-25), put it on the next cart.** Canola covered the branzino sear fine; save the last olive oil for dressings.
 - [ ] Neutral oil (avocado/canola/vegetable)
 - [x] Sesame oil
 - [x] Oyster sauce (Lee Kum Kee 9 oz, opened 07-19 — keeps refrigerated)
