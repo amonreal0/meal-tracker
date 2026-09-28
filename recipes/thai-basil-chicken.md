@@ -33,6 +33,12 @@ through garlic and chile, salty-savory sauce, lots of basil, crispy fried egg on
 - ¼ tsp sugar (balances the salt — not for sweetness; skippable)
 - Splash of water
 
+**Oyster-sauce-free version (added 2026-09-28, for a guest allergic to oyster sauce):**
+drop the oyster sauce; use 2½ tbsp soy + ½ tsp sugar + 1 tsp water mixed with ½ tsp
+cornstarch (for the gloss oyster sauce normally gives). Chili crisp works as the finishing
+spoonful, not as the sauce. Oyster sauce allergy often means a shellfish allergy, so **check
+the labels on the fish sauce and chili crisp for shrimp/shellfish**, or skip them.
+
 ### To serve
 - Cooked jasmine rice
 - 2 fried eggs (crispy edges)
