@@ -54,14 +54,14 @@ w/ garlic sauce · harissa chicken thighs w/ couscous · shakshuka w/ feta · ko
 za'atar chicken w/ fattoush · paneer/tofu bhurji.
 
 ## Laurita's picks (roommate quiz, 2026-09-30): ⭐ treat as standouts
-- **Guiso de garbanzo cubano** (chickpea stew, her grandma's): her #1. Serve with rice.
+- **Guiso de garbanzo cubano** (chickpea stew, her grandma's): her #1. Serve with rice. *(→ recipe written; Grandma's spec: chorizo, potatoes, thick, white rice)*
 - **Cuban lentil stew** (her grandma's)
 - **Black beans and rice**: for her. He doesn't eat black beans, so pair it with something for him or serve it as her side.
 - **Simple beef stew** (her mom's): Instant Pot. Counts as a red-meat night.
 - **Ropa vieja**: Instant Pot. Counts as a red-meat night.
-- **Lechón / mojo pork**, **pollo asado with mojo**, **arroz con pollo**, **fricasé de pollo**
+- **Lechón / mojo pork**, **pollo asado with mojo** *(→ mojo chicken + tostones recipe written)*, **arroz con pollo**, **fricasé de pollo**
 - **Tostones**, **yuca con mojo**, **homemade (air-fryer) french fries**, maduros: sides she loves.
-- **Syrian night** (she wants to try it): mujaddara (lentils, rice, crispy onions, hitting both of their loves), muhammara, fattoush, kibbeh, shish tawook. Skip baba ghanoush and mutabbal (eggplant), and go light on tahini for him.
+- **Syrian night** (she wants to try it): mujaddara *(→ recipe written)* (lentils, rice, crispy onions, hitting both of their loves), muhammara, fattoush, kibbeh, shish tawook. Skip baba ghanoush and mutabbal (eggplant), and go light on tahini for him.
 - A **mustard-free Cubano** could work as a sandwich night.
 
 ## ⚠️ Retired for the household (allergens, 2026-09-30)
