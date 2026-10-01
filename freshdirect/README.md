@@ -46,6 +46,9 @@ so it can judge which search result is the *right* product. Checkout always stay
   $99 minimum on later orders — it won't apply.
 
 ## Caveats / when it breaks
+- **Popups block clicks.** Expect a **cookie-consent banner** (it blocked an add on 2026-10-01), the
+  "Add to order vs new bag" modal (always **Add to order**), and "Try This" upsells. When an add
+  times out, **take a snapshot and look for an overlay before concluding "out of stock."**
 - **Login expiry / captcha:** if FreshDirect logs you out or shows a captcha, just complete it
   in the open window, then tell Claude to continue.
 - **Site changes:** FreshDirect can change their layout; since Claude drives live (not a fixed

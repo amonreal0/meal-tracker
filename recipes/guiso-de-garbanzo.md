@@ -33,7 +33,7 @@ version, per Laurita (2026-10-01): **chorizo, potatoes, thick (not soupy), over 
 - **Sofrito:** 1 large onion (diced), 1 green bell pepper (diced), 5 garlic cloves (minced)
 - 1 can (15 oz) **crushed tomatoes** (or tomato sauce)
 - 1 tsp ground cumin · 1 tsp dried oregano (single herb) · 1 tsp smoked paprika · 2 bay leaves
-- ~2 cups water (no boxed broth: the chorizo flavors it, and it's one less label to verify)
+- ~2 cups **chicken broth** (label-checked) or water
 - 2 tbsp olive oil · salt · black pepper
 - Heat for him (and Laurita, who rates herself 5/5): pickled jalapeños or crushed árbol at the table
 - To serve: **white rice** (long-grain), parsley
@@ -44,7 +44,7 @@ version, per Laurita (2026-10-01): **chorizo, potatoes, thick (not soupy), over 
 2. **Sofrito:** add onion and green pepper; cook ~8 min until soft and sweet. Add garlic, cumin,
    oregano and paprika; cook 1 min.
 3. Stir in the crushed tomatoes and cook 3–4 min to deepen.
-4. Add potatoes, chickpeas, bay leaves and ~2 cups water, just enough to *barely* cover.
+4. Add potatoes, chickpeas, bay leaves and ~2 cups broth, just enough to *barely* cover.
    Bring to a boil, then **simmer partly covered ~25–30 min** until the potatoes are tender.
 5. **Thicken:** uncover and simmer 5–10 min more. Mash a ladleful of chickpeas and potatoes
    against the pot side and stir it back in. Target: **thick and spoonable, not soupy.**

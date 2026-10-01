@@ -87,3 +87,12 @@ Format:
   for when he explicitly asks for speed. Distinguish work that's *transactional* (logging,
   pantry math — be efficient) from work that's *a decision he enjoys making* (what to eat —
   bring him into it). Approval still gates the buying step in both modes.
+
+- 2026-10-01 — **Correction.** During cart-building, an add-to-bag click timed out and I reported
+  the item (Simply Organic bay leaves) as "probably out of stock" and swapped brands. It was in
+  stock; a **cookie-consent popup** was blocking the click (he saw it on screen).
+  **Principle:** A failed click is a symptom, not a diagnosis. Before naming a cause, look at the
+  page (snapshot/screenshot) and check for an overlay. Don't present a guessed cause as fact; say
+  "the add failed, cause unknown" if I haven't verified it. Same root as 2026-06-21's "trust the
+  observed state over my assumptions."
+

@@ -1,58 +1,48 @@
-# FreshDirect order — week of 2026-09-21
+# FreshDirect order — week of 2026-10-01
 
-**Status: ORDERED — delivered Wed 2026-09-23, 7–9 PM window.**
-**Order # 1200031866066** (confirmed in-transit on FD, 2026-09-23). Cart was built 09-22 and
-handed off at the filled-cart stage; he picked the window and checked out himself.
+**Status: ORDERED 2026-10-01, delivery Fri 2026-10-02.** He picked the window and checked out himself.
+Source list: `weeks/2026-10-01.md`. **First two-person order.** 27 products. **Subtotal $193.10** before
+tax/delivery (FD auto-applied $10.37 in promos).
 
-Source list: `weeks/2026-09-21.md`. **20 products · subtotal $118.00** before tax/delivery.
+Every packaged item's ingredient label was read on FD before adding. Allergy column = Laurita's
+table (no mustard, no unlisted "spices"/"natural flavors," no shellfish).
 
-| # | Product (as added) | Qty | Price |
-|---|---|---|---|
-| 1 | **Branzino Fillet** (`sea_pid_3604187`) — $33.59/lb, actual 7.3–7.7 oz. Tagged **EXCEPTIONAL** | 1 | $16.80* |
-| 2 | **Smart Chicken Organic Ground Chicken, Air-Chilled** (`mea_pid_3335022`) ~1 lb | 1 | $10.49 |
-| 3 | **Applegate Organics Uncured Genoa Salami**, 4 oz (`del_pid_3204417`) | 1 | $9.99 |
-| 4 | **Wild Harvest Organic No Smoke Provolone**, 6 oz / 10 ct (`dai_pid_2005935`) | 1 | $4.99 |
-| 5 | **Organic Basil**, ~2 oz (`orghrb_basil_vsku`) | 1 | $3.99 |
-| 6 | **Serrano Peppers**, 3–4 ct (`veg_pep_srnopkg`) | 1 | $0.99 |
-| 7 | **Olivia's Organics Baby Arugula**, 5 oz (`veg_pid_2302999`) | 1 | $3.99 |
-| 8 | **Organic Grape Tomatoes**, ~12 oz (`tm_grape_or`) — was $5.99, now on sale | 1 | $5.49 |
-| 9 | **Organic Green Cucumber**, ~7 oz (`cuc_grn_or`) | 1 | $2.49 |
-| 10 | **Red Onion, Large** (`on_red`) $1.99/lb | 1 | $1.99* |
-| 11 | **"Pretty on the Inside" Lemons** (`fru_pid_2211004`) $0.59 ea | 2 | $1.18 |
-| 12 | **Limes** (`lme_lime`) $0.79 ea — **auto-adds at qty 2** | 2 | $1.58 |
-| 13 | **Garlic**, 3 ct head (`veg_pid_2302395`) | 1 | $3.49 |
-| 14 | **Hass Avocados, Ready-to-Eat**, 2 ct (`veg_fd_fgavcrdypk`) | 1 | $5.99 |
-| 15 | **Raspberries**, ~6 oz (`fru_pid_2210871`) | 1 | $3.99 |
-| 16 | **Cara Cara Orange** (`orng_rednavel`) — **4 for $4 promo**, 33% off | 4 | $4.00 |
-| 17 | **Jalapa Jar Fresh Salsa, Medium**, 16 oz (`dai_pid_2004832`) | 1 | $10.59 |
-| 18 | **Just FreshDirect Organic Cage-Free Pasture-Raised Eggs, ½ dozen** (`dai_pid_2003886`) | 1 | $5.49 |
-| 19 | **Just FreshDirect All-Natural Sourdough Bread**, 16 oz (`bak_pid_4651144`) | 1 | $5.49 |
-| 20 | **Wells Homestead Acres Dahlia Bunch, Locally Grown** (`flo_pid_2490306`) | 1 | $14.99 |
+| # | Product (as added) | Qty | Price | Allergy / sourcing |
+|---|---|---|---|---|
+| 1 | **Farmer Focus Organic Boneless Skinless Chicken Thighs** (`mea_pid_3362079`) $8.19/lb | 2 (~2.5 lb) | $20.47* | organic; replaces conventional Springer Mountain |
+| 2 | **Palacios Auténtico Chorizo Español Original**, 7.9 oz (`del_palac_chorizo9oz`) | 1 | $13.99 | ✅ label: pork, paprika, salt, garlic, casing |
+| 3 | **Lancaster Farm Fresh Co-op Local Organic Yellow Onions**, 4 ct / 2 lb (`veg_pid_2302314`) | 1 | $4.99 | co-op, organic |
+| 4 | **Garlic**, 3 ct (`veg_pid_2302395`) | 1 | $3.49 | |
+| 5 | **Lancaster Co-op Local Organic Green Pepper** (`veg_lcllb_30207`), min 2 | 2 | $3.14* | co-op; 2nd pepper is spare (salad/mojo) |
+| 6 | **Lancaster Co-op Local Organic Gold Potato** (`fru_dmy_ea_31043`) | 3 (~1.65 lb) | $4.11* | co-op, organic |
+| 7 | **Green Plantains** (`fru_dmy_ea_30233`) | 3 | $4.47 | |
+| 8 | **Navel Orange** (`orng_navel`) | 2 | $3.58 | |
+| 9 | **Limes** (`lme_lime`) | 4 | $3.16 | |
+| 10 | **"Pretty on the Inside" Lemons** (`fru_pid_2211004`) | 2 | $1.18 | |
+| 11 | **Lancaster Co-op Local Organic Romaine Hearts**, 3 ct (`veg_pid_2302926`) | 1 | $5.99 | co-op, top-rated |
+| 12 | **Organic Greenhouse Cucumber**, ~12 oz (`veg_cuc_hths_org`) | 1 | $4.69 | organic `cuc_grn_or` had no add button |
+| 13 | **Organic Grape Tomatoes** (`tm_grape_or`) | 1 | $5.99 | |
+| 14 | **Organic Italian Parsley**, ~4 oz (`orgherb_prsly_ita`) | 1 | $2.99 | |
+| 15 | **Organic Hass Avocados, Ready-to-Eat**, 2 ct (`fru_dmy_10115`) | 1 | $5.99 | on sale (was $6.99) |
+| 16 | **Organic Bartlett Pear** (`fru_pid_2210682`): **any 4 organic pears for $4** | 4 | $4.00 | top-rated |
+| 17 | **Organic Green Seedless Grapes**, ~2.25 lb (`grp_grnsdls_or`) | 1 | $13.48* | |
+| 18 | **Fage TOTAL 2% Greek Yogurt, Plain**, 16 oz (`dai_fage_2ygrt`) | 1 | $4.49 | ✅ milk, cream, cultures |
+| 19 | **Brad's Organic Garbanzo Beans**, 15.5 oz (`gro_pid_4016482`) | 2 | $4.98 | ✅ chickpeas, water, sea salt |
+| 20 | **Colavita Italian Crushed Tomatoes, No Salt Added**, 13.76 oz (`gro_pid_4016864`) | 1 | $1.79 | ✅ tomatoes, puree, citric acid. Not organic; right size (Cento only comes in 28 oz) |
+| 21 | **Bonafide Provisions Organic Chicken Bone Broth, No Salt**, 16.9 oz (`gro_pid_4020066`) | 1 | $9.29 | ✅ every herb listed. Imagine ("organic spices," "natural flavor") and FD stock ("natural flavors") FAILED |
+| 22 | **Lundberg Organic California White Jasmine Rice**, 2 lb (`gro_pid_4017234`) | 1 | $10.19 | family farm; FD's page title wrongly says "Basmati" |
+| 23 | **Bob's Red Mill Brown Lentils**, 27 oz (`gro_pid_4011338`) | 1 | $7.79 | employee-owned. ✅ facility: tree nuts/soy/wheat/milk only |
+| 24 | **O-Live & Co. Organic Extra Virgin Olive Oil**, 33 fl oz (`gro_pid_4009625`) | 1 | $24.99 | organic; on sale (was $29.49) |
+| 25 | **Simply Organic Oregano**, 0.75 oz (`gro_pid_4019260`) | 1 | $8.19 | Frontier Co-op brand; single herb |
+| 26 | **Just FreshDirect Organic Bay Leaves** (`gro_pid_4015998`) | 1 | $5.19 | Simply Organic bay *was* in stock; a cookie popup blocked the add (not OOS, per user) |
+| 27 | **Burlap & Barrel Silk Chili**, 1.8 oz (`gro_pid_4019280`) | 1 | $10.49 | ✅ chili, sunflower oil, salt. Aleppo-style; Morton & Bassett Aleppo was OOS. Burlap & Barrel buys direct from smallholder farmers |
 
-`*` = sold by weight; final price adjusts to actual weight.
+\* by weight, estimated
 
-**Subtotal: $118.00**
+**Compromises flagged (per "best available, flag it"):** Colavita tomatoes aren't organic (size
+win); navel oranges, limes, lemons, garlic and plantains are conventional (no organic option
+surfaced). Fage and Bonafide are mid-size brands, not co-ops.
 
-## Substitutions & judgment calls made while filling
-- **Mini Honeyglow pineapple → Cara Cara oranges (4 for $4).** The peak-page "mini" pineapple
-  turned out to be a **3 lb whole pineapple at $7.99** — too much fruit and too much knife work
-  for one person just back from vacation, and a textbook anti-spoilage risk. Cara Caras were on
-  a **4-for-$4 promo** (vs $1.79/ea for regular navels), keep for weeks, need zero prep, and
-  satisfy the same "lasting fruit" slot. **Correct me if you wanted the pineapple.**
-- **Flowers → dahlia bunch, not sunflowers.** Locally grown, and **dahlias are at peak in late
-  September.** Short, compact heads — chosen specifically against the 07-17 failure mode (no
-  large vase). There's an "any 2 for $24" promo; **deliberately took only 1** — one bunch was
-  the brief. Marigolds and tulips were the other short-stem options.
-- **Prices moved since the last order** (all noted in the catalog): salami $9.39→$9.99, ground
-  chicken $8.99 sale→$10.49 regular, sourdough $4.49 sale→$5.49, grape tomatoes $5.99→$5.49.
-- **Skipped as on-hand** (user-confirmed): jasmine rice, pickled jalapeños/brine.
-  **Skipped as banked:** noodles + ground pork (freezer emergency meal).
-  **Not an FD item:** dried chiles de árbol — he's sourcing them.
+**Not bought (on hand):** sumac (Laurita's), 1 can chickpeas, cumin, smoked paprika, red pepper
+flakes, árbol, canola, harissa, pickled jalapeños, eggs.
 
-## Outcome
-- **Placed and delivered Wed 09-23, 7–9 PM** — matching the day-by-day's assumption exactly, so
-  no shift was needed.
-- **The 7–9 PM window retroactively validated the day-order call:** groceries landing at 9 PM
-  rule out a real cook on delivery night, and the plan had already put the **no-cook chopped
-  salad** there. Branzino on Thursday is unaffected. **Worth remembering when planning:
-  FD evening windows make landing-day dinners assembly-only.**

@@ -141,3 +141,29 @@ $4.49 (reg $5.49). Fresh cherries fully delisted — Northwest season over (late
 ground chicken back to regular $10.49 (the $8.99 was a sale); Just FD sourdough back to regular
 $5.49; organic grape tomatoes $5.99→$5.49 (on sale); Red Onion Large now priced $1.99/lb.
 Branzino fillet steady at $33.59/lb (~7.3–7.7 oz actual = $16.80). Cherries still delisted. -->
+
+<!-- 2026-10-01: first two-person order (Laurita). Every packaged row below was label-read for mustard/shellfish. -->
+| Item | Product | Price | Notes |
+|---|---|---|---|
+| Chicken thighs, boneless (**household default from 2026-10-01**) | **Farmer Focus Organic Boneless Skinless Chicken Thighs** (`mea_pid_3362079`), ~1.25 lb pack, $8.19/lb | ~$10.24/pack | Organic, replaces Springer Mountain (conventional fails Laurita's no-factory-farming rule). 2 packs ≈ 2.5 lb. Simple add, no modal. Pasture-raised alternative: LaBelle Patrimoine (bone-in only, `mea_pid_3362205`) |
+| Spanish chorizo (cured) | **Palacios Auténtico Chorizo Español Original**, 7.9 oz (`del_palac_chorizo9oz`) | $13.99 | ✅ **mustard-free, checked 2026-10-01: pork, paprika, salt, garlic, casing.** Campo Grande Ibérico (`del_pid_3204678`) is also clean but 2 oz. **FAILED:** D'Artagnan Spanish-style and the pasture-raised smoked chorizo (`mea_pid_3335191`) both say "spices"/"natural flavors" |
+| Chickpeas (canned), replaces Goya | **Brad's Organic Garbanzo Beans**, 15.5 oz (`gro_pid_4016482`) | $2.49 | ✅ chickpeas, water, sea salt (2026-10-01) |
+| Crushed tomatoes (small can) | **Colavita Italian Crushed Tomatoes, No Salt Added**, 13.76 oz (`gro_pid_4016864`) | $1.79 | ✅ tomatoes, puree, citric acid. Not organic. Cento (incl. Cento Organic) is 28 oz only; Cento labels are also clean |
+| Chicken broth, replaces Pacific | **Bonafide Provisions Organic Chicken Bone Broth, No Salt Added**, 16.9 oz (`gro_pid_4020066`) | $9.29 | ✅ every ingredient listed (2026-10-01). **FAILED:** Imagine Organic Low Sodium ("organic spices," "natural chicken flavor"), FreshDirect Chicken Stock ("natural flavors"). Pacific not re-checked, and it's Campbell's-owned anyway |
+| Greek yogurt | Fage TOTAL 2% Plain 16 oz (`dai_fage_2ygrt`) | $4.49 | ✅ mustard-free (checked 2026-10-01) |
+| Jasmine rice | **Lundberg Organic California White Jasmine Rice, 2 lb** (`gro_pid_4017234`) | $10.19 | family farm. **FD's page title wrongly says "Basmati"; the label says jasmine.** The $4.79 Lundberg (`gro_pid_4020399`) is a ready-to-heat pouch, NOT dry rice |
+| Brown lentils, replaces Goya | **Bob's Red Mill Brown Lentils**, 27 oz (`gro_pid_4011338`) | $7.79 | employee-owned. ✅ facility: tree nuts/soy/wheat/milk only |
+| Olive oil | **O-Live & Co. Organic Extra Virgin Olive Oil**, 33 fl oz (`gro_pid_4009625`) | $24.99 (sale; reg $29.49) | organic, ~1 L. O California organic is only 8.5 oz |
+| Dried oregano | **Simply Organic Oregano**, 0.75 oz (`gro_pid_4019260`) | $8.19 | Frontier Co-op; single herb (the Italian medley had mustard) |
+| Bay leaves | Just FreshDirect Organic Bay Leaves (`gro_pid_4015998`) | $5.19 | Simply Organic bay (`gro_pid_4019257`) **was in stock**; the add failed because a **cookie-consent popup** blocked the click (user, 2026-10-01). It's the co-op-brand pick for next time |
+| Aleppo-style chili | **Burlap & Barrel Silk Chili**, 1.8 oz (`gro_pid_4019280`) | $10.49 | ✅ chili, sunflower oil, salt. Direct-trade with smallholders. Morton & Bassett Aleppo (`gro_pid_4014167`) was OOS |
+| Yellow onions | **Lancaster Co-op Local Organic Yellow Onions, 4 ct / 2 lb bag** (`veg_pid_2302314`) | $4.99 | right for 3–4-onion weeks; single loose = `veg_pid_2301800` |
+| Green bell pepper | Lancaster Co-op Local Organic Green Pepper (`veg_lcllb_30207`) | ~$3.14 for 2 | **min qty 2.** Single conventional: Altobelli Family Farm local (`veg_pid_2302772`, ~$1) |
+| Gold potatoes | Lancaster Co-op Local Organic Gold Potato (`fru_dmy_ea_31043`), $2.49/lb | ~$1.37 ea | **min 2; qty = potatoes (~0.55 lb each).** 3 ≈ 1.65 lb |
+| Green plantains | Green Plantains (`fru_dmy_ea_30233`) | $1.49 ea | min 2. Yellow (`fru_dmy_ea_30232`) = maduros |
+| Romaine hearts | **Lancaster Co-op Local Organic Romaine Hearts**, 3 ct (`veg_pid_2302926`) | $5.99 | co-op, top-rated |
+| Cucumber (organic) | Organic Greenhouse Cucumber, ~12 oz (`veg_cuc_hths_org`) | $4.69 | `cuc_grn_or` had no add button on 10-01 |
+| Parsley | Organic Italian Parsley, ~4 oz (`orgherb_prsly_ita`) | $2.99 | |
+| Avocados RTE (organic, **household default**) | **Organic Hass Avocados, Ready-to-Eat**, 2 ct (`fru_dmy_10115`) | $5.99 (sale; reg $6.99) | his RTE rule + her organic preference |
+| Pears | **Organic Bartlett Pear** (`fru_pid_2210682`) | **any 4 organic pears for $4** | Laurita's love. Buy 4 for the promo |
+| Grapes (organic) | Organic Green Seedless Grapes, ~2.25 lb (`grp_grnsdls_or`), $5.99/lb | ~$13.48 | by weight, simple add |
