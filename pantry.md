@@ -5,17 +5,16 @@ Update this when staples are bought or run out. The "starter pantry" below is th
 in the apartment.
 
 ## ⚠️ ALLERGEN PURGE (done 2026-09-30, Laurita's allergies)
-- **Tossed:** Dijon mustard, oyster sauce, the old mayo.
-- **Label-checked clean ✅:** Hellmann's, chili crisp, Red Boat fish sauce, harissa, pickled
+- **Tossed:** Dijon mustard, oyster sauce.
+- **Label-checked clean ✅:** Hellmann's (**kept**, label clean), chili crisp, Red Boat fish sauce, harissa, pickled
   jalapeños, garlic salt, soy sauce, sesame oil, rice vinegar.
 - **FAILED, toss: Italian herb medley (contains mustard).** It's been the oregano stand-in in
   dressings and soups, so replace it with **single dried oregano** (and basil/thyme if needed),
   never a blend.
 - **Unverified, don't serve to her:** Applegate salami ("organic spices"). Toss it, or keep it
   only until Applegate confirms it's mustard-free.
-- **Still to check:** single spices (cumin, smoked paprika, garlic powder, pepper flakes) for
-  "may contain" warnings; bread; panko; frozen noodles; freezer for shrimp; bananas, kiwi,
-  eggplant.
+- **Remaining checks done ✅ (2026-09-30):** single spices, bread, panko, frozen noodles,
+  freezer (no shellfish), no banana/kiwi/eggplant. **Purge complete.**
 
 ## Current fridge (as of 2026-06-21, his report)
 - **Bread**, **scallions**, **lemons**, **1 onion**, **celery**, **garlic**, **pickled jalapeños**.
@@ -46,7 +45,7 @@ in the apartment.
 - [ ] Pickled jalapeños — **GONE (2026-08-11), rebuy.** Standing staple; he uses them/their
   brine as his salad acid (prefers to red wine vinegar). On the 08-10 buy list.
 - [ ] Artichoke hearts (for the artichoke-jalapeño sandwich sauce)
-- [ ] Mayo: **old jar tossed 2026-09-30.** Hellmann's label is clean; rebuy it (or a small-brand mayo with a clean label) when needed.
+- [x] Mayo: Hellmann's **on hand, label clean (2026-09-30).** Use it up. When it runs out, replace it with a small-brand mayo that has a clean label (Laurita's sourcing preference; Hellmann's is Unilever).
 - [x] **Jalapa Jar fresh salsa — STANDING STAPLE (2026-08-11).** Keep a tub around at all times.
   **On hand: plenty left in the 08-10-week tub (user confirmed 2026-08-16).** Rebuy whenever
   it's low, like the pickled jalapeños.
