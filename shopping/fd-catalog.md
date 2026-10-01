@@ -20,11 +20,15 @@ How to use:
 > - **Sourcing:** prefer organic, pasture-raised, fair-trade, co-op/small brands; avoid big
 >   conglomerates (e.g. Hellmann's/Unilever, Grey Poupon/Kraft Heinz). Seafood must be sustainable.
 >   Swap products when you get to them, and flag any compromise.
+> - **Label results, 2026-09-30:** clean = Hellmann's, chili crisp, Red Boat fish sauce, harissa, Cento
+>   jalapeños, garlic salt, soy sauce, sesame oil, rice vinegar. **FAILED = Italian herb medley
+>   (contains mustard).** Unverified = Applegate salami ("organic spices"). **Herb blends are a
+>   mustard risk: buy single herbs (dried oregano, basil, thyme) instead of blends.**
 
 | Generic item | FreshDirect product (brand / size) | Price | Notes |
 |---|---|---|---|
 | Extra-firm tofu | Nasoya Organic Extra Firm Tofu, 14 oz | $4.19 | good single-block size |
-| Salami (sliced) | Applegate Organics Uncured Genoa Salami, 4 oz (`del_pid_3204417`) | $9.99 | 6oz pre-sliced packs were ~$15.69; this is the sane single size |
+| Salami (sliced) | ⚠️ **UNVERIFIED: label says "organic spices" (2026-09-30).** Applegate Organics Uncured Genoa Salami, 4 oz (`del_pid_3204417`) | $9.99 | Don't rebuy until Applegate confirms in writing that it's mustard-free, or find a salami that lists every spice. 6oz pre-sliced packs were ~$15.69; this is the sane single size |
 | Provolone (sliced) | **Wild Harvest** Organic No Smoke Provolone, 6 oz (10 ct) (`dai_pid_2005935`) | $4.99 | smallest clean pack. **2026-08-23: the old Applegate listing now surfaces as Wild Harvest** — same size/price, tagged "Your Fave"; search "applegate provolone" still finds it |
 | Eggs | Just FreshDirect Organic Cage-Free Pasture-Raised Large Eggs — **½ dozen ($5.49) is his default (2026-08-11)**; Dozen ($6.49) exists | $5.49 | ½-dozen surfaces fine again (bought 2026-08-11). He prefers 6 over 12 — no weekday breakfasts, a dozen lingers. |
 | Chickpeas (canned) | Goya Chick Peas / Garbanzo Beans, 15.5 oz | $1.79 | cheap, reliable |
@@ -44,9 +48,9 @@ How to use:
 | Garam masala | Morton & Bassett Garam Masala, 1.9 oz | $12.99 | pricey ($6.84/oz) but only real garam masala in results; lasts a long time |
 | Red wine vinegar | Colavita Red Wine Vinegar (Aged), 17 fl oz | $5.59 | staple, lasts |
 | Chipotles in adobo | Goya Chipotle Peppers in Adobo Sauce, 7 oz | $2.99 | pantry restock |
-| Pickled jalapeños | Cento Sliced Jalapeño Peppers, 12 oz | $3.79–4.99 | staple; his preferred salad acid |
-| Mayonnaise | Hellmann's Mayonnaise Squeeze Bottle, 11.5 fl oz | $5.99 | smallest standard size |
-| Dijon mustard | Grey Poupon Dijon Mustard, 10 oz | $5.29 | classic; skip white-wine/country variants |
+| Pickled jalapeños | Cento Sliced Jalapeño Peppers, 12 oz | $3.79–4.99 | ✅ mustard-free (checked 2026-09-30). Staple; his preferred salad acid |
+| Mayonnaise | Hellmann's Mayonnaise Squeeze Bottle, 11.5 fl oz | $5.99 | ✅ mustard-free label (checked 2026-09-30), but it's Unilever, so look for a small-brand mayo with a clean label to replace it. Smallest standard size |
+| ~~Dijon mustard~~ | ⛔ **BANNED: mustard allergy (2026-09-30). Never buy.** | — | — |
 | Italian sausage | Hickory Nut Gap Pasture-Raised Heritage Hot Italian Sausage, 12 oz | $6.49 | hot pork; a "Mild" version of the same line exists |
 | Bacon | North Country Smokehouse Organic Applewood Smoked Uncured Bacon, 8 oz | $8.29 | smallest clean 8 oz pack |
 | Brown/green lentils | Goya Lentils, Dry (brown), 16 oz | $1.99 | plain 1 lb bag, no soak needed |
@@ -87,8 +91,8 @@ How to use:
 | Chicken thighs (boneless) | Springer Mountain Farms Boneless Skinless Chicken Thighs, Raised w/o Antibiotics (5–6 ct, by lb) | $6.59/lb | same trusted brand as the cutlets; cheapest good option. Pack runs ~1.5 lb (more than 1 lb — freezes fine) |
 | Ground chicken | Smart Chicken Organic Ground Chicken, Air-Chilled, ~1 lb (`mea_pid_3335022`) | $10.49 | **regular grind, NOT lean breast** — breast grind is too dry for pad krapow/stir-fry. Air-chilled organic |
 | Top sirloin steak | 100% Grass-Fed Boneless Center-Cut Top Sirloin Steak (by lb, $23.19/lb) | ~$17.39 | **BY-WEIGHT MODAL** — pick thickness (0.5"=0.30 lb · 1.0"=0.45 lb · **1.5"=0.75 lb**) + packaging (Standard, or Vacuum +$0.50). **1.5" ≈ ¾ lb, ideal for searing + slicing over salad.** Much cheaper than skirt ($34–41/lb) for a sliced-over-salad use |
-| Oyster sauce | Lee Kum Kee Premium Oyster Flavored Sauce, 9 oz | $6.19 | the classic; keeps a long time |
-| Fish sauce | Red Boat Fish Sauce, 8.45 fl oz | $9.99 | gold-standard brand; pricey but keeps for years (one-time buy) |
+| ~~Oyster sauce~~ | ⛔ **BANNED: shellfish allergy (2026-09-30). Never buy.** | — | — |
+| Fish sauce | Red Boat Fish Sauce, 8.45 fl oz | $9.99 | ✅ allergen-clean (checked 2026-09-30). Gold-standard brand; pricey but keeps for years (one-time buy) |
 | Basil | Organic Basil, ~2 oz (`orghrb_basil_vsku`) | $3.99 | **FD carries NO Thai basil (confirmed 2026-07-15)** — sub regular basil in pad krapow / Thai dishes |
 | Serrano peppers | Serrano Peppers (3–4 ct, ~0.25 lb) (`veg_pep_srnopkg`) | $0.99 | rated Excellent; fresh chile heat for stir-fries (pickled won't sub) |
 | Flowers — sunflowers | Lancaster Farm Fresh Cooperative Sunflower Bunch, Locally Grown (5 ct) | $9.99 | cheerful summer bunch; good value for the ~monthly flower treat |
@@ -101,7 +105,7 @@ How to use:
 | Ground cumin | Just FreshDirect Ground Cumin, 1.8 oz | $4.39 | house brand, small jar |
 | Smoked paprika | Simply Organic Smoked Paprika, 2.72 oz | $9.19 | pricey but the only real smoked paprika in top results (house brands = plain paprika only); lasts a year+ |
 | Garlic powder | Just FreshDirect Garlic Powder | $4.39 | house brand |
-| Garlic salt | Just FreshDirect Garlic Salt, ~4 oz | $3.59 | house brand; his 2026-08-16 ask |
+| Garlic salt | Just FreshDirect Garlic Salt, ~4 oz | $3.59 | ✅ mustard-free (checked 2026-09-30). House brand; his 2026-08-16 ask |
 | Red pepper flakes | Just FreshDirect Crushed Red Pepper, 1.2 oz | $4.99 | house brand |
 
 | Branzino | **Branzino Fillet** (`/sea/sc/fflt/p/sea_pid_3604187`), sold per ~0.5 lb fillet, $33.59/lb | ~$16.80/fillet | "Exceptional"-rated (toprated page). **Qty = fillets** — 2 fillets ≈ 1 lb for 2 servings. Premium; the ~3.5 lb "Jumbo Branzino" whole fish also exists ($16.49/lb) but is too much for one person |

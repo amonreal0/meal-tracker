@@ -4,18 +4,18 @@ Update this when staples are bought or run out. The "starter pantry" below is th
 **target** set recommended for this taste profile; check off / annotate what's actually
 in the apartment.
 
-## ⚠️ ALLERGEN PURGE — to do (2026-09-30)
-Allergen-free kitchen for Laurita (see `profile.md`). **Remove from the apartment:**
-- [ ] **Dijon mustard** (Grey Poupon) and any other mustard
-- [ ] **Oyster sauce** (Lee Kum Kee)
-- [ ] **Hellmann's mayo**: check the label for mustard / "natural flavors" / "spices", and toss it
-  unless it's confirmed mustard-free
-- [ ] **Frozen shrimp** or any shellfish in the freezer
-- [ ] **Re-check labels** on: chili crisp (some contain shrimp), harissa, chipotles in adobo,
-  Jalapa Jar salsa, pickled jalapeños, salami/sausage, hot sauces, spice blends (garam
-  masala, Italian medley). Anything with "spices"/"natural flavors" and no confirmed
-  mustard-free status goes.
-- [ ] Banana/kiwi/eggplant: toss any that are on hand.
+## ⚠️ ALLERGEN PURGE (done 2026-09-30, Laurita's allergies)
+- **Tossed:** Dijon mustard, oyster sauce, the old mayo.
+- **Label-checked clean ✅:** Hellmann's, chili crisp, Red Boat fish sauce, harissa, pickled
+  jalapeños, garlic salt, soy sauce, sesame oil, rice vinegar.
+- **FAILED, toss: Italian herb medley (contains mustard).** It's been the oregano stand-in in
+  dressings and soups, so replace it with **single dried oregano** (and basil/thyme if needed),
+  never a blend.
+- **Unverified, don't serve to her:** Applegate salami ("organic spices"). Toss it, or keep it
+  only until Applegate confirms it's mustard-free.
+- **Still to check:** single spices (cumin, smoked paprika, garlic powder, pepper flakes) for
+  "may contain" warnings; bread; panko; frozen noodles; freezer for shrimp; bananas, kiwi,
+  eggplant.
 
 ## Current fridge (as of 2026-06-21, his report)
 - **Bread**, **scallions**, **lemons**, **1 onion**, **celery**, **garlic**, **pickled jalapeños**.
@@ -46,11 +46,11 @@ Allergen-free kitchen for Laurita (see `profile.md`). **Remove from the apartmen
 - [ ] Pickled jalapeños — **GONE (2026-08-11), rebuy.** Standing staple; he uses them/their
   brine as his salad acid (prefers to red wine vinegar). On the 08-10 buy list.
 - [ ] Artichoke hearts (for the artichoke-jalapeño sandwich sauce)
-- [x] Mayo (on hand)
+- [ ] Mayo: **old jar tossed 2026-09-30.** Hellmann's label is clean; rebuy it (or a small-brand mayo with a clean label) when needed.
 - [x] **Jalapa Jar fresh salsa — STANDING STAPLE (2026-08-11).** Keep a tub around at all times.
   **On hand: plenty left in the 08-10-week tub (user confirmed 2026-08-16).** Rebuy whenever
   it's low, like the pickled jalapeños.
-- [ ] Dijon mustard — on order (arrives Wed 6/17)
+- ~~Dijon mustard~~: **TOSSED 2026-09-30 (mustard allergy). Never rebuy.**
 - [x] Soy sauce
 - [x] Rice vinegar
 - [ ] Red wine vinegar — lower priority now; he subs pickled jalapeños for salad acid (2026-06-14)
@@ -74,7 +74,7 @@ Allergen-free kitchen for Laurita (see `profile.md`). **Remove from the apartmen
 (Prior week files over-credited the rack — cumin/paprika/etc. were assumed on hand but aren't.)
 - [x] Salt
 - [x] Black pepper
-- [x] Italian herb medley (covers oregano-ish needs)
+- [ ] ~~Italian herb medley~~: **TOSSED 2026-09-30, contains mustard.** Rebuy plain dried oregano.
 - [x] Ground cumin — Just FD 1.8 oz (ordered 08-16, arrives Tue 08-18)
 - [x] Smoked paprika — Simply Organic 2.72 oz (ordered 08-16)
 - [x] Garlic powder — Just FD (ordered 08-16)
@@ -86,7 +86,7 @@ Allergen-free kitchen for Laurita (see `profile.md`). **Remove from the apartmen
 - [ ] Olive oil — **RUNNING OUT (2026-09-25), put it on the next cart.** Canola covered the branzino sear fine; save the last olive oil for dressings.
 - [ ] Neutral oil (avocado/canola/vegetable)
 - [x] Sesame oil
-- [x] Oyster sauce (Lee Kum Kee 9 oz, opened 07-19 — keeps refrigerated)
+- ~~Oyster sauce~~: **TOSSED 2026-09-30 (shellfish allergy). Never rebuy.**
 - [x] Fish sauce (Red Boat 8.45 oz, opened 07-19 — keeps ~forever)
 - (Later: sherry vinegar — great in salads, beans, Spanish/Mexican savory food.)
 
