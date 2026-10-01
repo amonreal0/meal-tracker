@@ -36,6 +36,9 @@ Rules:
   Fresh Co-op, Deer Run Farms, Altobelli, Long Island growers, the "Local" tags). But **"local" means
   regional, not "US over imports":** California vs. Mexico is basically the same carbon footprint, so
   don't prefer US-grown over imported for its own sake. Only an actual nearby farm earns the bump.
+- **Coffee and chocolate: fair trade (2026-10-01).** Third-party certified (Fair Trade USA/Fairtrade
+  International, or a verified direct-trade/co-op brand). These are the classic exploitation-prone
+  supply chains, so this is the category where her fair-trade preference matters most.
 - **Seafood: sustainable only** — Seafood Watch "Best Choice"/"Good Alternative" or MSC-certified;
   skip conventionally farmed salmon and overfished species.
 - **When FD has no ethical option:** buy the best available and **flag it** in the week file —
