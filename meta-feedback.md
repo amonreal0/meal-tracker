@@ -96,3 +96,10 @@ Format:
   "the add failed, cause unknown" if I haven't verified it. Same root as 2026-06-21's "trust the
   observed state over my assumptions."
 
+- 2026-10-01 — **Correction.** He spotted organic lemons on FD. I'd reused the catalog's
+  conventional lemon (and limes, oranges, garlic) without searching, then wrote "no organic
+  option surfaced" in `order.md`, which was false. Second unverified explanation in one cart.
+  **Principles:** (1) When the household's rules change, **cached decisions (the catalog) are
+  stale**: re-check every reused default against the new rules, not just new items. (2) Never
+  write a justification for a choice I didn't actually make. If I skipped a check, say so.
+

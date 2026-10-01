@@ -20,6 +20,9 @@ How to use:
 > - **Sourcing:** prefer organic, pasture-raised, fair-trade, co-op/small brands; avoid big
 >   conglomerates (e.g. Hellmann's/Unilever, Grey Poupon/Kraft Heinz). Seafood must be sustainable.
 >   Swap products when you get to them, and flag any compromise.
+> - **Rows dated before 2026-10-01 were chosen for HIS preferences only.** When reusing one, **search for an
+>   organic/co-op version first** (e.g. organic lemons exist and were missed on 10-01). Only fall back to the
+>   old row if nothing better turns up.
 > - **Label results, 2026-09-30:** clean = Hellmann's, chili crisp, Red Boat fish sauce, harissa, Cento
 >   jalapeños, garlic salt, soy sauce, sesame oil, rice vinegar. **FAILED = Italian herb medley
 >   (contains mustard).** Unverified = Applegate salami ("organic spices"). **Herb blends are a
