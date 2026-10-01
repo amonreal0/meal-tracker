@@ -32,6 +32,10 @@ Rules:
 - **"Pretty on the Inside" (FD's imperfect/ugly produce line) counts as an ethical pick (2026-10-01):**
   it reduces waste of odd-looking produce. **Organic OR Pretty on the Inside are both fine; organic AND
   Pretty on the Inside is best.** Prefer either over plain conventional.
+- **Locally grown matters (2026-10-01): support local farms when FD has them** (e.g. Lancaster Farm
+  Fresh Co-op, Deer Run Farms, Altobelli, Long Island growers, the "Local" tags). But **"local" means
+  regional, not "US over imports":** California vs. Mexico is basically the same carbon footprint, so
+  don't prefer US-grown over imported for its own sake. Only an actual nearby farm earns the bump.
 - **Seafood: sustainable only** — Seafood Watch "Best Choice"/"Good Alternative" or MSC-certified;
   skip conventionally farmed salmon and overfished species.
 - **When FD has no ethical option:** buy the best available and **flag it** in the week file —

@@ -23,6 +23,8 @@ How to use:
 > - **Rows dated before 2026-10-01 were chosen for HIS preferences only.** When reusing one, **search for an
 >   organic/co-op version first** (e.g. organic lemons exist and were missed on 10-01). Only fall back to the
 >   old row if nothing better turns up.
+> - **Local farms (2026-10-01):** a local/regional farm (Lancaster Co-op, Deer Run, Altobelli, Long Island…)
+>   is a plus on top of organic/PotI. Don't treat "US-grown" as local: California ≈ Mexico on carbon.
 > - **Produce ranking (2026-10-01):** organic + "Pretty on the Inside" > either one alone > plain
 >   conventional. Pretty on the Inside (imperfect produce, less waste) is an ethical pick in its own right.
 >   Known PotI items: lemons (`fru_pid_2211004`), limes (`fru_pid_2211005`, $0.59).
