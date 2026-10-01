@@ -16,9 +16,65 @@ Rules:
   including toppings, sauces, condiments, and spice blends.
 - **New packaged products: read the ingredient label before adding to the catalog/cart;** flag
   anything with "spices"/"natural flavors" as unverified-for-mustard.
-- (Kitchen cross-contact policy for allergens already in the house — TBD, see roommate section.)
+- **Allergen-free kitchen (decided 2026-09-30).** No mustard or shellfish products in the house
+  at all, not even for his solo meals. Toss/give away what's on hand (Dijon, oyster sauce, any
+  unverified mayo, shrimp) and never put them on a cart again. Shared cookware makes "separate"
+  unsafe.
+- **Avocado is safe for her** (confirmed, no latex-fruit cross-reaction).
 
-**Ethical no:** pâté / foie gras (force-feeding).
+## Laurita — sourcing ethics (strong preferences)
+- **No:** pâté/foie gras, **veal**, **factory-farmed meat**, **caged eggs** → buy pasture-raised /
+  humane-certified meat and pasture-raised eggs.
+- **Strongly prefers organic produce** (pesticide harm to farmworkers + the environment).
+- **Strongly prefers fair trade (third-party verified), grower co-ops, employee-owned companies,
+  urban farms.** Avoid large corporations, *especially* ones with histories of exploitation abroad.
+  When picking FD products, favor small/co-op/local brands over big-conglomerate brands.
+- **Seafood: sustainable only** — Seafood Watch "Best Choice"/"Good Alternative" or MSC-certified;
+  skip conventionally farmed salmon and overfished species.
+- **When FD has no ethical option:** buy the best available and **flag it** in the week file —
+  don't drop the dish over it. (Allergies are the exception: those never flex.)
+
+## Laurita — taste profile (quiz, 2026-09-30)
+- **Heat: 5/5 — "bring it."** No need to tone down his spicy food; if anything, push it.
+- **Sweet-savory: sometimes.** OK to work in an occasional sweet-savory dish for her — but he
+  still dislikes sweet meat sauces, so keep those rare and check with him.
+- **Cuisines:** loves all of them — Indian/Middle Eastern, East/SE Asian, Italian/Med, Mexican/
+  Latin — and **especially Cuban.** **Tires of pasta easily** — keep pasta nights rare.
+  Wants to try **Syrian food** (mind the eggplant in baba ghanoush/mutabbal; he's not a tahini fan).
+  - Indian food is a **mustard hot zone** (mustard seed/oil, many curry powders & spice blends).
+    Build Indian dishes from single spices with clean labels, never pre-mixed blends unverified.
+- **Proteins:** **loves lentils/chickpeas, black beans, stewed meats, fish.** Chicken, pork, tofu
+  are fine.
+- **Starch: LOVES rice.** Normal appetite. Unlike him, she wants rice/tostones/yuca with meals —
+  so starch sides are back on the plan *for her* (he can still skip).
+- **Likes things he's banned:** **cilantro** and **black beans** → can be served on the side or
+  in her portion; still don't build his dish around them. Likes all his staples (pickled
+  jalapeños, salsa, chipotle, chili crisp, harissa, raw tomato/cucumber/arugula).
+- **Current rotation:** all of it sounds good to her (minus the shellfish/mustard dishes).
+- **Role:** sous-chef/helper, not a solo cook. **Wants leftovers for lunch** → bigger batches on
+  stew nights.
+- **Home for dinner:** varies week to week — **ask during the planning check-in** who's eating
+  which nights.
+- **Fruit:** whatever's in season — **loves peaches, strawberries, pears**; apples good to have.
+  Delighted by unusual/North American native fruit (serviceberries, pawpaws, persimmons, etc.)
+  — grab them when FD's seasonal pages show one.
+
+### Her favorites & nostalgia dishes (high-value — these will land)
+- **Guiso de garbanzo cubano** (her grandma's) — her birthday dinner, "the most nostalgic thing
+  in the world." Latino + rice. **Top-priority recipe to get right.**
+- Cuban grandmother's **lentil stew**; **black beans with rice**.
+- Mom's **simple beef stew**.
+- **Tostones** (LOVES), **yuca** (LOVES, con mojo), homemade **french fries**.
+- Ropa vieja, lechón/mojo pork, Cuban chicken (pollo asado, arroz con pollo, fricasé), maduros.
+
+## Household planning (two eaters, from 2026-09-30)
+- **Default servings → 4** on cook-once nights (two dinners + her lunch leftovers); crispy
+  best-fresh dishes stay at dinner-for-two. **Ask** who's home which nights each week.
+- **Overlap is big:** spicy, savory, legumes, stews, Latin food. Her stews + Cuban dishes slot
+  into the saucy/stew family; tostones/yuca/fries into crispy/air-fryer.
+- **Tensions to manage, not resolve silently:** (1) he limits red meat to ~1×/month, she loves
+  stewed meats (ropa vieja, beef stew) — make beef nights count, lean on pork/chicken/legume
+  stews; (2) black beans/cilantro — hers on the side; (3) her rice vs. his carb-skipping.
 
 ## The person
 - One person, lives in NYC.

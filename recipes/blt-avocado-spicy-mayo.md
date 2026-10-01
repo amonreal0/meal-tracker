@@ -26,6 +26,7 @@ not a snack.
 - Salt and pepper
 
 ### Spicy mayo
+> ⚠️ Mayo must be **verified mustard-free** (Laurita, 2026-09-30); many brands use mustard. Check the label every time.
 - 2 tbsp mayo *(on hand)*
 - 1–2 tsp chili crisp *(on hand)* — or chipotle in adobo, mashed
 - Squeeze of lemon (optional)

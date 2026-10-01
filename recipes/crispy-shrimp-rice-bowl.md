@@ -13,6 +13,8 @@ rating: 2
 
 # Crispy shrimp rice bowl
 
+> ⛔ **RETIRED 2026-09-30: shellfish allergy in the household (Laurita).** Don't plan it or buy shrimp.
+
 Makes **2 servings**. Panko shrimp from the air fryer over rice with cucumber, avocado, and
 spicy mayo — the "crispy rice bowl" energy from the idea bank, built around peak-season shrimp.
 **Best eaten fresh** (breaded shrimp doesn't reheat crispy); like the fish tacos, this is a

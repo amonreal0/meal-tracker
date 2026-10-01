@@ -33,7 +33,7 @@ through garlic and chile, salty-savory sauce, lots of basil, crispy fried egg on
 - ¼ tsp sugar (balances the salt — not for sweetness; skippable)
 - Splash of water
 
-**Oyster-sauce-free version (added 2026-09-28, for a guest allergic to oyster sauce):**
+**Oyster-sauce-free version: NOW THE DEFAULT (2026-09-30, Laurita's shellfish allergy; no oyster sauce in the house).** Fish sauce is OK (fin fish), but buy only brands confirmed shellfish-free, like Red Boat (anchovy + salt):
 drop the oyster sauce; use 2½ tbsp soy + ½ tsp sugar + 1 tsp water mixed with ½ tsp
 cornstarch (for the gloss oyster sauce normally gives). Chili crisp works as the finishing
 spoonful, not as the sauce. Oyster sauce allergy often means a shellfish allergy, so **check

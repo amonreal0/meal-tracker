@@ -4,6 +4,19 @@ Update this when staples are bought or run out. The "starter pantry" below is th
 **target** set recommended for this taste profile; check off / annotate what's actually
 in the apartment.
 
+## ⚠️ ALLERGEN PURGE — to do (2026-09-30)
+Allergen-free kitchen for Laurita (see `profile.md`). **Remove from the apartment:**
+- [ ] **Dijon mustard** (Grey Poupon) and any other mustard
+- [ ] **Oyster sauce** (Lee Kum Kee)
+- [ ] **Hellmann's mayo**: check the label for mustard / "natural flavors" / "spices", and toss it
+  unless it's confirmed mustard-free
+- [ ] **Frozen shrimp** or any shellfish in the freezer
+- [ ] **Re-check labels** on: chili crisp (some contain shrimp), harissa, chipotles in adobo,
+  Jalapa Jar salsa, pickled jalapeños, salami/sausage, hot sauces, spice blends (garam
+  masala, Italian medley). Anything with "spices"/"natural flavors" and no confirmed
+  mustard-free status goes.
+- [ ] Banana/kiwi/eggplant: toss any that are on hand.
+
 ## Current fridge (as of 2026-06-21, his report)
 - **Bread**, **scallions**, **lemons**, **1 onion**, **celery**, **garlic**, **pickled jalapeños**.
 - **2 heads broccoli** — unused, no planned purpose. Don't rebuy; use up or toss. (See note: broccoli retired.)

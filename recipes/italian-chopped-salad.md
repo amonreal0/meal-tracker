@@ -28,7 +28,7 @@ put them in.)*
 ### Dressing
 - 3 tbsp olive oil *(on hand)*
 - 1½ tbsp **pickled-jalapeño brine** (his preferred acid here — red wine vinegar is the fallback)
-- 1 tsp Dijon (optional)
+- ~~1 tsp Dijon~~ **No mustard, ever (Laurita's allergy, 2026-09-30).** Salami must be verified mustard-free too.
 - ½ tsp dried oregano / Italian medley *(on hand)*
 - Salt and pepper
 

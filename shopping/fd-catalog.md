@@ -10,6 +10,17 @@ How to use:
   ID) so next time is instant.
 - If a chosen product was bad (wilted, wrong size, discontinued), note it and pick a new one.
 
+> ⚠️ **2026-09-30: the household now includes Laurita (see `profile.md`).**
+> - **BANNED, never add:** Dijon / any mustard, oyster sauce, shrimp / any shellfish, banana,
+>   kiwi, eggplant.
+> - **Every row below predates the allergy rule and is UNVERIFIED for mustard.** Before you reuse
+>   a row for a packaged item (mayo, salami, sausage, sauces, spice blends, chips), read the label
+>   on FD and mark the row `✅ mustard-free (checked YYYY-MM-DD)`. US labels don't have to declare
+>   mustard, so "spices" or "natural flavors" means unverified.
+> - **Sourcing:** prefer organic, pasture-raised, fair-trade, co-op/small brands; avoid big
+>   conglomerates (e.g. Hellmann's/Unilever, Grey Poupon/Kraft Heinz). Seafood must be sustainable.
+>   Swap products when you get to them, and flag any compromise.
+
 | Generic item | FreshDirect product (brand / size) | Price | Notes |
 |---|---|---|---|
 | Extra-firm tofu | Nasoya Organic Extra Firm Tofu, 14 oz | $4.19 | good single-block size |

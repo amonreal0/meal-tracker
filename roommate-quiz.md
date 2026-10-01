@@ -1,5 +1,7 @@
 # Roommate food quiz
 
+> ✅ **Answered 2026-09-30 (Laurita).** The results are in `profile.md` (allergies at the top and the Laurita sections) and in `recipes/_ideas.md`.
+
 Send this to the roommate (~5 min). Answers go straight under each question — short is fine.
 Once answered, they become a roommate section in `profile.md`.
 
