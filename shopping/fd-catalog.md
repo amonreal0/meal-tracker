@@ -23,6 +23,8 @@ How to use:
 > - **Rows dated before 2026-10-01 were chosen for HIS preferences only.** When reusing one, **search for an
 >   organic/co-op version first** (e.g. organic lemons exist and were missed on 10-01). Only fall back to the
 >   old row if nothing better turns up.
+> - **Dairy (2026-10-01): pasture-raised/grass-fed preferred**; organic is the fallback. Existing dairy rows
+>   (Fage yogurt, Wild Harvest provolone, Breakstone's sour cream, BelGioioso parm) predate this, so re-search.
 > - **Local farms (2026-10-01):** a local/regional farm (Lancaster Co-op, Deer Run, Altobelli, Long Island…)
 >   is a plus on top of organic/PotI. Don't treat "US-grown" as local: California ≈ Mexico on carbon.
 > - **Produce ranking (2026-10-01):** organic + "Pretty on the Inside" > either one alone > plain
@@ -158,7 +160,7 @@ Branzino fillet steady at $33.59/lb (~7.3–7.7 oz actual = $16.80). Cherries st
 | Chickpeas (canned), replaces Goya | **Brad's Organic Garbanzo Beans**, 15.5 oz (`gro_pid_4016482`) | $2.49 | ✅ chickpeas, water, sea salt (2026-10-01) |
 | Crushed tomatoes (small can) | **Colavita Italian Crushed Tomatoes, No Salt Added**, 13.76 oz (`gro_pid_4016864`) | $1.79 | ✅ tomatoes, puree, citric acid. Not organic. Cento (incl. Cento Organic) is 28 oz only; Cento labels are also clean |
 | Chicken broth, replaces Pacific | **Bonafide Provisions Organic Chicken Bone Broth, No Salt Added**, 16.9 oz (`gro_pid_4020066`) | $9.29 | ✅ every ingredient listed (2026-10-01). **FAILED:** Imagine Organic Low Sodium ("organic spices," "natural chicken flavor"), FreshDirect Chicken Stock ("natural flavors"). Pacific not re-checked, and it's Campbell's-owned anyway |
-| Greek yogurt | Fage TOTAL 2% Plain 16 oz (`dai_fage_2ygrt`) | $4.49 | ✅ mustard-free (checked 2026-10-01) |
+| Greek yogurt | Fage TOTAL 2% Plain 16 oz (`dai_fage_2ygrt`) | $4.49 | ✅ mustard-free (checked 2026-10-01). ⚠️ **Not pasture-raised.** Laurita prefers pasture-raised dairy, so search for a pasture-raised/grass-fed plain Greek yogurt next time and replace this row |
 | Jasmine rice | **Lundberg Organic California White Jasmine Rice, 2 lb** (`gro_pid_4017234`) | $10.19 | family farm. **FD's page title wrongly says "Basmati"; the label says jasmine.** The $4.79 Lundberg (`gro_pid_4020399`) is a ready-to-heat pouch, NOT dry rice |
 | Brown lentils, replaces Goya | **Bob's Red Mill Brown Lentils**, 27 oz (`gro_pid_4011338`) | $7.79 | employee-owned. ✅ facility: tree nuts/soy/wheat/milk only |
 | Olive oil | **O-Live & Co. Organic Extra Virgin Olive Oil**, 33 fl oz (`gro_pid_4009625`) | $24.99 (sale; reg $29.49) | organic, ~1 L. O California organic is only 8.5 oz |

@@ -44,7 +44,7 @@ win). **Navel oranges, limes and garlic are conventional because I reused old ca
 searching for organic.** The lemons are "Pretty on the Inside," which the household counts as an
 ethical pick (less waste), so they're fine (user, 2026-10-01). Next time look for organic PotI. PotI
 limes (`fru_pid_2211005`) existed and would have been better than the plain limes. The original
-"no organic option surfaced" note was wrong. Plantains: not checked either. Fage and Bonafide are mid-size brands, not co-ops.
+"no organic option surfaced" note was wrong. Plantains: not checked either. Fage and Bonafide are mid-size brands, not co-ops. **Fage isn't pasture-raised** (that preference was learned after the order, 2026-10-01).
 
 **Not bought (on hand):** sumac (Laurita's), 1 can chickpeas, cumin, smoked paprika, red pepper
 flakes, árbol, canola, harissa, pickled jalapeños, eggs.
