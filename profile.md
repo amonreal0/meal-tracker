@@ -1,5 +1,25 @@
 # Profile
 
+## ⚠️ HOUSEHOLD ALLERGIES — Laurita (roommate, cooking for her from 2026-09-30)
+**Severe. Traces are dangerous. These override every other preference in this file.**
+
+| Allergen | Notes |
+|---|---|
+| **Mustard** | **Zero tolerance, any trace.** Includes Dijon, mustard seed/powder/oil, and *hidden* mustard: some mayo brands (emulsifier), vinaigrettes/bottled dressings, deli meats & salami, sausages, hot dogs, pickles/pickling spice, curry powders & Indian spice blends, ketchup/BBQ, some hot sauces. **In the US mustard is NOT a required-declared allergen** — it can hide under "spices" or "natural flavors." Any product with those vague words is unsafe unless the maker confirms mustard-free. |
+| **Shellfish** | Shrimp, crab, lobster, scallops, clams, mussels, oysters — **and oyster sauce** (also shrimp paste, some chili crisps/XO sauce, some fish sauces). **Fin fish (branzino, salmon, cod) is fine.** |
+| **Banana** | Including banana in smoothies, baked goods, flavorings. |
+| **Kiwi** | |
+| **Eggplant** | Watch baba ganoush, some curries/stews, ratatouille, moussaka, caponata. |
+
+Rules:
+- **Every recipe and every grocery item cooked for her gets checked against this table** —
+  including toppings, sauces, condiments, and spice blends.
+- **New packaged products: read the ingredient label before adding to the catalog/cart;** flag
+  anything with "spices"/"natural flavors" as unverified-for-mustard.
+- (Kitchen cross-contact policy for allergens already in the house — TBD, see roommate section.)
+
+**Ethical no:** pâté / foie gras (force-feeding).
+
 ## The person
 - One person, lives in NYC.
 - Cooks **3 dinners/week**, wants this to be a sustainable long-term rotation.

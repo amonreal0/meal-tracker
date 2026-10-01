@@ -122,6 +122,10 @@ Answer by querying recipe frontmatter and `_ideas.md`. This is the whole point o
 file structure — no scrolling required.
 
 ## Conventions
+- **⚠️ Allergy gate (2026-09-30):** the household includes Laurita, who has **severe, trace-level
+  allergies (mustard, shellfish, banana, kiwi, eggplant)** — see the top of `profile.md`. Every
+  plan, recipe, and cart must be checked against that table before it's proposed. Never treat
+  this as a preference to trade off.
 - Dates are absolute (`2026-06-07`), never "today"/"next week", since files outlive sessions.
 - Recipes default to **2 servings** (cook once, eat twice) unless noted.
 - When you add a new recipe, copy the frontmatter shape from an existing one in `recipes/`.
