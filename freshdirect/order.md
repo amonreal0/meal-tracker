@@ -40,8 +40,10 @@ table (no mustard, no unlisted "spices"/"natural flavors," no shellfish).
 \* by weight, estimated
 
 **Compromises flagged (per "best available, flag it"):** Colavita tomatoes aren't organic (size
-win). **Navel oranges, limes, lemons and garlic are conventional because I reused old catalog
-rows without searching for organic. Organic lemons WERE available (user, 2026-10-01).** The original
+win). **Navel oranges, limes and garlic are conventional because I reused old catalog rows without
+searching for organic.** The lemons are "Pretty on the Inside," which the household counts as an
+ethical pick (less waste), so they're fine (user, 2026-10-01). Next time look for organic PotI. PotI
+limes (`fru_pid_2211005`) existed and would have been better than the plain limes. The original
 "no organic option surfaced" note was wrong. Plantains: not checked either. Fage and Bonafide are mid-size brands, not co-ops.
 
 **Not bought (on hand):** sumac (Laurita's), 1 can chickpeas, cumin, smoked paprika, red pepper

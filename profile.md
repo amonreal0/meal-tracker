@@ -29,6 +29,9 @@ Rules:
 - **Strongly prefers fair trade (third-party verified), grower co-ops, employee-owned companies,
   urban farms.** Avoid large corporations, *especially* ones with histories of exploitation abroad.
   When picking FD products, favor small/co-op/local brands over big-conglomerate brands.
+- **"Pretty on the Inside" (FD's imperfect/ugly produce line) counts as an ethical pick (2026-10-01):**
+  it reduces waste of odd-looking produce. **Organic OR Pretty on the Inside are both fine; organic AND
+  Pretty on the Inside is best.** Prefer either over plain conventional.
 - **Seafood: sustainable only** — Seafood Watch "Best Choice"/"Good Alternative" or MSC-certified;
   skip conventionally farmed salmon and overfished species.
 - **When FD has no ethical option:** buy the best available and **flag it** in the week file —

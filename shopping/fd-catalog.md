@@ -23,6 +23,9 @@ How to use:
 > - **Rows dated before 2026-10-01 were chosen for HIS preferences only.** When reusing one, **search for an
 >   organic/co-op version first** (e.g. organic lemons exist and were missed on 10-01). Only fall back to the
 >   old row if nothing better turns up.
+> - **Produce ranking (2026-10-01):** organic + "Pretty on the Inside" > either one alone > plain
+>   conventional. Pretty on the Inside (imperfect produce, less waste) is an ethical pick in its own right.
+>   Known PotI items: lemons (`fru_pid_2211004`), limes (`fru_pid_2211005`, $0.59).
 > - **Label results, 2026-09-30:** clean = Hellmann's, chili crisp, Red Boat fish sauce, harissa, Cento
 >   jalapeños, garlic salt, soy sauce, sesame oil, rice vinegar. **FAILED = Italian herb medley
 >   (contains mustard).** Unverified = Applegate salami ("organic spices"). **Herb blends are a
