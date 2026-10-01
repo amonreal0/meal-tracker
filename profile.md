@@ -42,6 +42,8 @@ Rules:
 - **Dairy: pasture-raised (2026-10-01)** for yogurt, cheese, milk, butter, sour cream. Look for
   pasture-raised / grass-fed labels; a local dairy is a bonus. Organic is the fallback (it requires
   some pasture time, but less).
+- **Rice: grown in the US Midwest / Great Plains / Southeast (2026-10-01)**: i.e. the Arkansas /
+  Missouri / Mississippi / Louisiana / Texas rice belt, **not California**. FD options are thin (see catalog).
 - **Seafood: sustainable only** — Seafood Watch "Best Choice"/"Good Alternative" or MSC-certified;
   skip conventionally farmed salmon and overfished species.
 - **When FD has no ethical option:** buy the best available and **flag it** in the week file —

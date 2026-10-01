@@ -177,3 +177,10 @@ Branzino fillet steady at $33.59/lb (~7.3–7.7 oz actual = $16.80). Cherries st
 | Avocados RTE (organic, **household default**) | **Organic Hass Avocados, Ready-to-Eat**, 2 ct (`fru_dmy_10115`) | $5.99 (sale; reg $6.99) | his RTE rule + her organic preference |
 | Pears | **Organic Bartlett Pear** (`fru_pid_2210682`) | **any 4 organic pears for $4** | Laurita's love. Buy 4 for the promo |
 | Grapes (organic) | Organic Green Seedless Grapes, ~2.25 lb (`grp_grnsdls_or`), $5.99/lb | ~$13.48 | by weight, simple add |
+
+<!-- 2026-10-01 rice-origin search (Laurita: US Midwest/Great Plains/Southeast rice, not California) -->
+| Rice: regional US (**preferred over Lundberg**) | **RiceSelect Organic Jasmati** (`gro_pid_4021398`), ~32 oz | $13.59 | ✅ label: organic Jasmati rice only. "American-grown"; RiceSelect is a Texas (Gulf Coast) rice brand, but **FD doesn't state the state**, and the brand is owned by Riviana/Ebro Foods (multinational). Best FD match for origin + organic. Non-organic: **RiceSelect Jasmati** (`gro_rcslct_jsmti`, $7.99, 32 oz); Texmati basmati (`gro_rcslct_texbsmti`, $7.29) |
+| Rice: other US-grown on FD | Goya Canilla Extra Long Grain (`gro_pid_4020979`, $5.99) | — | "grown in the United States," state unknown; enriched; big brand. Carolina (Riviana) gives no origin |
+| Rice: NOT on FD | Lowell Farms (TX organic family-farm jasmine), Riceland (AR farmer co-op), Della (AR), Konriko (LA), Mahatma | — | searched 2026-10-01, none carried. Lowell Farms is the ideal fit (regional + organic + family farm) if bought outside FD |
+| Rice: California (avoid for her) | Lundberg (all) | — | the 10-01 order's jasmine is Lundberg/California, bought before this preference |
+
