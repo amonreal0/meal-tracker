@@ -39,6 +39,9 @@ Rules:
 - **Coffee and chocolate: fair trade (2026-10-01).** Third-party certified (Fair Trade USA/Fairtrade
   International, or a verified direct-trade/co-op brand). These are the classic exploitation-prone
   supply chains, so this is the category where her fair-trade preference matters most.
+- **Dairy: pasture-raised (2026-10-01)** for yogurt, cheese, milk, butter, sour cream. Look for
+  pasture-raised / grass-fed labels; a local dairy is a bonus. Organic is the fallback (it requires
+  some pasture time, but less).
 - **Seafood: sustainable only** — Seafood Watch "Best Choice"/"Good Alternative" or MSC-certified;
   skip conventionally farmed salmon and overfished species.
 - **When FD has no ethical option:** buy the best available and **flag it** in the week file —
