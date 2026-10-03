@@ -48,8 +48,12 @@ tostones are the starch, so skip the rice; she can have rice on the side.
    with oil.
 4. **Chicken (while the tostones finish):** pull the thighs from the marinade and pat them
    *dry*. Sear in a hot oiled skillet ~5–6 min per side, until charred at the edges and 175°F
-   inside. (Or broil.) Rest 5 min and slice. Briefly boil the leftover raw marinade if you want
-   a pan sauce. Never reuse it uncooked.
+   inside. (Or broil.) Rest 5 min and slice.
+   **Pan sauce (optional, ~4 min):** pour off excess fat, add the leftover marinade + a splash
+   of broth or water to the same skillet, and scrape up the browned bits. Bring it to a **full
+   rolling boil for at least 1 min** (it touched raw chicken), then reduce 2–3 min until it
+   coats a spoon. Off heat: fresh lime squeeze, taste for salt. Spoon over the sliced chicken.
+   Different from the reserved raw mojo: cooked = mellow and savory, raw = sharp dip.
 5. **Tostones, round 2:** air-fry at **400°F for 8–10 min**, flipping once, until golden and
    crisp. Salt *immediately*.
 6. Plate: chicken + tostones + reserved mojo to dip + lime + raw onion slivers.
